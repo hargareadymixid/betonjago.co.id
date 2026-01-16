@@ -3,7 +3,8 @@ languageCode = "id"
 title = "Betonjago.co.id | Penyediaan beton readymix berkualitas tinggi untuk berbagai kebutuhan pengecoran Anda"
 theme = "saeseen-hugo"
 summaryLength = 25
-paginate = 6
+[pagination]
+  pagerSize = 6
 
 [permalinks]
   post = "/:slug/"
