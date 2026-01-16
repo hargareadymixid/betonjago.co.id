@@ -1,0 +1,153 @@
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary }}",
+  {{ if .Params.price }}
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "IDR",
+    "lowPrice": "{{ index .Params.price 0 }}",
+    "highPrice": "{{ index .Params.price 0 }}",
+    "availability": "https://schema.org/InStock"
+  },
+  {{ end }}
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "{{ .Site.Params.name }}",
+    "description": "{{ .Site.Params.description }}",
+    {{ if .Site.Params.logo }}
+    "image": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}",
+    "logo": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}",
+    {{ end }}
+    "telephone": "{{ .Site.Params.phone }}",
+    "email": "{{ .Site.Params.email }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ .Site.Params.address }}",
+      "addressLocality": "Bogor",
+      "addressRegion": "Jawa Barat",
+      "addressCountry": "ID"
+    },
+    "url": "{{ .Site.BaseURL }}",
+    "priceRange": "$$"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "{{ if .Params.focus_keyphrase }}{{ .Params.focus_keyphrase }}{{ else }}Jakarta{{ end }}"
+  },
+  {{ if .Params.tags }}
+  "keywords": "{{ delimit .Params.tags ", " }}",
+  {{ end }}
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary }}",
+  "image": "{{ if .Params.image }}{{ .Site.BaseURL }}{{ .Params.image }}{{ else }}{{ .Site.BaseURL }}{{ .Site.Params.banner }}{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author | default "Admin" }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.name }}",
+    {{ if .Site.Params.logo }}
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
+    }
+    {{ end }}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {{ if .Section }}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Section | humanize }}",
+      "item": "{{ .Site.BaseURL }}{{ .Section }}/"
+    },
+    {{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ if .Section }}3{{ else }}2{{ end }},
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Params.name }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  {{ if .Site.Params.logo }}
+  "logo": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}",
+  {{ end }}
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{ .Site.Params.phone }}",
+    "contactType": "Customer Service",
+    "email": "{{ .Site.Params.email }}",
+    "availableLanguage": "Indonesian"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ .Site.Params.address }}",
+    "addressLocality": "Bogor",
+    "addressRegion": "Jawa Barat",
+    "postalCode": "16128",
+    "addressCountry": "ID"
+  },
+  "sameAs": [
+    "{{ .Site.Params.whatsapp }}"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.name }}"
+  }
+}
+</script>
+{{ end }}

@@ -1,0 +1,286 @@
+{{- if .IsPage }}
+{{- if eq .Params.type "service" }}
+<!-- Service Schema dengan BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "{{ .Title }}",
+  "description": "{{ .Summary | plainify | truncate 160 }}",
+  "image": "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}/images/admin/featured-image.png{{ end }}",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "{{ .Site.Params.hero_title }}",
+    "image": "{{ .Site.Params.logo | absURL }}",
+    "telephone": "{{ .Site.Params.phone }}",
+    "email": "{{ .Site.Params.email }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ .Site.Params.address }}",
+      "addressLocality": "Bekasi",
+      "addressRegion": "Jawa Barat",
+      "postalCode": "17426",
+      "addressCountry": "ID"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "{{ .Site.Params.geo_latitude }}",
+      "longitude": "{{ .Site.Params.geo_longitude }}"
+    },
+    "url": "{{ .Site.BaseURL }}",
+    "priceRange": "Rp {{ .Site.Params.base_price }} - Rp {{ add .Site.Params.base_price .Site.Params.price_range }}"
+  },
+  {{- $randomServiceType := index .Site.Params.service_types (mod (now.Unix) (len .Site.Params.service_types)) -}}
+  "serviceType": "{{ $randomServiceType }}",
+  {{- $basePrice := .Site.Params.base_price -}}
+  {{- $priceRange := .Site.Params.price_range -}}
+  {{- $maxPrice := add $basePrice $priceRange -}}
+  {{- $minPrice := sub $basePrice $priceRange -}}
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "IDR",
+    "lowPrice": "{{ printf "%.2f" (div $minPrice 1.0) }}",
+    "highPrice": "{{ printf "%.2f" (div $maxPrice 1.0) }}",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ .Permalink }}"
+  },
+  "areaServed": [
+    {{ range $index, $area := .Site.Params.area_served }}
+      {{ if $index }},{{ end }}{
+        "@type": "City",
+        "name": "{{ $area }}"
+      }
+    {{ end }}
+  ],
+  {{- $rating := add 4 (div (math.Mod (mul (now.Unix) 11) 10) 10) -}}
+  {{- $ratingCount := add 50 (math.Mod (mul (now.Unix) 13) 951) -}}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $rating }}",
+    "ratingCount": "{{ $ratingCount }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{- else if eq .Params.type "product" }}
+<!-- Product Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ .Title }}",
+  "description": "{{ .Summary | plainify | truncate 160 }}",
+  "image": "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}/images/admin/featured-image.png{{ end }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ .Site.Title }}"
+  },
+  {{- $sku := printf "SKU-%d" (add 1000 (math.Mod (now.Unix) 9000)) -}}
+  "sku": "{{ $sku }}",
+  {{- $basePrice := .Site.Params.base_price -}}
+  {{- $priceRange := .Site.Params.price_range -}}
+  {{- $maxPrice := add $basePrice $priceRange -}}
+  {{- $minPrice := sub $basePrice $priceRange -}}
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "IDR",
+    "lowPrice": "{{ printf "%.2f" (div $minPrice 1.0) }}",
+    "highPrice": "{{ printf "%.2f" (div $maxPrice 1.0) }}",
+    "offerCount": "{{ len .Site.Params.materials }}",
+    "url": "{{ .Permalink }}",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}"
+    }
+  },
+  {{- $randomMaterial := index .Site.Params.materials (mod (now.Unix) (len .Site.Params.materials)) -}}
+  "material": "{{ $randomMaterial }}",
+  {{- $randomCategory := index .Site.Params.categories (mod (now.Unix) (len .Site.Params.categories)) -}}
+  "category": "{{ $randomCategory }}",
+  {{- $rating := add 4 (div (math.Mod (mul (now.Unix) 11) 10) 10) -}}
+  {{- $ratingCount := add 50 (math.Mod (mul (now.Unix) 13) 951) -}}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $rating }}",
+    "ratingCount": "{{ $ratingCount }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+
+{{- else }}
+<!-- Default Article Schema untuk halaman biasa -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Summary | plainify | truncate 160 }}",
+  "image": "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}/images/admin/featured-image.png{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.logo | absURL }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+{{- end }}
+
+<!-- BreadcrumbList Schema untuk semua halaman post -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{- if .Section -}}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Section | humanize }}",
+      "item": "{{ .Site.BaseURL }}{{ .Section }}/"
+    }
+    {{- end -}}
+    ,{
+      "@type": "ListItem",
+      "position": {{ if .Section }}3{{ else }}2{{ end }},
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+
+{{- end }}
+
+{{- if .IsHome }}
+<!-- Organization Schema untuk Homepage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ .Site.Params.hero_title }}",
+  "image": "{{ .Site.Params.logo | absURL }}",
+  "description": "{{ .Site.Params.meta_description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "telephone": "{{ .Site.Params.phone }}",
+  "email": "{{ .Site.Params.email }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ .Site.Params.address }}",
+    "addressLocality": "Bekasi",
+    "addressRegion": "Jawa Barat",
+    "postalCode": "17426",
+    "addressCountry": "ID"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{{ .Site.Params.geo_latitude }}",
+    "longitude": "{{ .Site.Params.geo_longitude }}"
+  },
+  "areaServed": [
+    {{ range $index, $area := .Site.Params.area_served }}
+      {{ if $index }},{{ end }}{
+        "@type": "City",
+        "name": "{{ $area }}"
+      }
+    {{ end }}
+  ],
+  "openingHours": "{{ .Site.Params.opening_hours }}",
+  "priceRange": "Rp {{ .Site.Params.base_price }} - Rp {{ add .Site.Params.base_price .Site.Params.price_range }}",
+  "paymentAccepted": "{{ delimit .Site.Params.payment_methods ", " }}",
+  "makesOffer": [
+    {{ range $index, $material := .Site.Params.materials }}
+      {{ if $index }},{{ end }}
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "{{ $material }}"
+        }
+      }
+    {{ end }}
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "telephone": "{{ .Site.Params.phone }}",
+    "email": "{{ .Site.Params.email }}",
+    "availableLanguage": "Indonesian",
+    "areaServed": "ID"
+  },
+  "sameAs": [
+    "https://wa.me/{{ .Site.Params.whatsappNumber }}"
+  ]
+}
+</script>
+
+<!-- WebSite Schema untuk Homepage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.meta_description }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.companyName }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.logo | absURL }}"
+    }
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- ItemList Schema untuk daftar layanan/produk di Homepage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {{ range $index, $page := .Pages }}
+      {{ if lt $index 10 }}
+        {{ if $index }},{{ end }}
+        {
+          "@type": "ListItem",
+          "position": {{ add $index 1 }},
+          "url": "{{ $page.Permalink }}",
+          "name": "{{ $page.Title }}"
+        }
+      {{ end }}
+    {{ end }}
+  ]
+}
+</script>
+{{- end }}

@@ -1,0 +1,22 @@
+<div class="thumbnails recentworks">
+    <div class="lead text-center">
+           {{ .Content }}
+    </div>
+    {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
+    {{ range $index, $area := $data }}
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center">
+         <div class="panel panel-cta">
+            <div class="panel-body">
+                <span class="text-center">
+                {{ $len := sub (len .items) 1 }}
+                {{ range $i, $item := where .items "id" .index }}
+                    <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive">
+                    <a href="{{ .url }}" class="btn btn-primary btn-lg">{{ .name }}</a>
+                    {{ if gt $len $i }} | {{ end }}
+                {{ end }}
+                </span>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>

@@ -1,0 +1,72 @@
+baseURL = "https://betonjago.co.id"
+languageCode = "en"
+title = "Beton Jago | Penyediaan beton readymix berkualitas tinggi untuk berbagai kebutuhan konstruksi Anda"
+theme = "hugo-bangunan"
+summaryLength = "35"
+paginate = "10"
+
+[permalinks]
+    jakarta =":slug"
+[params]
+    name = "Beton Jago"
+    description = "Kualitas, Ketepatan, dan Kepercayaan dalam Setiap Pengecoran"
+    email = "cshargareadymixid@gmail.com"
+    phone = "0812-9435-4959"
+    telepon = "//+6281294354959"
+    whatsapp = "//api.whatsapp.com/send?phone=6281294354959&text=*Nama*%20%3A%0A*Alamat*%20%3A%0A*No-Tlp*%20%3A%0A*Pesan?*%20%3A"
+    address = "Payangan Jl. DIman RT.004/RW.007, Jatisari, Jatiasih, Bekasi, Jawa Barat 17426"
+    year = 2024
+    avatar = "images/hargabetoncor-512x512.png"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_bangunan_gelap.jpg"
+    favicon = "images/hargabetoncor-512x512.png"
+    logo = "images/logo-web-harga-beton-cor.png"
+    logoclass = "responsive float-left"
+    DateForm = "2 January 2006"
+    author = "Kang Utus"
+    tocMinWordCount = 500
+
+    showSubheader = true
+    showRecentWorks = true
+    enableNextPrevPages = true
+
+    showFooterContact = true
+    showFooterTextWidget = true
+    enableWhatApps = true
+    enableTelepon = true
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "jakarta"
+    url = "/categories/jakarta/"
+    weight = 5
+
+[[menu.main]]
+    name = "bogor"
+    url = "/categories/bogor/"
+    weight = 5
+
+[[menu.main]]
+    name = "depok"
+    url = "/categories/depok/"
+    weight = 5
+
+[[menu.main]]
+    name = "tangerang"
+    url = "/categories/tangerang/"
+    weight = 5
+
+[[menu.main]]
+    name = "bekasi"
+    url = "/categories/bekasi/"
+    weight = 5
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+    ordered = false

@@ -1,0 +1,265 @@
+baseURL = "https://betonjago.co.id/"
+languageCode = "id"
+title = "Betonjago.co.id | Penyediaan beton readymix berkualitas tinggi untuk berbagai kebutuhan pengecoran Anda"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Kualitas, Ketepatan, dan Kepercayaan dalam Setiap Pengecoran"
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/beton-jago-1.png"
+  logo_amp = "/images/logo/favicon-beton-jago.png"
+  footer_logo = "/images/logo/beton-jago-2.png"
+  favicon = "/images/logo/favicon-beton-jago.png"
+  featured_image = "/images/admin/featured-image.png"
+  author = "K. Utus"
+  telepon = "//+6281294354959"
+  whatsapp = "//api.whatsapp.com/send?phone=6285179581745&text=*Halo Betonjago.co.id*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+# Schema settings
+base_price = 750000
+price_range = 2000000
+categories = ["Beton Readymix", "Concrete Readymix", "Beton Curah dan Molen"]
+payment_methods = ["COD (Cash On Delivery)", "Transfer Bank", "Bayar DP 50%", "Transfer Setelah Pengiriman", "Pembayaran Bertahap", "Transfer Setelah Proyek Selesai"]
+area_served = ["Jakarta", "Bogor", "Depok"]
+keywords = ["jual readymix beton", "beton truk molen", "penyedia beton cor", "beton kualitas unggul", "harga beton readymix", "beton curah berkualitas"]
+free_shipping = true
+
+# Product
+materials = [
+  "Readymix B0 (Ekonomis)",
+  "Readymix K225 (Tahan Lama)",
+  "Readymix K250 (Bangunan Perumahan)",
+  "Readymix K300 (Proyek Komersial)",
+  "Readymix K350 (Konstruksi Berkekuatan Tinggi)"
+]
+return_policies = [
+  "Pengembalian dalam 1 hari jika kualitas tidak sesuai pesanan.",
+  "Penolakan barang jika tidak memenuhi standar mutu beton.",
+  "Penggantian gratis jika pesanan tidak sesuai spesifikasi."
+]
+
+# Service
+service_types = [
+  "Sewa Concrete Pump Harian",
+  "Sewa Concrete Pump Mingguan",
+  "Sewa Concrete Pump Long Boom",
+  "Sewa Concrete Pump Mini",
+  "Sewa Pompa Beton Master Long Boom"
+]
+cancellation_policies = [
+  "Pembatalan dapat dilakukan jika tidak sesuai kesepakatan awal.",
+  "Pengembalian dana penuh jika hasil tidak memuaskan.",
+  "Revisi tanpa biaya jika layanan tidak mencapai hasil optimal."
+]
+service_output = "Proyek pengecoran lebih efektif dengan concrete pump berteknologi tinggi, mempercepat waktu dan memaksimalkan kualitas hasil"
+
+# Informasi Perusahaan
+companyName = "CV. Beton Jago"
+aboutUs = "Kami adalah penyedia beton readymix dan layanan pengecoran menggunakan truk molen dan concrete pump, hadir untuk memenuhi kebutuhan pengecoran Anda dengan mutu standar nasional dan pelayanan yang cepat serta profesional."
+companyWeb = "betonjago.co.id"
+
+# Informasi Kontak
+phone = "0812-9435-4959"
+email = "cshargareadymixid@gmail.com"
+address = "Perum Babakansari V Kp cilibende Babakan Kecamatan Bogor Tengah"
+whatsappNumber = "6285179581745"
+
+# Hero Section
+hero_image = "/images/admin/bg_readymix_gelap.png"
+hero_title = "Layanan Pengecoran Profesional dan Sewa Concrete Pump"
+hero_description = "Penyedia jasa pengecoran readymix beton berkualitas dengan armada truk molen dan concrete pump untuk berbagai proyek konstruksi. Kami siap membantu Anda dengan pengecoran yang efektif dan hasil yang tahan lama."
+hero_cta_text = "Lihat Lebih Lanjut"
+services_cta_text = "Telusuri Katalog Readymix"
+
+# Footer Section
+footer_about_title = "Alasan Memilih Kami"
+footer_about_description = "Kami memberikan layanan beton readymix bermutu dengan beragam pilihan kualitas yang disesuaikan dengan kebutuhan pengecoran Anda. Layanan kami meliputi pengiriman cepat dan konsultasi gratis untuk memastikan proyek Anda berjalan sesuai rencana."
+
+footer_services_title = "Tentang Kami"
+footer_contact_title = "Hubungi Kami"
+footer_bottom_text = "@2026 BJ. Semua Hak Cipta Dilindungi."
+
+# Testimonials Section
+testimonials_title = "Apa Pendapat Klien Kami"
+
+[[params.footer_services]]
+text = "betonjago.co.id adalah penyedia beton readymix dan layanan pengecoran berkualitas untuk berbagai proyek, mulai dari konstruksi rumah hingga bangunan komersial. Kami mengutamakan kualitas dan ketepatan waktu pengiriman, sehingga proyek pengecoran Anda berjalan lancar dan memenuhi standar terbaik."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Perum Babakansari V Kp cilibende Babakan Kecamatan Bogor Tengah"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "0812-9435-4959"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "cshargareadymixid@gmail.com"
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar1.png"
+name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
+message = "{Saya {menggunakan|memanfaatkan|memakai} layanan readymix beton dari betonjago.co.id untuk {proyek|pembangunan|konstruksi} rumah saya, dan hasilnya {sangat memuaskan|luar biasa|menakjubkan}. Beton yang {disediakan|dikirim|diberikan} {berkualitas tinggi|bermutu|premium} dan proses pengecorannya {sangat rapi|tertata|berjalan lancar}.|Layanan readymix beton dari betonjago.co.id {membantu saya|memenuhi kebutuhan saya|sangat membantu} dalam proyek rumah saya. Beton yang {disediakan|dikirim} {berkualitas|bermutu|premium} dan proses pengecorannya {rapi|lancar|bersih}.}"
+response = "{Terima kasih atas {kepercayaan|dukungan|pilihan} Anda! Kami senang dapat {menyediakan|menghadirkan|memenuhi} readymix beton {berkualitas|premium|bermutu tinggi} untuk {proyek|pembangunan} Anda.|Kami {sangat menghargai|berterima kasih atas} kepercayaan Anda. Terima kasih telah memilih readymix beton kami!}"
+rating = 4
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar2.png"
+name = "{Siti|Dewi|Rina|Maya|Lina|Sari|Fitri|Nur|Diah|Ayu}"
+message = "{betonjago.co.id {sangat membantu|mempermudah|mengarahkan} dalam memenuhi kebutuhan beton untuk proyek saya. Produk yang {saya pesan|saya terima|dikirim} {berkualitas|bermutu|sesuai standar} dan sesuai dengan {spesifikasi|kebutuhan|persyaratan} yang {dibutuhkan|diharapkan}.|Saya terbantu oleh betonjago.co.id dalam memenuhi kebutuhan beton saya. Produknya {berkualitas|bermutu tinggi|premium} dan sesuai dengan {spesifikasi|kebutuhan} proyek.}"
+response = "{Kami sangat menghargai ulasan Anda. {Senang mendengar|Bahagia mengetahui} bahwa Anda puas dengan layanan readymix dari kami.|Terima kasih atas {ulasan|masukan} Anda! Kami {gembira|senang} Anda puas dengan layanan dan produk kami.}"
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar3.png"
+name = "{Joko|Bambang|Hadi|Tono|Gilang|Bayu|Faisal|Rizal|Ali|Ahmad}"
+message = "{Layanan readymix beton dari betonjago.co.id {sangat cepat|efisien|responsif} dan {berkualitas|tepat waktu|bermutu}. Beton yang {disediakan|dikirim} sesuai dengan {kualitas|standar|spesifikasi} yang saya harapkan untuk proyek {perumahan|real estate|properti} saya.|Beton dari betonjago.co.id {cepat dikirim|tepat waktu|sesuai harapan} dan {berkualitas|bermutu|cocok untuk} proyek perumahan saya.}"
+response = "{Terima kasih! Kami {berkomitmen|fokus|dedikasi} untuk menyediakan layanan readymix beton berkualitas dengan {pengiriman|waktu pengiriman|proses} yang {tepat waktu|efisien|lancar}.|Kami {apresiasi|menghargai} ulasan Anda. Terima kasih atas {kepercayaan|pilihan} Anda menggunakan readymix beton kami!}"
+rating = 4
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar4.png"
+name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi}"
+message = "{Saya {sangat puas|senang|gembira} dengan layanan sewa concrete pump dari betonjago.co.id. Prosesnya {efisien|mudah|terkoordinasi dengan baik} dan hasilnya {sangat memuaskan|hebat|luar biasa}.|Layanan sewa concrete pump dari betonjago.co.id {berjalan dengan lancar|efisien|tanpa hambatan} dan hasilnya {luar biasa|memuaskan|optimal}.}"
+response = "{Senang mendengar Anda puas dengan hasilnya. Terima kasih atas kepercayaannya dalam menggunakan layanan kami! {Semoga proyek berikutnya berjalan lancar|Kami harap Anda kembali lagi}.|Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih concrete pump kami untuk proyek Anda! {Kami siap membantu proyek Anda berikutnya|Sampai jumpa di proyek berikutnya}.}"
+rating = 4
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar5.png"
+name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah}"
+message = "{Pelayanan betonjago.co.id {sangat membantu|memudahkan|mempercepat} untuk proyek cor lantai kantor saya. Solusi yang diberikan {sangat tepat|efisien|akurat} dan {efektif|bermanfaat|bernilai tambah}.|betonjago.co.id {memberikan solusi yang tepat|sangat membantu|menyediakan layanan unggulan} dalam proyek cor lantai kantor saya. Layanannya {efisien|profesional|kompeten} dan hasilnya {memuaskan|hebat|mengagumkan}.}"
+response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek cor lantai kantor Anda dengan solusi {terbaik|efisien|unggulan}.|Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan kami! {Kami siap membantu di proyek berikutnya|Semoga hasilnya selalu memuaskan}.}"
+rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "{Eko|Rio|Galih|Faisal|Yanto|Benny|Toni|Deni|Rizal|Wawan}"
+  message = "{Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya {sesuai dengan harapan|memuaskan|menakjubkan}. Layanan yang diberikan betonjago.co.id {sangat profesional|berkualitas|kompeten}.|Concrete pump dari betonjago.co.id {berhasil memenuhi harapan|sangat mendukung|membantu} proyek pengecoran rumah saya. Layanannya {profesional|berpengalaman|terpercaya} dan {tepat waktu|efisien|terorganisir}.}"
+  response = "{Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih atas {ulasannya|kepercayaannya|pengakuannya}!|Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda. Kami senang layanan kami sesuai dengan harapan Anda. {Semoga proyek berikutnya sukses|Kami siap mendukung proyek lainnya}.}"
+  rating = 4
+
+# Daftar Harga Readymix
+[[params.tabelItems]]
+  name = "Readymix Kelas B0"
+  price = "900.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K225"
+  price = "1.120.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K250"
+  price = "1.170.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K300"
+  price = "1.220.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K350"
+  price = "1.250.000 /m3"
+
+# Daftar Harga Sewa Concrete Pump
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Mini"
+  price = "4.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Super Long"
+  price = "25.000.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Master Long"
+  price = "35.000.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Standar"
+  price = "3.800.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Long Boom"
+  price = "7.500.000 /hari"
+
+# Penggunaan Produk
+[params.appliList]
+  "Readymix Kelas B0" = "pondasi, lantai dasar"
+  "Readymix Kelas K225" = "dinding, kolom struktural"
+  "Readymix Kelas K250" = "lantai bangunan, jalan ringan"
+  "Readymix Kelas K300" = "jalan raya, konstruksi berat"
+  "Readymix Kelas K350" = "jembatan, gedung bertingkat"
+  "Sewa Concrete Pump Mini" = "proyek pengecoran di area sempit atau akses terbatas"
+  "Sewa Concrete Pump Super Long" = "proyek pengecoran besar dengan jarak pengecoran jauh"
+  "Sewa Concrete Pump Master Long" = "proyek dengan volume pengecoran besar dan jarak panjang"
+  "Sewa Concrete Pump Standar" = "proyek pengecoran skala kecil hingga menengah"
+  "Sewa Concrete Pump Long Boom" = "proyek dengan bangunan tinggi atau area sulit dijangkau"
+
+# Kegunaan Produk
+[params.kegunaanList]
+  "Readymix Kelas B0" = "digunakan untuk pondasi dan pekerjaan dasar"
+  "Readymix Kelas K225" = "cocok untuk konstruksi dinding dan kolom struktural"
+  "Readymix Kelas K250" = "digunakan untuk lantai bangunan dan jalan ringan"
+  "Readymix Kelas K300" = "digunakan untuk konstruksi jalan raya dan bangunan berat"
+  "Readymix Kelas K350" = "cocok untuk konstruksi jembatan dan gedung bertingkat"
+  "Sewa Concrete Pump Mini" = "untuk pengecoran di area yang sulit diakses atau terbatas"
+  "Sewa Concrete Pump Super Long" = "memungkinkan pengecoran pada proyek dengan jarak jauh"
+  "Sewa Concrete Pump Master Long" = "efisien untuk proyek skala besar dengan volume pengecoran yang banyak"
+  "Sewa Concrete Pump Standar" = "solusi ideal untuk proyek pengecoran harian skala kecil hingga menengah"
+  "Sewa Concrete Pump Long Boom" = "digunakan pada bangunan tinggi atau lokasi yang sulit dijangkau"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Profile"
+    url = "/profile/"
+
+  [[params.menu_items]]
+    title = "Concret Pump"
+    url = "/categories/pompa/"
+
+  [[params.menu_items]]
+    title = "Readymix"
+    url = "/categories/readymix/"
+
+  [[params.menu_items]]
+    title = "Jasa Cor"
+    url = "/categories/jasa/"
+
+[params.header]
+   title = "Penyediaan beton readymix berkualitas tinggi untuk berbagai kebutuhan pengecoran Anda | "
+   highlight = "JB"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
