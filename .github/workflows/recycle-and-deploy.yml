@@ -47,3 +47,16 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: gh-pages
+        full_commit_message: ${{ github.event.head_commit.message }}
+
+    - name: Verify Deployment
+      run: |
+        echo "Deployment completed successfully!"
+        ls -l public
