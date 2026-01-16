@@ -110,7 +110,7 @@ h4 {
   position: relative;
 }
 .highlight {
-  color: var(--primary-color);
+  color: var(--text-color);
 }
 .tab-menu-container {
   background: var(--white);
