@@ -1,9 +1,10 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Dedi
+    name: Samsul
     message: >-
-      Layanan readymix beton dari betonjago.co.id membantu saya dalam proyek
-      rumah saya. Beton yang dikirim premium dan proses pengecorannya rapi.
+      Saya memanfaatkan layanan readymix beton dari betonjago.co.id untuk
+      konstruksi rumah saya, dan hasilnya sangat memuaskan. Beton yang diberikan
+      premium dan proses pengecorannya tertata.
     response: >-
       Kami berterima kasih atas kepercayaan Anda. Terima kasih telah memilih
       readymix beton kami!
@@ -12,46 +13,45 @@ testimonials:
     name: Dewi
     message: >-
       Saya terbantu oleh betonjago.co.id dalam memenuhi kebutuhan beton saya.
-      Produknya premium dan sesuai dengan spesifikasi proyek.
+      Produknya bermutu tinggi dan sesuai dengan kebutuhan proyek.
     response: >-
-      Terima kasih atas masukan Anda! Kami gembira Anda puas dengan layanan dan
-      produk kami.
+      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
+      dengan layanan readymix dari kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
     name: Ali
     message: >-
-      Layanan readymix beton dari betonjago.co.id efisien dan bermutu. Beton
-      yang dikirim sesuai dengan kualitas yang saya harapkan untuk proyek
-      perumahan saya.
+      Beton dari betonjago.co.id sesuai harapan dan berkualitas proyek perumahan
+      saya.
     response: >-
-      Kami menghargai ulasan Anda. Terima kasih atas pilihan Anda menggunakan
+      Kami apresiasi ulasan Anda. Terima kasih atas pilihan Anda menggunakan
       readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Wawan
+    name: Eko
     message: >-
-      Layanan sewa concrete pump dari betonjago.co.id efisien dan hasilnya
-      optimal.
+      Saya senang dengan layanan sewa concrete pump dari betonjago.co.id.
+      Prosesnya mudah dan hasilnya hebat.
     response: >-
-      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
-      kepercayaannya dalam menggunakan layanan kami! Kami harap Anda kembali
-      lagi.
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
+      concrete pump kami untuk proyek Anda! Sampai jumpa di proyek berikutnya.
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Fitri
+    name: Lina
     message: >-
-      Pelayanan betonjago.co.id mempercepat untuk proyek cor lantai kantor saya.
-      Solusi yang diberikan sangat tepat dan efektif.
+      betonjago.co.id sangat membantu dalam proyek cor lantai kantor saya.
+      Layanannya profesional dan hasilnya memuaskan.
     response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek cor lantai
-      kantor Anda dengan solusi efisien.
+      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
+      kami! Kami siap membantu di proyek berikutnya.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Rio
+    name: Faisal
     message: >-
-      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya memuaskan.
+      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya menakjubkan.
       Layanan yang diberikan betonjago.co.id kompeten.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
-      atas pengakuannya!
+      Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda.
+      Kami senang layanan kami sesuai dengan harapan Anda. Kami siap mendukung
+      proyek lainnya.
     rating: 4
