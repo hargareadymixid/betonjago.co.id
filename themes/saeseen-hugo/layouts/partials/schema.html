@@ -1,6 +1,6 @@
 {{- if .IsPage }}
 {{- if eq .Params.type "service" }}
-<!-- Service Schema dengan BreadcrumbList -->
+<!-- Service Schema with BreadcrumbList -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -39,8 +39,9 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "IDR",
-    "lowPrice": "{{ printf "%.2f" (div $minPrice 1.0) }}",
-    "highPrice": "{{ printf "%.2f" (div $maxPrice 1.0) }}",
+    "lowPrice": "{{ printf "%.0f" $minPrice }}",
+    "highPrice": "{{ printf "%.0f" $maxPrice }}",
+    "offerCount": "2",
     "availability": "https://schema.org/InStock",
     "url": "{{ .Permalink }}"
   },
@@ -87,16 +88,12 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "IDR",
-    "lowPrice": "{{ printf "%.2f" (div $minPrice 1.0) }}",
-    "highPrice": "{{ printf "%.2f" (div $maxPrice 1.0) }}",
+    "lowPrice": "{{ printf "%.0f" $minPrice }}",
+    "highPrice": "{{ printf "%.0f" $maxPrice }}",
     "offerCount": "{{ len .Site.Params.materials }}",
     "url": "{{ .Permalink }}",
     "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition",
-    "seller": {
-      "@type": "Organization",
-      "name": "{{ .Site.Title }}"
-    }
+    "itemCondition": "https://schema.org/NewCondition"
   },
   {{- $randomMaterial := index .Site.Params.materials (mod (now.Unix) (len .Site.Params.materials)) -}}
   "material": "{{ $randomMaterial }}",
@@ -115,7 +112,7 @@
 </script>
 
 {{- else }}
-<!-- Default Article Schema untuk halaman biasa -->
+<!-- Default Article Schema for page standard -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -145,7 +142,7 @@
 </script>
 {{- end }}
 
-<!-- BreadcrumbList Schema untuk semua halaman post -->
+<!-- BreadcrumbList Schema for all post pages -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -178,7 +175,7 @@
 {{- end }}
 
 {{- if .IsHome }}
-<!-- Organization Schema untuk Homepage -->
+<!-- Organization Schema for Homepage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -239,7 +236,7 @@
 }
 </script>
 
-<!-- WebSite Schema untuk Homepage -->
+<!-- WebSite Schema for Homepage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -263,7 +260,7 @@
 }
 </script>
 
-<!-- ItemList Schema untuk daftar layanan/produk di Homepage -->
+<!-- ItemList Schema for daftar service/product in Homepage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
