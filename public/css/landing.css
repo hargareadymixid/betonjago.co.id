@@ -231,7 +231,7 @@ body {
 
 .video-wrapper {
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 90.25%;
   height: 0;
   overflow: hidden;
   border-radius: 8px;
@@ -938,6 +938,7 @@ body {
   
   .testimonial-slider {
     grid-template-columns: 1fr;
+    padding: 0.1rem;
   }
   
   .benefits-grid {
