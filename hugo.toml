@@ -189,6 +189,50 @@ rating = 4
   name = "Sewa Concrete Pump Long Boom"
   price = "7.500.000 /hari"
 
+[params.landing]
+  whatsapp_number = "6281294354959"
+  min_order = 3
+  service_area = "Jakarta Timur"
+  location_badge = "📍 Jakarta Timur"
+
+# Pricing strategy with promo
+[params.pricing]
+  # Base prices (before markup)
+  enable_promo = true
+  promo_discount_percent = 5
+  price_markup_percent = 5
+  
+  # Price configurations
+  [[params.pricing.products]]
+    name = "Readymix B0"
+    base_price = 857142  # Original 900k / 1.05
+    display_price = 900000
+    promo_price = 855000  # -5% dari 900k
+  
+  [[params.pricing.products]]
+    name = "Readymix K225"
+    base_price = 1066667  # Original 1.12M / 1.05
+    display_price = 1120000
+    promo_price = 1064000  # -5% dari 1.12M
+  
+  [[params.pricing.products]]
+    name = "Readymix K250"
+    base_price = 1114285  # Original 1.17M / 1.05
+    display_price = 1170000
+    promo_price = 1111500  # -5% dari 1.17M
+  
+  [[params.pricing.products]]
+    name = "Readymix K300"
+    base_price = 1161904  # Original 1.22M / 1.05
+    display_price = 1220000
+    promo_price = 1159000  # -5% dari 1.22M
+  
+  [[params.pricing.products]]
+    name = "Readymix K350"
+    base_price = 1190476  # Original 1.25M / 1.05
+    display_price = 1250000
+    promo_price = 1187500  # -5% dari 1.25M
+
 # Penggunaan Produk
 [params.appliList]
   "Readymix Kelas B0" = "pondasi, lantai dasar"
@@ -237,7 +281,7 @@ rating = 4
 
 [params.header]
    title = "Penyediaan beton readymix berkualitas tinggi untuk berbagai kebutuhan pengecoran Anda | "
-   highlight = "JB"
+   highlight = "BJ"
 
 [markup]
   [markup.tableOfContents]
