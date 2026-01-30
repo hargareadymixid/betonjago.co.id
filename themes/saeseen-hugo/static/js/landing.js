@@ -2,6 +2,70 @@
 // LANDING PAGE JAVASCRIPT - UPDATED WITH ENHANCED FORM
 // ===================================
 
+// Pricing data dengan harga setelah diskon 5%
+const pricingData = {
+  // Mobil Besar (7 kubik) - Harga SETELAH diskon 5%
+  'K225_besar': { 
+    base: 1173684, 
+    promo: 1115000,
+    label: 'K225 (Mobil Besar 7m³)'
+  },
+  'K250_besar': { 
+    base: 1205263, 
+    promo: 1145000,
+    label: 'K250 (Mobil Besar 7m³)'
+  },
+  'K275_besar': { 
+    base: 1257895, 
+    promo: 1195000,
+    label: 'K275 (Mobil Besar 7m³)'
+  },
+  'K300_besar': { 
+    base: 1300000, 
+    promo: 1235000,
+    label: 'K300 (Mobil Besar 7m³)'
+  },
+  'K350_besar': { 
+    base: 1352632, 
+    promo: 1285000,
+    label: 'K350 (Mobil Besar 7m³)'
+  },
+  // Mobil Kecil (3 kubik) - Harga SETELAH diskon 5%
+  'K225_kecil': { 
+    base: 1394737, 
+    promo: 1325000,
+    label: 'K225 (Mobil Kecil 3m³)'
+  },
+  'K250_kecil': { 
+    base: 1421053, 
+    promo: 1350000,
+    label: 'K250 (Mobil Kecil 3m³)'
+  },
+  'K275_kecil': { 
+    base: 1447368, 
+    promo: 1375000,
+    label: 'K275 (Mobil Kecil 3m³)'
+  },
+  'K300_kecil': { 
+    base: 1500000, 
+    promo: 1425000,
+    label: 'K300 (Mobil Kecil 3m³)'
+  },
+  'K350_kecil': { 
+    base: 1552632, 
+    promo: 1475000,
+    label: 'K350 (Mobil Kecil 3m³)'
+  }
+};
+
+// Pompa pricing - Harga baru
+const pumpPricing = {
+  'Pompa Mini': 3500000,
+  'Pompa Standar': 3500000,
+  'Pompa Long Boom': 7500000,
+  'Pompa Super Long Boom': 12500000
+};
+
 // Global Variables
 let currentStepNum = 1;
 let selectedProduct = '';
@@ -39,12 +103,49 @@ let currentNotificationIndex = 0;
 let countdownInterval;
 
 function initializeCountdownTimer() {
-  updateCountdownDisplay();
+  // Set countdown target (akhir hari ini)
+  let endOfDay = new Date();
+  endOfDay.setHours(23, 59, 59, 999);
   
-  // Update countdown setiap detik
-  countdownInterval = setInterval(() => {
-    updateCountdownDisplay();
-  }, 1000);
+  function updateTimer() {
+    const now = new Date();
+    let timeRemaining = endOfDay - now;
+    
+    // Jika sudah lewat tengah malam, reset ke hari berikutnya
+    if (timeRemaining <= 0) {
+      endOfDay = new Date();
+      endOfDay.setDate(endOfDay.getDate() + 1);
+      endOfDay.setHours(23, 59, 59, 999);
+      timeRemaining = endOfDay - now;
+    }
+    
+    const hours = Math.floor((timeRemaining / (1000 * 60 * 60)) % 24);
+    const minutes = Math.floor((timeRemaining / (1000 * 60)) % 60);
+    const seconds = Math.floor((timeRemaining / 1000) % 60);
+    
+    // Format dengan leading zero
+    const formattedTime = 
+      String(hours).padStart(2, '0') + ':' + 
+      String(minutes).padStart(2, '0') + ':' + 
+      String(seconds).padStart(2, '0');
+    
+    // Update semua elemen countdown
+    const countdownElements = document.querySelectorAll('[data-countdown]');
+    countdownElements.forEach(el => {
+      if (el) {
+        el.textContent = formattedTime;
+      }
+    });
+  }
+  
+  // Update pertama kali
+  updateTimer();
+  
+  // Update setiap detik
+  if (countdownInterval) {
+    clearInterval(countdownInterval);
+  }
+  countdownInterval = setInterval(updateTimer, 1000);
 }
 
 function getTimeRemaining() {
@@ -174,18 +275,14 @@ function initializeMutuSelector() {
   const mutuSelect = document.getElementById('inputMutu');
   if (mutuSelect) {
     mutuSelect.addEventListener('change', function() {
-      const selectedOption = this.options[this.selectedIndex];
-      selectedProduct = this.value;
+      const mutuValue = this.value;
+      selectedProduct = mutuValue;
       
-      let basePrice = parseInt(selectedOption.dataset.price) || 0;
-      
-      if (promoActive) {
-        selectedPrice = Math.round(basePrice * (1 - promoPercentage / 100));
+      if (pricingData[mutuValue]) {
+        selectedPrice = pricingData[mutuValue].promo;
       } else {
-        selectedPrice = basePrice;
+        selectedPrice = 0;
       }
-      
-      updatePriceDisplay(this, basePrice, selectedPrice);
     });
   }
 }
@@ -495,42 +592,44 @@ function showAlert(message) {
 // SUMMARY DISPLAY
 // ===================================
 function showSummary() {
-  const nama = document.getElementById('inputNama').value;
+  const nama = document.getElementById('inputNama');
   const mutu = document.getElementById('inputMutu');
-  const mutuText = mutu.options[mutu.selectedIndex].text;
-  const kelurahan = document.getElementById('inputKelurahan').value;
-  const alamatDetail = document.getElementById('inputAlamatDetail').value;
-  const volume = document.getElementById('inputVolume').value;
-  const tanggal = document.getElementById('inputTanggal').value;
+  const kelurahan = document.getElementById('inputKelurahan');
+  const volume = document.getElementById('inputVolume');
+  const tanggal = document.getElementById('inputTanggal');
   const waktu = document.getElementById('inputWaktu');
-  const waktuText = waktu.options[waktu.selectedIndex].text;
   const pompa = document.getElementById('inputPompa');
-  const pompaText = pompa.options[pompa.selectedIndex].text;
+  
+  // Update summary display
+  updateSummaryField('summaryNama', nama.value || '-');
+  updateSummaryField('summaryMutu', mutu.options[mutu.selectedIndex].text || '-');
+  
+  const lokasiLengkap = kelurahan.value + 
+    (document.getElementById('inputAlamatDetail').value ? 
+      ', ' + document.getElementById('inputAlamatDetail').value : '');
+  updateSummaryField('summaryLokasi', lokasiLengkap || '-');
+  
+  updateSummaryField('summaryVolume', volume.value ? volume.value + ' m³' : '-');
+  
+  const tanggalFormatted = tanggal.value ? 
+    new Date(tanggal.value).toLocaleDateString('id-ID', { 
+      weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' 
+    }) : '-';
+  updateSummaryField('summaryWaktu', 
+    `${tanggalFormatted}, ${waktu.options[waktu.selectedIndex].text}`);
+  
+  updateSummaryField('summaryPompa', pompa.options[pompa.selectedIndex].text || '-');
   
   selectedPumpPrice = parseInt(pompa.options[pompa.selectedIndex].dataset.price) || 0;
   
-  updateSummaryField('summaryNama', nama);
-  updateSummaryField('summaryMutu', mutuText);
-  
-  const lokasiLengkap = kelurahan + (alamatDetail ? ', ' + alamatDetail : '');
-  updateSummaryField('summaryLokasi', lokasiLengkap);
-  
-  updateSummaryField('summaryVolume', volume + ' m³');
-  
-  const formattedDateTime = formatDateTime(tanggal, waktu.value);
-  updateSummaryField('summaryWaktu', formattedDateTime);
-  
-  updateSummaryField('summaryPompa', pompaText);
-  
-  // Calculate price with HTML formatting
-  const totalPrice = calculateTotalPrice(volume);
+  // Calculate total price with HTML formatting
+  const totalPrice = calculateTotalPrice(volume.value);
   updateSummaryField('summaryHarga', totalPrice);
 }
 
 function updateSummaryField(elementId, value) {
   const element = document.getElementById(elementId);
   if (element) {
-    // Cek apakah value berisi HTML (dari calculateTotalPrice)
     if (value.includes('<')) {
       element.innerHTML = value;
     } else {
@@ -642,11 +741,22 @@ function collectFormData() {
   const waktu = document.getElementById('inputWaktu');
   const pompa = document.getElementById('inputPompa');
   
+  // Ambil jenis mobil (besar/kecil) dari value mutu
+  const mutuValue = mutu.value;
+  const mutuText = mutu.options[mutu.selectedIndex].text;
+  
+  // Parse jenis mobil dari mutuValue
+  const jenisMobil = mutuValue.includes('_besar') ? 'Mobil Besar (7m³)' : 
+                     mutuValue.includes('_kecil') ? 'Mobil Kecil (3m³)' : 
+                     'Standar';
+  
   return {
     nama: document.getElementById('inputNama').value,
-    mutu: mutu.options[mutu.selectedIndex].text,
+    mutu: mutuText,
+    mutuValue: mutuValue,
+    jenisMobil: jenisMobil,
     kelurahan: kelurahan.value,
-    alamatDetail: document.getElementById('inputAlamatDetail').value,
+    alamatDetail: document.getElementById('inputAlamatDetail').value || '',
     volume: document.getElementById('inputVolume').value,
     tanggal: document.getElementById('inputTanggal').value,
     waktu: waktu.value,
@@ -664,11 +774,12 @@ function createWhatsAppMessage(data) {
   let message = `*🎯 PESANAN BETON READYMIX*%0A`;
   message += `================================%0A%0A`;
   
-  message += `*👤 Data Order:*%0A`;
+  message += `*👤 Data Pemesan:*%0A`;
   message += `Nama: ${data.nama}%0A%0A`;
   
   message += `*🏗️ Detail Pesanan:*%0A`;
   message += `Mutu Beton: ${data.mutu}%0A`;
+  message += `Jenis Mobil: ${data.jenisMobil}%0A`;
   message += `Volume: ${data.volume} m³%0A`;
   message += `Lokasi: ${lokasiLengkap}%0A%0A`;
   
@@ -679,7 +790,7 @@ function createWhatsAppMessage(data) {
   message += `*🚚 Concrete Pump:*%0A`;
   message += `${data.pompa}%0A%0A`;
   
-  message += `*💰 Estimasi Harga:*%0A`;
+  message += `*💰 Estimasi Harga (Sudah Diskon 5%):*%0A`;
   if (data.betonPrice && data.volume) {
     const betonTotal = data.betonPrice * parseFloat(data.volume);
     message += `Beton: Rp ${betonTotal.toLocaleString('id-ID')}%0A`;
@@ -687,16 +798,17 @@ function createWhatsAppMessage(data) {
     if (data.pompaPrice > 0) {
       message += `Pompa: Rp ${data.pompaPrice.toLocaleString('id-ID')}%0A`;
       const grandTotal = betonTotal + data.pompaPrice;
-      message += `*Total: Rp ${grandTotal.toLocaleString('id-ID')}*%0A`;
+      message += `*TOTAL: Rp ${grandTotal.toLocaleString('id-ID')}*%0A`;
     } else {
-      message += `*Total: Rp ${betonTotal.toLocaleString('id-ID')}*%0A`;
+      message += `*TOTAL: Rp ${betonTotal.toLocaleString('id-ID')}*%0A`;
     }
   } else {
     message += `Mohon konfirmasi harga%0A`;
   }
   
   message += `%0A================================%0A`;
-  message += `_Pesanan dari Betonjago.co.id_`;
+  message += `_✅ Diskon 5% sudah diterapkan_`;
+  message += `%0A_Pesanan dari Betonjago.co.id_`;
   
   return message;
 }
