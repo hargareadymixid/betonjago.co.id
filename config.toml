@@ -47,6 +47,7 @@ materials = [
   "Readymix B0 (Ekonomis)",
   "Readymix K225 (Tahan Lama)",
   "Readymix K250 (Bangunan Perumahan)",
+  "Readymix K275 (Konstruksi Sedang)",
   "Readymix K300 (Proyek Komersial)",
   "Readymix K350 (Konstruksi Berkekuatan Tinggi)"
 ]
@@ -58,11 +59,10 @@ return_policies = [
 
 # Service
 service_types = [
-  "Sewa Concrete Pump Harian",
-  "Sewa Concrete Pump Mingguan",
-  "Sewa Concrete Pump Long Boom",
   "Sewa Concrete Pump Mini",
-  "Sewa Pompa Beton Master Long Boom"
+  "Sewa Concrete Pump Standar",
+  "Sewa Concrete Pump Long Boom",
+  "Sewa Concrete Pump Super Long Boom"
 ]
 cancellation_policies = [
   "Pembatalan dapat dilakukan jika tidak sesuai kesepakatan awal.",
@@ -80,7 +80,7 @@ companyWeb = "betonjago.co.id"
 phone = "0812-9435-4959"
 email = "cshargareadymixid@gmail.com"
 address = "Perum Babakansari V Kp cilibende Babakan Kecamatan Bogor Tengah"
-whatsappNumber = "6285179581745"
+whatsappNumber = "6281294354959"
 
 # Hero Section
 hero_image = "/images/admin/bg_readymix_gelap.png"
@@ -155,109 +155,166 @@ rating = 4
   response = "{Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih atas {ulasannya|kepercayaannya|pengakuannya}!|Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda. Kami senang layanan kami sesuai dengan harapan Anda. {Semoga proyek berikutnya sukses|Kami siap mendukung proyek lainnya}.}"
   rating = 4
 
-# Daftar Harga Readymix
+# Daftar Harga Readymix - MOBIL BESAR (7 kubik) - Harga SETELAH diskon 5%
 [[params.tabelItems]]
-  name = "Readymix Kelas B0"
-  price = "900.000 /m3"
+  name = "Readymix K225 (Mobil Besar 7m³)"
+  price = "1.115.000 /m³"
 [[params.tabelItems]]
-  name = "Readymix Kelas K225"
-  price = "1.120.000 /m3"
+  name = "Readymix K250 (Mobil Besar 7m³)"
+  price = "1.145.000 /m³"
 [[params.tabelItems]]
-  name = "Readymix Kelas K250"
-  price = "1.170.000 /m3"
+  name = "Readymix K275 (Mobil Besar 7m³)"
+  price = "1.195.000 /m³"
 [[params.tabelItems]]
-  name = "Readymix Kelas K300"
-  price = "1.220.000 /m3"
+  name = "Readymix K300 (Mobil Besar 7m³)"
+  price = "1.235.000 /m³"
 [[params.tabelItems]]
-  name = "Readymix Kelas K350"
-  price = "1.250.000 /m3"
+  name = "Readymix K350 (Mobil Besar 7m³)"
+  price = "1.285.000 /m³"
+
+# Daftar Harga Readymix - MOBIL KECIL (3 kubik) - Harga SETELAH diskon 5%
+[[params.tabelItems]]
+  name = "Readymix K225 (Mobil Kecil 3m³)"
+  price = "1.325.000 /m³"
+[[params.tabelItems]]
+  name = "Readymix K250 (Mobil Kecil 3m³)"
+  price = "1.350.000 /m³"
+[[params.tabelItems]]
+  name = "Readymix K275 (Mobil Kecil 3m³)"
+  price = "1.375.000 /m³"
+[[params.tabelItems]]
+  name = "Readymix K300 (Mobil Kecil 3m³)"
+  price = "1.425.000 /m³"
+[[params.tabelItems]]
+  name = "Readymix K350 (Mobil Kecil 3m³)"
+  price = "1.475.000 /m³"
 
 # Daftar Harga Sewa Concrete Pump
 [[params.tabelItems]]
   name = "Sewa Concrete Pump Mini"
-  price = "4.500.000 /hari"
+  price = "3.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Standar"
+  price = "3.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Long Boom"
+  price = "7.500.000 /hari"
 [[params.tabelItems]]
   name = "Sewa Concrete Pump Super Long"
   price = "25.000.000 /hari"
 [[params.tabelItems]]
   name = "Sewa Concrete Pump Master Long"
   price = "35.000.000 /hari"
-[[params.tabelItems]]
-  name = "Sewa Concrete Pump Standar"
-  price = "3.800.000 /hari"
-[[params.tabelItems]]
-  name = "Sewa Concrete Pump Long Boom"
-  price = "7.500.000 /hari"
 
 [params.landing]
   whatsapp_number = "6281294354959"
-  min_order = 3
+  min_order = 6
   service_area = "Jakarta Timur"
   location_badge = "📍 Jakarta Timur"
 
 # Pricing strategy with promo
 [params.pricing]
-  # Base prices (before markup)
   enable_promo = true
   promo_discount_percent = 5
   price_markup_percent = 5
   
-  # Price configurations
+  # MOBIL BESAR (7 kubik)
   [[params.pricing.products]]
-    name = "Readymix B0"
-    base_price = 857142  # Original 900k / 1.05
-    display_price = 900000
-    promo_price = 855000  # -5% dari 900k
+    name = "Readymix K225 (Mobil Besar)"
+    type = "mobil_besar"
+    base_price = 1173684  # Harga sebelum diskon
+    display_price = 1173684
+    promo_price = 1115000  # Harga setelah diskon 5%
   
   [[params.pricing.products]]
-    name = "Readymix K225"
-    base_price = 1066667  # Original 1.12M / 1.05
-    display_price = 1120000
-    promo_price = 1064000  # -5% dari 1.12M
+    name = "Readymix K250 (Mobil Besar)"
+    type = "mobil_besar"
+    base_price = 1205263
+    display_price = 1205263
+    promo_price = 1145000
   
   [[params.pricing.products]]
-    name = "Readymix K250"
-    base_price = 1114285  # Original 1.17M / 1.05
-    display_price = 1170000
-    promo_price = 1111500  # -5% dari 1.17M
+    name = "Readymix K275 (Mobil Besar)"
+    type = "mobil_besar"
+    base_price = 1257895
+    display_price = 1257895
+    promo_price = 1195000
   
   [[params.pricing.products]]
-    name = "Readymix K300"
-    base_price = 1161904  # Original 1.22M / 1.05
-    display_price = 1220000
-    promo_price = 1159000  # -5% dari 1.22M
+    name = "Readymix K300 (Mobil Besar)"
+    type = "mobil_besar"
+    base_price = 1300000
+    display_price = 1300000
+    promo_price = 1235000
   
   [[params.pricing.products]]
-    name = "Readymix K350"
-    base_price = 1190476  # Original 1.25M / 1.05
-    display_price = 1250000
-    promo_price = 1187500  # -5% dari 1.25M
+    name = "Readymix K350 (Mobil Besar)"
+    type = "mobil_besar"
+    base_price = 1352632
+    display_price = 1352632
+    promo_price = 1285000
+
+  # MOBIL KECIL (3 kubik)
+  [[params.pricing.products]]
+    name = "Readymix K225 (Mobil Kecil)"
+    type = "mobil_kecil"
+    base_price = 1394737
+    display_price = 1394737
+    promo_price = 1325000
+  
+  [[params.pricing.products]]
+    name = "Readymix K250 (Mobil Kecil)"
+    type = "mobil_kecil"
+    base_price = 1421053
+    display_price = 1421053
+    promo_price = 1350000
+  
+  [[params.pricing.products]]
+    name = "Readymix K275 (Mobil Kecil)"
+    type = "mobil_kecil"
+    base_price = 1447368
+    display_price = 1447368
+    promo_price = 1375000
+  
+  [[params.pricing.products]]
+    name = "Readymix K300 (Mobil Kecil)"
+    type = "mobil_kecil"
+    base_price = 1500000
+    display_price = 1500000
+    promo_price = 1425000
+  
+  [[params.pricing.products]]
+    name = "Readymix K350 (Mobil Kecil)"
+    type = "mobil_kecil"
+    base_price = 1552632
+    display_price = 1552632
+    promo_price = 1475000
 
 # Penggunaan Produk
 [params.appliList]
-  "Readymix Kelas B0" = "pondasi, lantai dasar"
-  "Readymix Kelas K225" = "dinding, kolom struktural"
-  "Readymix Kelas K250" = "lantai bangunan, jalan ringan"
-  "Readymix Kelas K300" = "jalan raya, konstruksi berat"
-  "Readymix Kelas K350" = "jembatan, gedung bertingkat"
+  "Readymix K225" = "dinding, kolom struktural"
+  "Readymix K250" = "lantai bangunan, jalan ringan"
+  "Readymix K275" = "konstruksi sedang, lantai bertulang"
+  "Readymix K300" = "jalan raya, konstruksi berat"
+  "Readymix K350" = "jembatan, gedung bertingkat"
   "Sewa Concrete Pump Mini" = "proyek pengecoran di area sempit atau akses terbatas"
-  "Sewa Concrete Pump Super Long" = "proyek pengecoran besar dengan jarak pengecoran jauh"
-  "Sewa Concrete Pump Master Long" = "proyek dengan volume pengecoran besar dan jarak panjang"
   "Sewa Concrete Pump Standar" = "proyek pengecoran skala kecil hingga menengah"
   "Sewa Concrete Pump Long Boom" = "proyek dengan bangunan tinggi atau area sulit dijangkau"
+  "Sewa Concrete Pump Super Long" = "proyek pengecoran besar dengan jarak pengecoran jauh"
+  "Sewa Concrete Pump Master Long" = "proyek dengan volume pengecoran besar dan jarak panjang"
 
 # Kegunaan Produk
 [params.kegunaanList]
-  "Readymix Kelas B0" = "digunakan untuk pondasi dan pekerjaan dasar"
-  "Readymix Kelas K225" = "cocok untuk konstruksi dinding dan kolom struktural"
-  "Readymix Kelas K250" = "digunakan untuk lantai bangunan dan jalan ringan"
-  "Readymix Kelas K300" = "digunakan untuk konstruksi jalan raya dan bangunan berat"
-  "Readymix Kelas K350" = "cocok untuk konstruksi jembatan dan gedung bertingkat"
+  "Readymix K225" = "cocok untuk konstruksi dinding dan kolom struktural"
+  "Readymix K250" = "digunakan untuk lantai bangunan dan jalan ringan"
+  "Readymix K275" = "cocok untuk konstruksi sedang dan lantai bertulang"
+  "Readymix K300" = "digunakan untuk konstruksi jalan raya dan bangunan berat"
+  "Readymix K350" = "cocok untuk konstruksi jembatan dan gedung bertingkat"
   "Sewa Concrete Pump Mini" = "untuk pengecoran di area yang sulit diakses atau terbatas"
-  "Sewa Concrete Pump Super Long" = "memungkinkan pengecoran pada proyek dengan jarak jauh"
-  "Sewa Concrete Pump Master Long" = "efisien untuk proyek skala besar dengan volume pengecoran yang banyak"
   "Sewa Concrete Pump Standar" = "solusi ideal untuk proyek pengecoran harian skala kecil hingga menengah"
   "Sewa Concrete Pump Long Boom" = "digunakan pada bangunan tinggi atau lokasi yang sulit dijangkau"
+  "Sewa Concrete Pump Super Long" = "memungkinkan pengecoran pada proyek dengan jarak jauh"
+  "Sewa Concrete Pump Master Long" = "efisien untuk proyek skala besar dengan volume pengecoran yang banyak"
 
   # Menu Section
   [[params.menu_items]]
