@@ -1,57 +1,58 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Fajar
+    name: Hendra
     message: >-
-      Layanan readymix beton dari betonjago.co.id sangat membantu dalam proyek
-      rumah saya. Beton yang dikirim bermutu dan proses pengecorannya bersih.
+      Saya menggunakan layanan readymix beton dari betonjago.co.id untuk proyek
+      rumah saya, dan hasilnya luar biasa. Beton yang dikirim premium dan proses
+      pengecorannya sangat rapi.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
       readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Rina
+    name: Diah
     message: >-
-      Saya terbantu oleh betonjago.co.id dalam memenuhi kebutuhan beton saya.
-      Produknya premium dan sesuai dengan spesifikasi proyek.
+      betonjago.co.id sangat membantu dalam memenuhi kebutuhan beton untuk
+      proyek saya. Produk yang dikirim berkualitas dan sesuai dengan spesifikasi
+      yang dibutuhkan.
     response: >-
-      Terima kasih atas masukan Anda! Kami gembira Anda puas dengan layanan dan
-      produk kami.
+      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
+      dengan layanan readymix dari kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Rizal
+    name: Gilang
     message: >-
-      Layanan readymix beton dari betonjago.co.id responsif dan berkualitas.
-      Beton yang disediakan sesuai dengan spesifikasi yang saya harapkan untuk
-      proyek properti saya.
+      Beton dari betonjago.co.id tepat waktu dan berkualitas proyek perumahan
+      saya.
     response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan layanan readymix beton
-      berkualitas dengan proses yang tepat waktu.
+      Kami apresiasi ulasan Anda. Terima kasih atas kepercayaan Anda menggunakan
+      readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Yudi
-    message: >-
-      Layanan sewa concrete pump dari betonjago.co.id tanpa hambatan dan
-      hasilnya optimal.
-    response: >-
-      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
-      kepercayaannya dalam menggunakan layanan kami! Semoga proyek berikutnya
-      berjalan lancar.
-    rating: 4
-  - avatar: /images/admin/avatar5.png
-    name: Maya
-    message: >-
-      Pelayanan betonjago.co.id mempercepat untuk proyek cor lantai kantor saya.
-      Solusi yang diberikan efisien dan efektif.
-    response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek cor lantai
-      kantor Anda dengan solusi terbaik.
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Wawan
     message: >-
-      Concrete pump dari betonjago.co.id berhasil memenuhi harapan proyek
-      pengecoran rumah saya. Layanannya berpengalaman dan efisien.
+      Saya gembira dengan layanan sewa concrete pump dari betonjago.co.id.
+      Prosesnya terkoordinasi dengan baik dan hasilnya sangat memuaskan.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
-      atas kepercayaannya!
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
+      concrete pump kami untuk proyek Anda! Sampai jumpa di proyek berikutnya.
+    rating: 4
+  - avatar: /images/admin/avatar5.png
+    name: Dewi
+    message: >-
+      betonjago.co.id menyediakan layanan unggulan dalam proyek cor lantai
+      kantor saya. Layanannya efisien dan hasilnya memuaskan.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
+      kami! Semoga hasilnya selalu memuaskan.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Rio
+    message: >-
+      Concrete pump dari betonjago.co.id membantu proyek pengecoran rumah saya.
+      Layanannya profesional dan efisien.
+    response: >-
+      Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda.
+      Kami senang layanan kami sesuai dengan harapan Anda. Kami siap mendukung
+      proyek lainnya.
     rating: 4
