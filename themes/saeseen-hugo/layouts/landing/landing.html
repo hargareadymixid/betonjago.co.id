@@ -47,17 +47,16 @@
           
           <p class="hero-desc">Pengiriman cepat ke seluruh Jakarta Timur • Mutu terjamin • Konsultasi gratis</p>
           
-          <!-- CTA Button dengan Urgency -->
-          <!-- <button id="openFormBtn" class="wa-button-large wa-button-urgency">
+          <!-- CTA Button dengan Urgency - TRACKING GTM -->
+          <button id="openFormBtn" class="wa-button-large wa-button-urgency" 
+                  data-track-id="hero-cta-form"
+                  data-button-name="Hero CTA Form Button"
+                  data-button-location="hero-section"
+                  onclick="trackGTMButtonClick(this); openForm();">
             <i class="fab fa-whatsapp"></i> 
             <span>🔥 Dapatkan Diskon 5% - Pesan Sekarang Juga!</span>
             <small>⏰ Penawaran terbatas - Isi form sekarang!</small>
-          </button> -->
-          <a href="https://wa.me/6281319991115?text=Halo%20Betonjago%2C%20saya%20ingin%20konsultasi%20dan%20mendapatkan%20penawaran%20untuk%20proyek%20beton%20readymix%20saya" class="wa-button-large wa-button-urgency" style="text-decoration: none; display: inline-block;">
-            <i class="fab fa-whatsapp"></i> 
-            <span>🔥 Dapatkan Diskon 5% - Pesan Sekarang Juga!</span>
-            <small>⏰ Penawaran terbatas - Hubungi sekarang!</small>
-          </a>
+          </button>
           
           <div class="trust-badges">
             <span>✓ SNI Certified</span>
@@ -143,12 +142,16 @@
                 </div>
               </div>
               <div class="price-saving">💰 Hemat Rp 58.684/m³</div>
-              <!-- <button class="product-cta" onclick="openFormWithProduct('K225_besar', '1115000')">
+              <!-- TRACKING GTM untuk K225 Besar -->
+              <button class="product-cta" 
+                      data-track-id="product-k225-besar"
+                      data-button-name="Product K225 Besar"
+                      data-button-location="product-section"
+                      data-product-id="K225_besar"
+                      data-product-price="1115000"
+                      onclick="trackGTMButtonClick(this); openFormWithProduct('K225_besar', '1115000')">
                 <i class="fab fa-whatsapp"></i> Pesan K225
-              </button> -->
-              <a href="https://wa.me/6281319991115?text=Halo%20Betonjago%2C%20saya%20ingin%20konsultasi%20dan%20mendapatkan%20penawaran%20untuk%20proyek%20beton%20readymix%20saya" class="product-cta" style="text-decoration: none; display: inline-block;">
-                <i class="fab fa-whatsapp"></i> Pesan K225
-              </a>
+              </button>
             </div>
           
             <div class="product-option popular" data-product="K250_besar" data-price="1145000">
@@ -166,12 +169,16 @@
                 </div>
               </div>
               <div class="price-saving">💰 Hemat Rp 60.263/m³</div>
-              <!-- <button class="product-cta" onclick="openFormWithProduct('K250_besar', '1145000')">
+              <!-- TRACKING GTM untuk K250 Besar -->
+              <button class="product-cta" 
+                      data-track-id="product-k250-besar"
+                      data-button-name="Product K250 Besar"
+                      data-button-location="product-section"
+                      data-product-id="K250_besar"
+                      data-product-price="1145000"
+                      onclick="trackGTMButtonClick(this); openFormWithProduct('K250_besar', '1145000')">
                 <i class="fab fa-whatsapp"></i> Pesan K250
-              </button> -->
-              <a href="https://wa.me/6281319991115?text=Halo%20Betonjago%2C%20saya%20ingin%20konsultasi%20dan%20mendapatkan%20penawaran%20untuk%20proyek%20beton%20readymix%20saya" class="product-cta" style="text-decoration: none; display: inline-block;">
-                <i class="fab fa-whatsapp"></i> Pesan K250
-              </a>
+              </button>
             </div>
           
             <div class="product-option" data-product="K300_besar" data-price="1235000">
@@ -187,20 +194,29 @@
                 </div>
               </div>
               <div class="price-saving">💰 Hemat Rp 65.000/m³</div>
-              <!-- <button class="product-cta" onclick="openFormWithProduct('K300_besar', '1235000')">
+              <!-- TRACKING GTM untuk K300 Besar -->
+              <button class="product-cta" 
+                      data-track-id="product-k300-besar"
+                      data-button-name="Product K300 Besar"
+                      data-button-location="product-section"
+                      data-product-id="K300_besar"
+                      data-product-price="1235000"
+                      onclick="trackGTMButtonClick(this); openFormWithProduct('K300_besar', '1235000')">
                 <i class="fab fa-whatsapp"></i> Pesan K300
-              </button> -->
-              <a href="https://wa.me/6281319991115?text=Halo%20Betonjago%2C%20saya%20ingin%20konsultasi%20dan%20mendapatkan%20penawaran%20untuk%20proyek%20beton%20readymix%20saya" class="product-cta" style="text-decoration: none; display: inline-block;">
-                <i class="fab fa-whatsapp"></i> Pesan K300
-              </a>
+              </button>
             </div>
         
         <p class="help-text">
           <i class="fas fa-question-circle"></i> Bingung pilih mutu? 
-          <a href="https://wa.me/6281294354959?text=Halo%20Betonjago.co.id,%20saya%20butuh%20bantuan%20memilih%20mutu%20beton%20yang%20tepat" target="_blank" rel="noopener">Konsultasi Gratis</a>
+          <a href="https://wa.me/6281294354959?text=Halo%20Betonjago.co.id,%20saya%20butuh%20bantuan%20memilih%20mutu%20beton%20yang%20tepat" 
+             target="_blank" 
+             rel="noopener"
+             data-track-id="konsultasi-gratis"
+             data-button-name="Konsultasi Gratis Link"
+             data-button-location="product-section"
+             onclick="trackGTMButtonClick(this)">Konsultasi Gratis</a>
         </p>
       </div>
-
       <!-- Testimonial WhatsApp Style -->
       <section class="testimonial">
         <h2>Apa Kata Klien Kami</h2>
@@ -385,16 +401,11 @@
           <div>✅ Gratis konsultasi dengan ahli</div>
         </div>
         
-        <!-- <button id="openFormBtnFinal" class="wa-button-large wa-button-urgency">
+        <button id="openFormBtnFinal" class="wa-button-large wa-button-urgency">
           <i class="fab fa-whatsapp"></i> 
           <span>🔥 Pesan Sekarang & Dapatkan Diskon 5%</span>
           <small>Hanya untuk pemesanan hari ini!</small>
-        </button> -->
-        <a href="https://wa.me/6281319991115?text=Halo%20Betonjago%2C%20saya%20ingin%20konsultasi%20dan%20mendapatkan%20penawaran%20untuk%20proyek%20beton%20readymix%20saya" class="wa-button-large wa-button-urgency" style="text-decoration: none; display: inline-block;">
-          <i class="fab fa-whatsapp"></i> 
-          <span>🔥 Pesan Sekarang & Dapatkan Diskon 5%</span>
-          <small>Hanya untuk pemesanan hari ini!</small>
-        </a>
+        </button>
         
         <p class="cta-guarantee">✅ PROMO SPESIAL | Tanpa Biaya Tersembunyi | Garansi Uang Kembali</p>
       </div>
@@ -403,7 +414,7 @@
   </section>
 </main>
 
-<!-- Form Modal - DISABLED
+<!-- Form Modal - UPDATED VERSION -->
 <div id="formModal" class="form-modal">
   <div class="modal-content">
     <div class="modal-header">
@@ -417,6 +428,7 @@
     </div>
     
     <div class="modal-body">
+      <!-- Step 1: Nama -->
       <div id="step1" class="form-step active">
           <div class="form-group">
             <label for="inputNama">👤 Nama Lengkap:</label>
@@ -429,6 +441,7 @@
           </div>
         </div>
 
+      <!-- Step 2: Mutu Beton -->
       <div id="step2" class="form-step">
         <div class="form-group">
             <label for="inputMutu">🏗️ Pilih Mutu Beton:</label>
@@ -461,6 +474,7 @@
         </div>
       </div>
 
+      <!-- Step 3: Lokasi (Kelurahan) -->
       <div id="step3" class="form-step">
         <div class="form-group">
           <label for="inputKelurahan">📍 Pilih Kelurahan Anda:</label>
@@ -569,6 +583,7 @@
         </div>
       </div>
 
+      <!-- Step 4: Volume -->
       <div id="step4" class="form-step">
         <div class="form-group">
           <label for="inputVolume">📊 Volume Beton (m³):</label>
@@ -594,6 +609,7 @@
         </div>
       </div>
 
+      <!-- Step 5: Tanggal & Waktu + Pompa Beton -->
       <div id="step5" class="form-step">
         <div class="form-group">
           <label for="inputTanggal">📅 Tanggal Pengecoran:</label>
@@ -647,6 +663,7 @@
         </div>
       </div>
 
+      <!-- Step 6: Konfirmasi -->
       <div id="step6" class="form-step">
         <h3>📋 Ringkasan Pesanan Anda</h3>
         
@@ -680,6 +697,7 @@
           <span id="summaryPompa">-</span>
         </div>
         
+        <!-- Updated Price Display -->
         <div class="summary-item summary-total promo-applied">
           <strong>💰 Estimasi Total Harga:</strong>
           <div id="summaryHarga" class="total-price">-</div>
@@ -714,7 +732,172 @@
     </div>
   </div>
 </div>
--->
+
+
+<!-- GTM TRACKING SCRIPT - SIMPLE & CLEAN -->
+<script>
+// Function untuk tracking button clicks via GTM dataLayer
+function trackGTMButtonClick(element) {
+  // Ambil data dari element
+  var trackId = element.getAttribute('data-track-id') || 'unknown';
+  var buttonName = element.getAttribute('data-button-name') || element.textContent.trim();
+  var buttonLocation = element.getAttribute('data-button-location') || 'unknown';
+  var productId = element.getAttribute('data-product-id') || '';
+  var productPrice = element.getAttribute('data-product-price') || '0';
+  
+  // Push ke GTM dataLayer
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    'event': 'button_click',
+    'button_id': trackId,
+    'button_name': buttonName,
+    'button_location': buttonLocation,
+    'product_id': productId,
+    'product_price': productPrice,
+    'page_url': window.location.href,
+    'page_title': document.title,
+    'timestamp': new Date().toISOString()
+  });
+  
+  // Console log untuk debugging
+  console.log('GTM Button Click Tracked:', {
+    button_id: trackId,
+    button_name: buttonName,
+    product_id: productId
+  });
+}
+
+// Track form submission ke GTM
+function trackGTMFormSubmission(formData) {
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    'event': 'form_submission',
+    'form_type': 'whatsapp_lead',
+    'product_type': formData.mutuValue || 'unknown',
+    'product_price': formData.betonPrice || 0,
+    'estimated_value': (formData.betonPrice || 0) * (parseFloat(formData.volume) || 0),
+    'timestamp': new Date().toISOString()
+  });
+  
+  console.log('GTM Form Submission Tracked');
+}
+
+// Wrapper untuk submitToWhatsApp agar track GTM juga
+var originalSubmitToWhatsApp = window.submitToWhatsApp;
+window.submitToWhatsApp = function() {
+  // Track form submission
+  var formData = {
+    mutuValue: document.getElementById('inputMutu')?.value || '',
+    betonPrice: selectedPrice || 0,
+    volume: document.getElementById('inputVolume')?.value || '0'
+  };
+  trackGTMFormSubmission(formData);
+  
+  // Call original function
+  if (typeof originalSubmitToWhatsApp === 'function') {
+    originalSubmitToWhatsApp();
+  }
+};
+</script>
+
+<script>
+(function() {
+  // Get URL parameter
+  const urlParams = new URLSearchParams(window.location.search);
+  const product = urlParams.get('product');
+  
+  if (!product) return; // No parameter, do nothing
+  
+  // Wait for DOM ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', handleProductParameter);
+  } else {
+    handleProductParameter();
+  }
+  
+  function handleProductParameter() {
+    let targetElement = null;
+    let productCard = null;
+    
+    // Find target based on product parameter
+    switch(product.toLowerCase()) {
+      case 'k225':
+        targetElement = document.querySelector('[data-product="K225_besar"]');
+        productCard = targetElement;
+        break;
+      case 'k250':
+        targetElement = document.querySelector('[data-product="K250_besar"]');
+        productCard = targetElement;
+        break;
+      case 'k300':
+        targetElement = document.querySelector('[data-product="K300_besar"]');
+        productCard = targetElement;
+        break;
+      case 'konsultasi':
+        // Scroll to help text section
+        targetElement = document.querySelector('.help-text');
+        break;
+      case 'cek-harga':
+      case 'harga':
+        // Scroll to product section
+        targetElement = document.querySelector('.quick-products');
+        break;
+      case 'hubungi':
+        // Scroll to final CTA or contact section
+        targetElement = document.querySelector('.final-cta');
+        break;
+    }
+    
+    // Scroll to target
+    if (targetElement) {
+      setTimeout(function() {
+        targetElement.scrollIntoView({ 
+          behavior: 'smooth', 
+          block: 'center' 
+        });
+        
+        // Highlight product card
+        if (productCard) {
+          productCard.classList.add('highlighted-sitelink');
+          
+          // Remove highlight after 3 seconds
+          setTimeout(function() {
+            productCard.classList.remove('highlighted-sitelink');
+          }, 3000);
+        }
+      }, 500);
+    }
+    
+    // Track sitelink visit in GTM
+    if (window.dataLayer) {
+      window.dataLayer.push({
+        'event': 'sitelink_visit',
+        'sitelink_product': product,
+        'page_url': window.location.href
+      });
+    }
+  }
+})();
+</script>
+
+<style>
+/* CSS untuk highlight effect */
+.highlighted-sitelink {
+  animation: highlight-pulse 1.5s ease-in-out 2;
+  box-shadow: 0 0 30px rgba(255, 193, 7, 0.8) !important;
+  transform: scale(1.02);
+  transition: all 0.3s ease;
+}
+
+@keyframes highlight-pulse {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(255, 193, 7, 0.6);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(255, 193, 7, 1);
+  }
+}
+</style>
 
 <script src="{{ "js/landing.js" | relURL }}" defer></script>
 {{ end }}
