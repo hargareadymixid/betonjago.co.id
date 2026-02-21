@@ -39,8 +39,8 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "IDR",
-    "lowPrice": "{{ printf "%.0f" $minPrice }}",
-    "highPrice": "{{ printf "%.0f" $maxPrice }}",
+    "lowPrice": "{{ printf "%.0f" (float $minPrice) }}",
+    "highPrice": "{{ printf "%.0f" (float $maxPrice) }}",
     "offerCount": "2",
     "availability": "https://schema.org/InStock",
     "url": "{{ .Permalink }}"
@@ -88,8 +88,8 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "IDR",
-    "lowPrice": "{{ printf "%.0f" $minPrice }}",
-    "highPrice": "{{ printf "%.0f" $maxPrice }}",
+    "lowPrice": "{{ printf "%.0f" (float $minPrice) }}",
+    "highPrice": "{{ printf "%.0f" (float $maxPrice) }}",
     "offerCount": "{{ len .Site.Params.materials }}",
     "url": "{{ .Permalink }}",
     "availability": "https://schema.org/InStock",
@@ -216,7 +216,7 @@
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Product",
+          "@type": "Service",
           "name": "{{ $material }}"
         }
       }
