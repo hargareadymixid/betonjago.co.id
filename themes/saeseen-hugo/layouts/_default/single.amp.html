@@ -124,10 +124,10 @@
       {{- end -}},
       "hasMerchantReturnPolicy": {
         "@type": "MerchantReturnPolicy",
-        "returnPolicyCategory": "https://schema.org/Refundable",
+        "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
         "merchantReturnDays": "1",
-        "returnMethod": "https://schema.org/ReturnInStore",
-       "returnFees": "https://schema.org/FreeReturn",
+        "returnMethod": "http://schema.org/ReturnInStore",
+       "returnFees": "http://schema.org/FreeReturn",
         "description": "{{ index .Site.Params.return_policies (mod (now.Unix) (len .Site.Params.return_policies)) }}"
       }
     },
@@ -207,11 +207,7 @@
       "bestRating": "5",
       "worstRating": "1"
     },
-    "termsOfService": {
-      "@type": "DigitalDocument",
-      "name": "Kebijakan Pembatalan",
-      "description": "{{ index .Site.Params.cancellation_policies (mod (now.Unix) (len .Site.Params.cancellation_policies)) }}"
-    },
+    "termsOfService": "{{ .Site.BaseURL }}terms-of-service",
     "serviceOutput": {
       "@type": "Thing",
       "name": "Hasil",
