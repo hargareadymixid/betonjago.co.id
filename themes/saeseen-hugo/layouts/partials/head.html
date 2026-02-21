@@ -147,8 +147,8 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "IDR",
-    "lowPrice": "{{ printf "%.2f" (div $minPrice 1.0) }}",
-    "highPrice": "{{ printf "%.2f" (div $maxPrice 1.0) }}",
+    "lowPrice": "{{ printf "%.0f" (float $minPrice) }}",
+    "highPrice": "{{ printf "%.0f" (float $maxPrice) }}",
     "offerCount": "2",
     "url": "{{ .Permalink }}",
     "availability": "https://schema.org/InStock",
@@ -271,8 +271,8 @@
    "offers": {
      "@type": "AggregateOffer",
      "priceCurrency": "IDR",
-     "lowPrice": "{{ printf "%.2f" (div $minPrice 1.0) }}",
-     "highPrice": "{{ printf "%.2f" (div $maxPrice 1.0) }}",
+     "lowPrice": "{{ printf "%.0f" (float $minPrice) }}",
+     "highPrice": "{{ printf "%.0f" (float $maxPrice) }}",
      "offerCount": "2",
      "url": "{{ .Permalink }}",
      "availability": "https://schema.org/InStock",
