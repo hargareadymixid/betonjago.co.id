@@ -1,0 +1,107 @@
+name: Fix Orphan Articles (AI)
+
+on:
+  schedule:
+    - cron: '0 12 * * 3'   # Rabu 12:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Untrack node_modules & public (idempotent)
+        run: |
+          CHANGED=0
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          for p in node_modules public; do
+            if [ -n "$(git ls-files $p/ | head -n1)" ]; then
+              echo "📦 $p/ masih ter-track di git — untrack..."
+              grep -qxF "$p/" .gitignore 2>/dev/null || echo "$p/" >> .gitignore
+              git rm -r --cached $p >/dev/null
+              CHANGED=1
+            fi
+          done
+          if [ "$CHANGED" = "1" ]; then
+            git add .gitignore
+            git commit -m "chore: untrack node_modules/public [skip ci]"
+            git push origin master
+          else
+            echo "✅ Tidak ada yang perlu di-untrack."
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Find Orphan Articles (Layer 1 — offline)
+        run: node tools/find-orphans.js
+
+      - name: Fix Orphans (Layer 2 — AI, max 10/run)
+        run: node tools/fix-orphans.js --apply --limit=10
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and Push
+        id: commit_push
+        run: |
+          for p in content/ .orphan-fix-progress.json orphan-fixes.log; do
+            [ -e "$p" ] && git add "$p" || true
+          done
+
+          if git diff --staged --quiet; then
+            echo "ℹ️  Tidak ada perubahan — selesai."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Sisipkan internal link untuk artikel orphan"
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "✅ Push berhasil (percobaan $i)."
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "❌ Push gagal 5x — cek manual." >&2
+              exit 1
+            fi
+            sleep $(( (RANDOM % 10) + 5 ))
+            git fetch origin master
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Push dengan GITHUB_TOKEN TIDAK memicu workflow `push` lain (pengaman anti-rekursi GitHub),
+      # jadi deploy dipanggil eksplisit.
+      - name: Trigger Deploy
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref master

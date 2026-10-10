@@ -1,0 +1,99 @@
+name: Recycle Old Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'   # mingguan, Minggu 00:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: dataweb-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  recycle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Untrack node_modules & public (idempotent)
+        run: |
+          CHANGED=0
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          for p in node_modules public; do
+            if [ -n "$(git ls-files $p/ | head -n1)" ]; then
+              grep -qxF "$p/" .gitignore 2>/dev/null || echo "$p/" >> .gitignore
+              git rm -r --cached $p >/dev/null
+              CHANGED=1
+            fi
+          done
+          if [ "$CHANGED" = "1" ]; then
+            git add .gitignore
+            git commit -m "chore: untrack node_modules/public [skip ci]"
+            git push origin master
+          fi
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      # recycle-posts.js hanya menyetel `lastmod:` (bukan `date:`) pada artikel >= 12 bulan,
+      # lalu mengirim URL yang berubah ke IndexNow (Bing/Yandex/dll).
+      - name: Recycle posts
+        run: node tools/recycle-posts.js
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and Push
+        id: commit_push
+        run: |
+          # static/ ikut di-commit: file kunci IndexNow (static/<key>.txt) dibuat run pertama.
+          git add content/ static/
+          [ -f .indexnow-key.json ] && git add .indexnow-key.json
+          if git diff --staged --quiet; then
+            echo "ℹ️  Tidak ada artikel yang perlu di-recycle."
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Recycle posts (lastmod) [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push origin master; then
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            [ "$i" -eq 5 ] && { echo "❌ Push gagal 5x" >&2; exit 1; }
+            sleep $(( (RANDOM % 10) + 5 ))
+            git fetch origin master
+            git stash push -u -m "pre-rebase-autostash" || true
+            git rebase origin/master
+            git stash drop || true
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger Deploy
+        if: steps.commit_push.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref master

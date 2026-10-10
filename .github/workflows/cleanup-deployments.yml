@@ -1,0 +1,37 @@
+name: Cleanup Old GitHub Pages Deployments
+
+on:
+  schedule:
+    - cron: '0 3 1 * *'
+  workflow_dispatch:
+    inputs:
+      keep_count:
+        description: 'Jumlah deployment terbaru yang dipertahankan'
+        required: false
+        default: '5'
+
+concurrency:
+  group: cleanup-deployments
+  cancel-in-progress: false
+
+permissions:
+  deployments: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete old github-pages deployments (keep newest N)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          KEEP_COUNT: ${{ github.event.inputs.keep_count || '5' }}
+        run: |
+          mapfile -t ALL_IDS < <(gh api --paginate "/repos/$REPO/deployments?environment=github-pages&per_page=100" -q '.[].id')
+          TOTAL=${#ALL_IDS[@]}
+          echo "Total deployments: $TOTAL, keep: $KEEP_COUNT"
+          [ "$TOTAL" -le "$KEEP_COUNT" ] && exit 0
+          for id in "${ALL_IDS[@]:$KEEP_COUNT}"; do
+            gh api --method POST "/repos/$REPO/deployments/$id/statuses" -f state=inactive >/dev/null 2>&1 || true
+            gh api --method DELETE "/repos/$REPO/deployments/$id" >/dev/null 2>&1 && echo "deleted $id" || echo "failed $id"
+          done
