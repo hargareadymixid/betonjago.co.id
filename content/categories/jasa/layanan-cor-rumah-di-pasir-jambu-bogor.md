@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-54
 categories: 
 - "jasa"
 date: "2024-07-01"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Layanan Borongan Cor Rumah di Pasir Jambu Bogor ideal bagi proyek yang memerlukan pengecoran yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa beton, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Pasir Jambu Bogor"

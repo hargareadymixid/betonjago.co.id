@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-01-21"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan jasa sewa Pompa Cor di Cijantung Jakarta ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Kami menyediakan pilihan durasi sewa harian, mingguan dan bulananserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan bantuan teknis. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Cijantung Jakarta"

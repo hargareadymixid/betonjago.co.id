@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-38
 categories: 
 - "readymix"
 date: "2025-07-21"
+lastmod: "2026-10-11"
 price: "[1300000]"
 description: "Cor Molen di Karet Kuningan Jakarta: Harga Jasa Cor Molen profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability layanan, atau konsultasi gratis terkait Harga Jasa Cor Molen di Karet Kuningan Jakarta."
 focus_keyphrase: "Cor Molen di Karet Kuningan Jakarta"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-08-17"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Concrete Pump di Kebon Kelapa Jakarta: jasa sewa pompa cor profesional untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Kebon Kelapa Jakarta"

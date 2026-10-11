@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-02-09"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan jasa sewa Concrete Pump di Warakas Jakarta ideal bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Kami menyediakan opsi durasi sewa harian, per minggu dan per bulanserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, pengiriman tepat waktu, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau bantuan teknis terkait sewa Concrete Pump di Warakas Jakarta."
 focus_keyphrase: "Concrete Pump di Warakas Jakarta"

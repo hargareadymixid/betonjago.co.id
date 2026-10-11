@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-12
 categories: 
 - "readymix"
 date: "2024-06-28"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor ReadyMix di Rangkapan Jaya Depok: Biaya Jasa Cor ReadyMix terpercaya untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Biaya Jasa Cor ReadyMix di Rangkapan Jaya Depok."
 focus_keyphrase: "Cor ReadyMix di Rangkapan Jaya Depok"

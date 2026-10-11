@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-11-15"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Slipi Jakarta cocok bagi proyek yang butuh distribusi beton yang efisien dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Slipi Jakarta."
 focus_keyphrase: "Concrete Pump di Slipi Jakarta"

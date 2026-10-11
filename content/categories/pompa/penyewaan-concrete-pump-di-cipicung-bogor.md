@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-07-29"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan sewa Concrete Pump di Cipicung Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Kami menawarkan opsi durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Cipicung Bogor."
 focus_keyphrase: "Concrete Pump di Cipicung Bogor"

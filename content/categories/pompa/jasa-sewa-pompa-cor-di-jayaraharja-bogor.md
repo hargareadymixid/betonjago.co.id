@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-04-23"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Layanan jasa sewa Pompa Cor di Jayaraharja Bogor cocok bagi proyek yang butuh distribusi beton yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Jayaraharja Bogor."
 focus_keyphrase: "Pompa Cor di Jayaraharja Bogor"

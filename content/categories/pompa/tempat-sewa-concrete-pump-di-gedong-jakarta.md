@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-07-24"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Layanan sewa Concrete Pump di Gedong Jakarta cocok bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, logistik terorganisir, peralatan selalu diperiksa, serta dukungan teknis. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Gedong Jakarta"

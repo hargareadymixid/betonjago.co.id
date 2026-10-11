@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-06-22"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Karihkil Bogor: jasa sewa pompa beton terpercaya untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Karihkil Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-55
 categories: 
 - "jasa"
 date: "2024-12-24"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Layanan Borongan Cor Rumah di Kampung Tengah Jakarta cocok bagi proyek yang memerlukan pengecoran yang efisien dan presisi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Jasa Cor Rumah di Kampung Tengah Jakarta."
 focus_keyphrase: "Cor Rumah di Kampung Tengah Jakarta"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-30
 categories: 
 - "jasa"
 date: "2025-04-17"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Layanan Kontraktor Cor Lantai di Bali Mester Jakarta ideal bagi proyek yang butuh pengecoran yang efisien dan akurasi tinggi. Kami menawarkan opsi durasi layanan harian, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Bali Mester Jakarta"

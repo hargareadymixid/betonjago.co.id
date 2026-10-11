@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-07-21"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Concrete Pump di Kalibata Jakarta: penyewaan pompa cor terpercaya untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi sewa per hari, mingguan dan per bulanserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Kalibata Jakarta"

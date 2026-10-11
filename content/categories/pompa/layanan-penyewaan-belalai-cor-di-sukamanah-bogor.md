@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-09-05"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Sukamanah Bogor: jasa sewa pompa beton terpercaya untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Sukamanah Bogor"

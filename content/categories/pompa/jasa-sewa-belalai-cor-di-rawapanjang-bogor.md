@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-08-21"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan jasa sewa Belalai Cor di Rawapanjang Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Rawapanjang Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-23
 categories: 
 - "readymix"
 date: "2024-01-25"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Harga Jasa Cor Molen di Lemahduhur Bogor ideal bagi proyek yang butuh pengecoran yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Lemahduhur Bogor"

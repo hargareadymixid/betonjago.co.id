@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-44
 categories: 
 - "readymix"
 date: "2025-04-07"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor ReadyMix di Batu Tulis Bogor: Harga Jasa Cor ReadyMix berpengalaman untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan opsi durasi layanan harian, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan layanan, atau konsultasi gratis terkait Biaya Jasa Cor ReadyMix di Batu Tulis Bogor."
 focus_keyphrase: "Cor ReadyMix di Batu Tulis Bogor"

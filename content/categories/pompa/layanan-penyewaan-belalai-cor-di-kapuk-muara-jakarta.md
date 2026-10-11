@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-10-02"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Kapuk Muara Jakarta: penyewaan pompa cor profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, logistik terorganisir, peralatan selalu diperiksa, serta dukungan teknis. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Kapuk Muara Jakarta"

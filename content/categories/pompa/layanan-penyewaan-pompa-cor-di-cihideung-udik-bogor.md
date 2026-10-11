@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-09-03"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Pompa Cor di Cihideung Udik Bogor: layanan penyewaan concrete pump berpengalaman untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menawarkan pilihan durasi sewa per hari, mingguan dan bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan bantuan teknis. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Cihideung Udik Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-02-11"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Sukahati Bogor: penyewaan concrete pump terpercaya untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan opsi durasi sewa per hari, mingguan dan bulananserta beberapa tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, pengiriman tepat waktu, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Sukahati Bogor"

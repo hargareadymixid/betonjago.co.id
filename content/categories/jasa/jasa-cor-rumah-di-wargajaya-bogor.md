@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-11
 categories: 
 - "jasa"
 date: "2024-07-01"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Cor Rumah di Wargajaya Bogor: Tukang Cor Rumah berpengalaman untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Wargajaya Bogor"

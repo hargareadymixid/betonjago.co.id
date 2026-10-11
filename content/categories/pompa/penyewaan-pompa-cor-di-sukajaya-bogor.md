@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-06-11"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Pompa Cor di Sukajaya Bogor: layanan penyewaan pompa cor terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Pompa Cor di Sukajaya Bogor."
 focus_keyphrase: "Pompa Cor di Sukajaya Bogor"

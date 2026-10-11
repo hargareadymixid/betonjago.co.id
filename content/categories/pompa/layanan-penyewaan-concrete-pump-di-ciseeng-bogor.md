@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-04-05"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Concrete Pump di Ciseeng Bogor: penyewaan pompa cor terpercaya untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Ciseeng Bogor"

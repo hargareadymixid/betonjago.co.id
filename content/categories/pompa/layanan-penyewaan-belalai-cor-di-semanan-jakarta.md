@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-09-28"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan sewa Belalai Cor di Semanan Jakarta cocok bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menawarkan pilihan durasi sewa per hari, mingguan dan bulananserta berbagai tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan bantuan teknis. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Semanan Jakarta"

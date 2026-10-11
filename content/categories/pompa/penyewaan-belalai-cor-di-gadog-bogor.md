@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-04-03"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Belalai Cor di Gadog Bogor: jasa sewa pompa cor terpercaya untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan opsi durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Belalai Cor di Gadog Bogor."
 focus_keyphrase: "Belalai Cor di Gadog Bogor"

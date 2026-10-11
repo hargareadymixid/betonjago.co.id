@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-09-16"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Pompa Cor di Sukagalih Bogor: layanan penyewaan pompa beton profesional untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi sewa per hari, mingguan dan bulananserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan bantuan teknis. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Sukagalih Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-16
 categories: 
 - "jasa"
 date: "2024-01-09"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Layanan Borongan Cor Rumah di Leuwimekar Bogor ideal bagi proyek yang memerlukan pengecoran yang cepat dan akurasi tinggi. Kami menawarkan opsi durasi layanan per hari, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi ketersediaan layanan, atau konsultasi gratis terkait Jasa Cor Rumah di Leuwimekar Bogor."
 focus_keyphrase: "Cor Rumah di Leuwimekar Bogor"

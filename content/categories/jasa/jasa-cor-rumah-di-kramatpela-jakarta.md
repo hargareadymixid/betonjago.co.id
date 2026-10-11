@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-13
 categories: 
 - "jasa"
 date: "2025-03-10"
+lastmod: "2026-10-11"
 price: "[1300000]"
 description: "Cor Rumah di Kramatpela Jakarta: Borongan Cor Rumah terpercaya untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi layanan per hari, per minggu dan bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi availability layanan, atau konsultasi gratis terkait Jasa Cor Rumah di Kramatpela Jakarta."
 focus_keyphrase: "Cor Rumah di Kramatpela Jakarta"

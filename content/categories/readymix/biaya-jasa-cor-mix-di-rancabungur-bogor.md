@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-23
 categories: 
 - "readymix"
 date: "2025-04-22"
+lastmod: "2026-10-11"
 price: "[1300000]"
 description: "Cor Mix di Rancabungur Bogor: Harga Jasa Cor Mix profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability layanan, atau bantuan teknis terkait Harga Jasa Cor Mix di Rancabungur Bogor."
 focus_keyphrase: "Cor Mix di Rancabungur Bogor"

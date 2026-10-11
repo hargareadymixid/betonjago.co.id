@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-01-11"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Pompa Cor di Kabasiran Bogor: jasa sewa concrete pump terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Kabasiran Bogor"

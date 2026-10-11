@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-01-17"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Candali Bogor: layanan penyewaan pompa cor profesional untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi sewa per hari, mingguan dan per bulanserta berbagai tipe unit pompa cor seperti standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Belalai Cor di Candali Bogor."
 focus_keyphrase: "Belalai Cor di Candali Bogor"

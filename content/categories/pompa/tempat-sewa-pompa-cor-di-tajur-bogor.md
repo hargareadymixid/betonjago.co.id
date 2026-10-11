@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-10-11"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan jasa sewa Pompa Cor di Tajur Bogor cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menawarkan opsi durasi sewa harian, per minggu dan per bulanserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi profesional, pengiriman tepat waktu, peralatan selalu diperiksa, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Tajur Bogor."
 focus_keyphrase: "Pompa Cor di Tajur Bogor"

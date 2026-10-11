@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-51
 categories: 
 - "jasa"
 date: "2024-08-15"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Layanan Kontraktor Cor Lantai di Kalong I Bogor ideal bagi proyek yang butuh pengecoran yang cepat dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Kalong I Bogor"

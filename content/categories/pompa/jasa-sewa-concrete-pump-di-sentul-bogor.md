@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-12-20"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Sentul Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Kami menyediakan opsi durasi sewa harian, mingguan dan per bulanserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: teknisi profesional, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Sentul Bogor"

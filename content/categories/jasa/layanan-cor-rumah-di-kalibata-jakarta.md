@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-41
 categories: 
 - "jasa"
 date: "2025-05-20"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor Rumah di Kalibata Jakarta: Layanan Cor Rumah berpengalaman untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Kalibata Jakarta"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-03-12"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Setu Daun Bogor: layanan penyewaan pompa beton terpercaya untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Setu Daun Bogor."
 focus_keyphrase: "Belalai Cor di Setu Daun Bogor"

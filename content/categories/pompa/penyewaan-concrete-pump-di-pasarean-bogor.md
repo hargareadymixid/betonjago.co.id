@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-11-16"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Concrete Pump di Pasarean Bogor: penyewaan pompa beton terpercaya untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: teknisi tersertifikasi, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Pasarean Bogor."
 focus_keyphrase: "Concrete Pump di Pasarean Bogor"

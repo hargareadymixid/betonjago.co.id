@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-03-09"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan sewa Belalai Cor di Pasirmukti Bogor cocok bagi proyek yang butuh distribusi beton yang efisien dan presisi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi profesional, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Pasirmukti Bogor"

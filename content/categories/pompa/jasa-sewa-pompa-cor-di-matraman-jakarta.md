@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-05-10"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Layanan jasa sewa Pompa Cor di Matraman Jakarta ideal bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Matraman Jakarta."
 focus_keyphrase: "Pompa Cor di Matraman Jakarta"

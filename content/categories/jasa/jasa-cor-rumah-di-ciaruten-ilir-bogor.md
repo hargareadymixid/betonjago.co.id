@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-13
 categories: 
 - "jasa"
 date: "2024-12-26"
+lastmod: "2026-10-11"
 price: "[1300000]"
 description: "Cor Rumah di Ciaruten Ilir Bogor: Layanan Cor Rumah profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan pilihan durasi layanan harian, per minggu dan bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Jasa Cor Rumah di Ciaruten Ilir Bogor."
 focus_keyphrase: "Cor Rumah di Ciaruten Ilir Bogor"

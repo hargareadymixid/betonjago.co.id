@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-08-29"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan sewa Pompa Cor di Leuwibatu Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Leuwibatu Bogor"

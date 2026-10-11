@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-05-10"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Pompa Cor di Pancawati Bogor: penyewaan pompa cor terpercaya untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menawarkan pilihan durasi sewa per hari, per minggu dan bulananserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Pancawati Bogor"

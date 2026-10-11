@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-45
 categories: 
 - "readymix"
 date: "2025-04-01"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor Mix di Kuripan Bogor: Harga Jasa Cor Mix berpengalaman untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menawarkan pilihan durasi layanan per hari, per minggu dan bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability layanan, atau bantuan teknis terkait Harga Jasa Cor Mix di Kuripan Bogor."
 focus_keyphrase: "Cor Mix di Kuripan Bogor"

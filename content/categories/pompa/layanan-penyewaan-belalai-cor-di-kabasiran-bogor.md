@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-12-15"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Kabasiran Bogor: jasa sewa concrete pump berpengalaman untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Kabasiran Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-05-17"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Jagabita Bogor: jasa sewa pompa cor terpercaya untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Jagabita Bogor"

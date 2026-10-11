@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-24
 categories: 
 - "readymix"
 date: "2024-01-17"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Harga Jasa Cor ReadyMix di Desacipeucang Bogor cocok bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor ReadyMix di Desacipeucang Bogor"

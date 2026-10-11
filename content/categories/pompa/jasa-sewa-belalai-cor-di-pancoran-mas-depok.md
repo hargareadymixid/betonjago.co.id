@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-11-15"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Pancoran Mas Depok: jasa sewa pompa cor berpengalaman untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Pancoran Mas Depok."
 focus_keyphrase: "Belalai Cor di Pancoran Mas Depok"

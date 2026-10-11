@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-02-19"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Concrete Pump di Lumpang Bogor: layanan penyewaan pompa beton terpercaya untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menawarkan opsi durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Concrete Pump di Lumpang Bogor."
 focus_keyphrase: "Concrete Pump di Lumpang Bogor"

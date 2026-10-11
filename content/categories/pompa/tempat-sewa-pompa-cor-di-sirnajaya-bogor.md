@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-12-05"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Pompa Cor di Sirnajaya Bogor: layanan penyewaan pompa beton berpengalaman untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menawarkan pilihan durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Sirnajaya Bogor"

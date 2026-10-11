@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-31
 categories: 
 - "readymix"
 date: "2025-06-07"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Biaya Jasa Cor Mix di Cimandehilir Bogor cocok bagi proyek yang memerlukan pengecoran yang efisien dan presisi. Kami menawarkan pilihan durasi layanan harian, per minggu dan bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan layanan, atau bantuan teknis terkait Harga Jasa Cor Mix di Cimandehilir Bogor."
 focus_keyphrase: "Cor Mix di Cimandehilir Bogor"

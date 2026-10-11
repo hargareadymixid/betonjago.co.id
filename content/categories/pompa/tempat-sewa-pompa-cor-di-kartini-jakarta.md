@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-04-24"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Pompa Cor di Kartini Jakarta: jasa sewa concrete pump terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan bantuan teknis. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Kartini Jakarta"

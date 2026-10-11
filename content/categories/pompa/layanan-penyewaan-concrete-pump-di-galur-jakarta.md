@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-02-13"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Layanan jasa sewa Concrete Pump di Galur Jakarta cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Galur Jakarta."
 focus_keyphrase: "Concrete Pump di Galur Jakarta"

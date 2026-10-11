@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-07-02"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Belalai Cor di Bantarkaret Bogor: layanan penyewaan pompa cor berpengalaman untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menawarkan pilihan durasi sewa per hari, mingguan dan per bulanserta beberapa tipe unit pompa seperti pompa standar, portable, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Belalai Cor di Bantarkaret Bogor."
 focus_keyphrase: "Belalai Cor di Bantarkaret Bogor"

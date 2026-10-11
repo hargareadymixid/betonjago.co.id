@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-50
 categories: 
 - "readymix"
 date: "2024-07-17"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor Mix di Klapanunggal Bogor: Harga Jasa Cor Mix berpengalaman untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi layanan harian, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Mix di Klapanunggal Bogor"

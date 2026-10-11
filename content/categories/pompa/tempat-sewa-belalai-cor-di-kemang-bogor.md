@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-10-11"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Belalai Cor di Kemang Bogor: layanan penyewaan concrete pump profesional untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Belalai Cor di Kemang Bogor."
 focus_keyphrase: "Belalai Cor di Kemang Bogor"

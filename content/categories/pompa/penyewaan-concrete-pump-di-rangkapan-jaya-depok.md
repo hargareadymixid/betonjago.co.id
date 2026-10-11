@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-02-02"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan jasa sewa Concrete Pump di Rangkapan Jaya Depok ideal bagi proyek yang butuh distribusi beton yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable dengan boom pendek, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Rangkapan Jaya Depok"

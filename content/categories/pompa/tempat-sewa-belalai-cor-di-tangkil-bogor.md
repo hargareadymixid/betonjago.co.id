@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-03-03"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Belalai Cor di Tangkil Bogor: penyewaan concrete pump profesional untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menyediakan pilihan durasi sewa harian, per minggu dan per bulanserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Tangkil Bogor"

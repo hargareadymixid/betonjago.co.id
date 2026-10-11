@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-02-02"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Pompa Cor di Cigombong Bogor: jasa sewa pompa cor terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Cigombong Bogor."
 focus_keyphrase: "Pompa Cor di Cigombong Bogor"

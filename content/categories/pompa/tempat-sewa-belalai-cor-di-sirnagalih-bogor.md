@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-05-19"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan jasa sewa Belalai Cor di Sirnagalih Bogor ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi profesional, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Sirnagalih Bogor"

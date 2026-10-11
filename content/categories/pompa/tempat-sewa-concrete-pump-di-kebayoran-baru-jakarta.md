@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-07-26"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan sewa Concrete Pump di Kebayoran Baru Jakarta cocok bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menawarkan pilihan durasi sewa per hari, per minggu dan per bulanserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Kebayoran Baru Jakarta."
 focus_keyphrase: "Concrete Pump di Kebayoran Baru Jakarta"

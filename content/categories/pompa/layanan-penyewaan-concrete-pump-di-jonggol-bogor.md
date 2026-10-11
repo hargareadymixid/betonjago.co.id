@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-03-31"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Layanan jasa sewa Concrete Pump di Jonggol Bogor ideal bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menyediakan pilihan durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Concrete Pump di Jonggol Bogor."
 focus_keyphrase: "Concrete Pump di Jonggol Bogor"

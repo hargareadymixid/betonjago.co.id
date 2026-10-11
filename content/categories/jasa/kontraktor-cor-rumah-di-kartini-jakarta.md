@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-29
 categories: 
 - "jasa"
 date: "2025-02-27"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Layanan Jasa Cor Rumah di Kartini Jakarta ideal bagi proyek yang butuh pengecoran yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Jasa Cor Rumah di Kartini Jakarta."
 focus_keyphrase: "Cor Rumah di Kartini Jakarta"

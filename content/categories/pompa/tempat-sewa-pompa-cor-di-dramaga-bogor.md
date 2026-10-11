@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-10-13"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Pompa Cor di Dramaga Bogor: layanan penyewaan concrete pump terpercaya untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi sewa per hari, mingguan dan bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Dramaga Bogor."
 focus_keyphrase: "Pompa Cor di Dramaga Bogor"

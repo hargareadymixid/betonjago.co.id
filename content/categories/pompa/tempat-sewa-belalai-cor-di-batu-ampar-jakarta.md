@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-10-05"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Belalai Cor di Batu Ampar Jakarta: penyewaan concrete pump berpengalaman untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi profesional, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Batu Ampar Jakarta"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-05-16"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Belalai Cor di Cilangkap Depok: jasa sewa pompa cor terpercaya untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Belalai Cor di Cilangkap Depok."
 focus_keyphrase: "Belalai Cor di Cilangkap Depok"

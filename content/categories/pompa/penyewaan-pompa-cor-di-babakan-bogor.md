@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-04-11"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Layanan jasa sewa Pompa Cor di Babakan Bogor ideal bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Babakan Bogor."
 focus_keyphrase: "Pompa Cor di Babakan Bogor"

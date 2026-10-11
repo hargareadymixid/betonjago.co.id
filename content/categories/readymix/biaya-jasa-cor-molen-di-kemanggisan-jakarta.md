@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-02
 categories: 
 - "readymix"
 date: "2024-08-20"
+lastmod: "2026-10-11"
 price: "[1300000]"
 description: "Cor Molen di Kemanggisan Jakarta: Biaya Jasa Cor Molen berpengalaman untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan layanan, atau konsultasi gratis terkait Biaya Jasa Cor Molen di Kemanggisan Jakarta."
 focus_keyphrase: "Cor Molen di Kemanggisan Jakarta"

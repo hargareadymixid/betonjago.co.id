@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-18
 categories: 
 - "jasa"
 date: "2025-08-31"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Cor Rumah di Sukamaju Depok: Tukang Cor Rumah terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan opsi durasi layanan harian, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability layanan, atau konsultasi gratis terkait Jasa Cor Rumah di Sukamaju Depok."
 focus_keyphrase: "Cor Rumah di Sukamaju Depok"

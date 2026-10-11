@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-04-11"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan jasa sewa Belalai Cor di Kenari Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Kenari Jakarta."
 focus_keyphrase: "Belalai Cor di Kenari Jakarta"

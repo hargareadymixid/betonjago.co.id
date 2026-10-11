@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-13
 categories: 
 - "readymix"
 date: "2024-04-19"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor ReadyMix di Sibanteng Bogor: Biaya Jasa Cor ReadyMix terpercaya untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan opsi durasi layanan per hari, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor ReadyMix di Sibanteng Bogor"

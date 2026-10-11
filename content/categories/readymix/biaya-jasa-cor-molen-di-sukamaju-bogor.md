@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-39
 categories: 
 - "readymix"
 date: "2024-04-06"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Cor Molen di Sukamaju Bogor: Harga Jasa Cor Molen profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menawarkan pilihan durasi layanan per hari, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Sukamaju Bogor"

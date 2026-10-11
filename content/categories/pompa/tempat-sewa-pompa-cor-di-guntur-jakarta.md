@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-05-11"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Pompa Cor di Guntur Jakarta: penyewaan concrete pump profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Guntur Jakarta."
 focus_keyphrase: "Pompa Cor di Guntur Jakarta"

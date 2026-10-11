@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-16
 categories: 
 - "readymix"
 date: "2024-10-19"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Harga Jasa Cor Molen di Angke Jakarta ideal bagi proyek yang butuh pengecoran yang efisien dan akurasi tinggi. Kami menawarkan opsi durasi layanan harian, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Angke Jakarta"

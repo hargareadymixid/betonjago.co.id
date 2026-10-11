@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-01-06"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Pompa Cor di Bali Mester Jakarta: jasa sewa pompa cor terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan pilihan durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Bali Mester Jakarta."
 focus_keyphrase: "Pompa Cor di Bali Mester Jakarta"

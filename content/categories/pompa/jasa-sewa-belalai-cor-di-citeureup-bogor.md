@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-05-31"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Belalai Cor di Citeureup Bogor: layanan penyewaan pompa cor terpercaya untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Citeureup Bogor"

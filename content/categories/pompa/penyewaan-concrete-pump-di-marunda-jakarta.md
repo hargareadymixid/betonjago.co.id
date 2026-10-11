@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-06-27"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Concrete Pump di Marunda Jakarta: layanan penyewaan concrete pump berpengalaman untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan opsi durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Concrete Pump di Marunda Jakarta."
 focus_keyphrase: "Concrete Pump di Marunda Jakarta"

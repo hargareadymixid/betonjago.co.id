@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-33
 categories: 
 - "jasa"
 date: "2025-02-17"
-lastmod: "2026-10-10"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Layanan Tukang Cor Lantai di Tarikolot Bogor ideal bagi proyek yang butuh pengecoran yang efisien dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Tarikolot Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-08-08"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Belalai Cor di Cibeuteung Udik Bogor: layanan penyewaan pompa beton terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menawarkan opsi durasi sewa per hari, per minggu dan per bulanserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan bantuan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Cibeuteung Udik Bogor."
 focus_keyphrase: "Belalai Cor di Cibeuteung Udik Bogor"

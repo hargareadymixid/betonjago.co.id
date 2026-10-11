@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-04-12"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Concrete Pump di Gununggeulis Bogor: penyewaan pompa cor profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Concrete Pump di Gununggeulis Bogor."
 focus_keyphrase: "Concrete Pump di Gununggeulis Bogor"

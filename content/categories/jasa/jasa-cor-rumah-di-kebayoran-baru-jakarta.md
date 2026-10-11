@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-54
 categories: 
 - "jasa"
 date: "2024-02-28"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Cor Rumah di Kebayoran Baru Jakarta: Tukang Cor Rumah berpengalaman untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Kebayoran Baru Jakarta"

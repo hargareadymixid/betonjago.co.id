@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-09-09"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan jasa sewa Concrete Pump di Baru Jakarta ideal bagi proyek yang butuh distribusi beton yang efisien dan presisi. Kami menyediakan opsi durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Concrete Pump di Baru Jakarta."
 focus_keyphrase: "Concrete Pump di Baru Jakarta"

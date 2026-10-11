@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-50
 categories: 
 - "readymix"
 date: "2024-01-28"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Harga Jasa Cor ReadyMix di Lenteng Agung Jakarta cocok bagi proyek yang memerlukan pengecoran yang cepat dan akurasi tinggi. Kami menyediakan opsi durasi layanan per hari, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor ReadyMix di Lenteng Agung Jakarta"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-08-20"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Layanan jasa sewa Concrete Pump di Duri Jakarta ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menyediakan opsi durasi sewa harian, per minggu dan bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Duri Jakarta."
 focus_keyphrase: "Concrete Pump di Duri Jakarta"

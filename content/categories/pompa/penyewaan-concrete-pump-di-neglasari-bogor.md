@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-12-25"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Concrete Pump di Neglasari Bogor: penyewaan concrete pump berpengalaman untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan opsi durasi sewa per hari, per minggu dan per bulanserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi tersertifikasi, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Neglasari Bogor."
 focus_keyphrase: "Concrete Pump di Neglasari Bogor"

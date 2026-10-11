@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-62
 categories: 
 - "jasa"
 date: "2024-09-06"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor Rumah di Pasir Jambu Bogor: Tukang Cor Rumah terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi layanan harian, per minggu dan per bulan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Pasir Jambu Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-04-30"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Concrete Pump di Waringin Jaya Bogor: jasa sewa concrete pump terpercaya untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menawarkan pilihan durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Waringin Jaya Bogor"

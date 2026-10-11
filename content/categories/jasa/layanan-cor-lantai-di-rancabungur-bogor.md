@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-34
 categories: 
 - "jasa"
 date: "2024-12-17"
+lastmod: "2026-10-11"
 price: "[1300000]"
 description: "Cor Lantai di Rancabungur Bogor: Jasa Cor Lantai profesional untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menyediakan pilihan durasi layanan per hari, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Rancabungur Bogor"

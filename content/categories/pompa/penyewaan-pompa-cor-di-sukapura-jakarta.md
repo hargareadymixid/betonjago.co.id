@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-09-30"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Layanan jasa sewa Pompa Cor di Sukapura Jakarta ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menyediakan opsi durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Sukapura Jakarta"

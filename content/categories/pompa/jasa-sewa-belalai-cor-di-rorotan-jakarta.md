@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-09-19"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan jasa sewa Belalai Cor di Rorotan Jakarta ideal bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Rorotan Jakarta"

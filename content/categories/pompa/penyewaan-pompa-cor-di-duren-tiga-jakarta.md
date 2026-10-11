@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-06-20"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Pompa Cor di Duren Tiga Jakarta: penyewaan pompa beton terpercaya untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menyediakan pilihan durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Pompa Cor di Duren Tiga Jakarta."
 focus_keyphrase: "Pompa Cor di Duren Tiga Jakarta"

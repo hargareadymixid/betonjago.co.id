@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-09-22"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Belalai Cor di Cipayung Jakarta: layanan penyewaan pompa cor profesional untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan opsi durasi sewa harian, per minggu dan bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Cipayung Jakarta"

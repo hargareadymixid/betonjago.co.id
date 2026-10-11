@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-20
 categories: 
 - "readymix"
 date: "2025-09-28"
+lastmod: "2026-10-11"
 price: "[1300000]"
 description: "Cor Mix di Leuwimalang Bogor: Harga Jasa Cor Mix terpercaya untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan pilihan durasi layanan harian, per minggu dan per bulan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi ketersediaan layanan, atau bantuan teknis terkait Biaya Jasa Cor Mix di Leuwimalang Bogor."
 focus_keyphrase: "Cor Mix di Leuwimalang Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-06-16"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Pompa Cor di Pangaur Bogor: layanan penyewaan pompa cor profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan opsi durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Pangaur Bogor."
 focus_keyphrase: "Pompa Cor di Pangaur Bogor"

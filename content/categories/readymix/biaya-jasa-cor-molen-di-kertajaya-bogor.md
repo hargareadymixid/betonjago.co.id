@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-39
 categories: 
 - "readymix"
 date: "2024-05-15"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Cor Molen di Kertajaya Bogor: Harga Jasa Cor Molen profesional untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi layanan harian, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Kertajaya Bogor"

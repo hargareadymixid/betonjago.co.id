@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-08-15"
+lastmod: "2026-10-11"
 price: "[4000000]"
 description: "Concrete Pump di Petojo Jakarta: layanan penyewaan pompa beton profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menyediakan opsi durasi sewa harian, mingguan dan per bulanserta berbagai tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: teknisi profesional, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau bantuan teknis terkait sewa Concrete Pump di Petojo Jakarta."
 focus_keyphrase: "Concrete Pump di Petojo Jakarta"

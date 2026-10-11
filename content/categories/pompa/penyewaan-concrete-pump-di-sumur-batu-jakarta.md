@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-03-11"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Concrete Pump di Sumur Batu Jakarta: penyewaan pompa beton berpengalaman untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menawarkan pilihan durasi sewa harian, per minggu dan bulananserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Sumur Batu Jakarta"

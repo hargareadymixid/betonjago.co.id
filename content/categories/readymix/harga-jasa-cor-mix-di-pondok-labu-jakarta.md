@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-39
 categories: 
 - "readymix"
 date: "2025-04-27"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Cor Mix di Pondok Labu Jakarta: Harga Jasa Cor Mix berpengalaman untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi layanan per hari, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan tradisional, pompa beton, long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau konsultasi gratis terkait Biaya Jasa Cor Mix di Pondok Labu Jakarta."
 focus_keyphrase: "Cor Mix di Pondok Labu Jakarta"

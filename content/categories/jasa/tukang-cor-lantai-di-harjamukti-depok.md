@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-09
 categories: 
 - "jasa"
 date: "2025-01-19"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Layanan Layanan Cor Lantai di Harjamukti Depok ideal bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Kami menawarkan pilihan durasi layanan harian, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Harjamukti Depok"

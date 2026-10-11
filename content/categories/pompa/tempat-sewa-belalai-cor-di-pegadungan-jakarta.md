@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-01-15"
+lastmod: "2026-10-11"
 price: "[4600000]"
 description: "Layanan jasa sewa Belalai Cor di Pegadungan Jakarta cocok bagi proyek yang butuh distribusi beton yang efisien dan presisi. Kami menawarkan opsi durasi sewa harian, mingguan dan bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Pegadungan Jakarta."
 focus_keyphrase: "Belalai Cor di Pegadungan Jakarta"

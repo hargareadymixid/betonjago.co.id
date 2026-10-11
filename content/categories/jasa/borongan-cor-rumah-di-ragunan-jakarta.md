@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-55
 categories: 
 - "jasa"
 date: "2024-02-24"
+lastmod: "2026-10-11"
 price: "[1200000]"
 description: "Cor Rumah di Ragunan Jakarta: Jasa Cor Rumah profesional untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability layanan, atau bantuan teknis terkait Jasa Cor Rumah di Ragunan Jakarta."
 focus_keyphrase: "Cor Rumah di Ragunan Jakarta"

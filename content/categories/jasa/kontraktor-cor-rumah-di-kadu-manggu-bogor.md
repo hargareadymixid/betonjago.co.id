@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-50
 categories: 
 - "jasa"
 date: "2025-01-27"
+lastmod: "2026-10-11"
 price: "[1100000]"
 description: "Layanan Kontraktor Cor Rumah di Kadu Manggu Bogor cocok bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Kadu Manggu Bogor"

@@ -5,6 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-08-24"
+lastmod: "2026-10-11"
 price: "[3800000]"
 description: "Belalai Cor di Rawa Bunga Jakarta: penyewaan concrete pump terpercaya untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan pilihan durasi sewa per hari, per minggu dan per bulanserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Belalai Cor di Rawa Bunga Jakarta."
 focus_keyphrase: "Belalai Cor di Rawa Bunga Jakarta"
