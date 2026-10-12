@@ -633,6 +633,9 @@ function getAutoSeedKeywords(gscKeywordsThisRun, n) {
     .map(k => k.keyword);
 }
 
+// Kredit Serper yang sudah terpakai di run ini (dibagi antara seed GSC dan seed manual).
+let serperCreditsUsed = 0;
+
 async function fetchKeywordIdeasFromSerper(seedKeywords) {
   if (IS_DRY_RUN) {
     console.log('   🧪 DRY-RUN: skipping real Serper.dev calls (no credits used).');
@@ -647,13 +650,12 @@ async function fetchKeywordIdeasFromSerper(seedKeywords) {
     return [];
   }
 
-  console.log(`\n🔬 Researching keyword ideas from Serper.dev for ${seedKeywords.length} seed(s) (budget: ${CONFIG.SERPER_DAILY_BUDGET} credits)...`);
+  console.log(`\n🔬 Researching keyword ideas from Serper.dev for ${seedKeywords.length} seed(s) (budget: ${CONFIG.SERPER_DAILY_BUDGET - serperCreditsUsed} credit(s) left)...`);
 
   const ideas = new Set();
-  let creditsUsed = 0;
 
   for (const seed of seedKeywords) {
-    if (creditsUsed >= CONFIG.SERPER_DAILY_BUDGET) {
+    if (serperCreditsUsed >= CONFIG.SERPER_DAILY_BUDGET) {
       console.log(`   🛑 Serper.dev budget reached (${CONFIG.SERPER_DAILY_BUDGET} credits) — stopping early this run.`);
       break;
     }
@@ -661,18 +663,26 @@ async function fetchKeywordIdeasFromSerper(seedKeywords) {
       // 1 credit: a regular /search call already includes BOTH `relatedSearches` and
       // `peopleAlsoAsk` in the same response (confirmed from serper.dev's own docs/examples).
       const serp = await serperSearch('search', { q: seed, gl: CONFIG.SERPER_COUNTRY, hl: CONFIG.SERPER_LANG });
-      creditsUsed++;
+      serperCreditsUsed++;
 
-      (serp.relatedSearches || []).forEach(r => r.query    && ideas.add(r.query.trim()));
-      (serp.peopleAlsoAsk   || []).forEach(r => r.question && ideas.add(r.question.trim()));
+      const related = (serp && serp.relatedSearches) || [];
+      const paa     = (serp && serp.peopleAlsoAsk)   || [];
+      related.forEach(r => r.query    && ideas.add(r.query.trim()));
+      paa.forEach(r => r.question && ideas.add(r.question.trim()));
+      if (related.length + paa.length === 0) {
+        // Diagnostik: tampilkan field yang dikembalikan Serper supaya penyebab 0 ide terlihat
+        // (seed terlalu spesifik, nama field berubah, atau respons berisi error/kuota).
+        const keys = serp && typeof serp === 'object' ? Object.keys(serp).join(', ') : typeof serp;
+        console.log(`   ⚠️  Serper untuk "${seed}" tidak mengembalikan relatedSearches/peopleAlsoAsk. Field respons: [${keys}]. Cuplikan: ${JSON.stringify(serp).slice(0, 300)}`);
+      }
 
-      if (CONFIG.SERPER_USE_AUTOCOMPLETE && creditsUsed < CONFIG.SERPER_DAILY_BUDGET) {
+      if (CONFIG.SERPER_USE_AUTOCOMPLETE && serperCreditsUsed < CONFIG.SERPER_DAILY_BUDGET) {
         // BEST-EFFORT: Serper.dev lists "Autocomplete" as a supported search type, but its
         // exact response field names aren't clearly published. We try a few plausible
         // shapes; if none match, we log the raw response so it can be fixed once instead of
         // silently returning nothing.
         const ac = await serperSearch('autocomplete', { q: seed, gl: CONFIG.SERPER_COUNTRY, hl: CONFIG.SERPER_LANG });
-        creditsUsed++;
+        serperCreditsUsed++;
         const before = ideas.size;
         (ac.suggestions || ac.autocomplete || []).forEach(s => {
           const val = typeof s === 'string' ? s : (s.value || s.query || s.suggestion);
@@ -683,7 +693,7 @@ async function fetchKeywordIdeasFromSerper(seedKeywords) {
         }
       }
 
-      console.log(`   ✓ "${seed}" → ${ideas.size} unique idea(s) so far (${creditsUsed} credit(s) used)`);
+      console.log(`   ✓ "${seed}" → ${ideas.size} unique idea(s) so far (${serperCreditsUsed} credit(s) used)`);
     } catch (err) {
       console.error(`   ❌ Serper.dev failed for "${seed}": ${err.message}`);
     }
@@ -693,7 +703,7 @@ async function fetchKeywordIdeasFromSerper(seedKeywords) {
     .filter(kw => hasMinKeywordWords(kw, 3)) // same rule as GSC: ≥3 significant words, conjunctions excluded
     .map(kw => ({ keyword: kw, impressions: 0, clicks: 0, ctr: 0, position: 0 }));
 
-  console.log(`✅ ${results.length} new keyword idea(s) from Serper.dev (${creditsUsed} credit(s) used this run).`);
+  console.log(`✅ ${results.length} new keyword idea(s) from Serper.dev (${serperCreditsUsed} credit(s) used this run).`);
   return results;
 }
 
@@ -717,9 +727,34 @@ function getSeedKeywords(gscKeywordsThisRun) {
 
 // Gathers seeds (GSC-primary, seed-keywords.txt-alternative) and runs the research. Shared
 // by --research-only mode and the automatic 2nd-tier fallback in main().
+// Seed manual diputar berdasarkan hari supaya run berurutan tidak memakai seed yang sama terus.
+function pickRotatingManualSeeds(n) {
+  const all = getManualSeedKeywords();
+  if (!all.length || n <= 0) return [];
+  const dayNumber = Math.floor(Date.now() / 86400000);
+  const start = (dayNumber * n) % all.length;
+  const out = [];
+  for (let i = 0; i < Math.min(n, all.length); i++) out.push(all[(start + i) % all.length]);
+  return out;
+}
+
 async function runSerperResearch(gscKeywordsThisRun) {
   const seeds = getSeedKeywords(gscKeywordsThisRun);
-  return fetchKeywordIdeasFromSerper(seeds);
+  const results = await fetchKeywordIdeasFromSerper(seeds);
+
+  // Cadangan: seed dari GSC tidak menghasilkan ide apa pun (mis. semua query GSC sudah jadi
+  // artikel, atau Serper tidak punya "pencarian terkait" untuknya) → coba seed-keywords.txt
+  // dengan sisa budget, bukan berhenti. Hanya jika seed pertama memang berasal dari GSC.
+  const usedGscSeeds = getAutoSeedKeywords(gscKeywordsThisRun, CONFIG.SERPER_AUTO_SEED_COUNT).length > 0;
+  if (!results.length && usedGscSeeds && !IS_DRY_RUN && CONFIG.SERPER_API_KEY) {
+    const remaining = CONFIG.SERPER_DAILY_BUDGET - serperCreditsUsed;
+    const manual = pickRotatingManualSeeds(remaining);
+    if (manual.length) {
+      console.log(`   🔁 Seed GSC tidak menghasilkan ide — mencoba ${manual.length} seed dari seed-keywords.txt: ${manual.join(', ')}`);
+      return fetchKeywordIdeasFromSerper(manual);
+    }
+  }
+  return results;
 }
 
 // Appends new keywords to keywords.txt, skipping ones already present (case-insensitive).
