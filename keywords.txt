@@ -1,8 +1,5 @@
 bangunan beton
 bangunan cor
-bangunan dak cor
-biaya borongan dak rumah per meter
-biaya buat dak beton
 biaya buat dak per meter
 biaya buat dak rumah
 biaya buat tangga cor
