@@ -49,6 +49,12 @@ const {
 // trusted directly.
 const { renderSafeTables, hasLeftoverTableMarkers } = require('./lib/safe-table.js');
 
+// Deteksi keyword/artikel "sama topik" (stemming, bobot kata generik, intent, mutu K225≠K300).
+// Dipakai untuk (a) membandingkan keyword dengan artikel yang sudah ada, dan (b) memilih HANYA
+// SATU keyword dari kelompok keyword mirip di dalam satu batch (mis. "biaya ngedak rumah per meter"
+// / "... per meter persegi" / "... pakai bondek").
+const KS = require('./lib/keyword-similarity.js');
+
 function renderTemplate(str, vars) {
   return str.replace(/\{\{(\w+)\}\}/g, (_, key) => (key in vars ? vars[key] : `{{${key}}}`));
 }
@@ -478,7 +484,7 @@ function hasMinKeywordWords(text, min = 3) {
 }
 // ─────────────────────────────────────────────────────────────────────────────
 
-const SIMILARITY_ALGO_VERSION = 2;
+const SIMILARITY_ALGO_VERSION = 3; // 3 = keyword-similarity.js (sama dengan dedupe-articles.js)
 
 const SIMILARITY_STOPWORDS = new Set([
   'jual', 'jasa', 'harga', 'sewa', 'beli', 'biaya', 'tukang', 'pasang',
@@ -768,26 +774,31 @@ function appendKeywordsToFile(newKeywords) {
 }
 // ─────────────────────────────────────────────────────────────────────────────
 
-function findSimilarExisting(keyword, existingItems) {
-  const kwIntent = detectIntent(keyword);
-  for (const item of existingItems) {
-    const itemIntent = detectIntent(item.keyword || '') || detectIntent(item.title || '');
-    const candidates = [item.keyword, item.title].filter(Boolean);
-    for (const candidate of candidates) {
-      const { sharedCount, jaccard, minWords } = overlapSimilarity(keyword, candidate);
-      if (!isSimilarPair(sharedCount, jaccard, minWords)) continue;
+function findSimilarExisting(keyword, pool) {
+  return KS.findSimilar(keyword, pool);
+}
 
-      if (kwIntent && itemIntent && kwIntent !== itemIntent) continue;
-
-      return item;
-    }
+// Dari sekumpulan keyword yang saling mirip, pertahankan SATU saja per kelompok.
+// Pemenang: impresi GSC tertinggi → lalu keyword terpendek (paling umum) → lalu urutan asli.
+// Urutan asli list dipertahankan di hasil (penting untuk keywords.txt yang diproses dari atas).
+function pickOnePerSimilarGroup(items) {
+  const analyzed = items.map((it, idx) => ({ it, idx, a: KS.analyze(it.keyword), len: it.keyword.length }));
+  const ranked = [...analyzed].sort((x, y) =>
+    ((y.it.impressions || 0) - (x.it.impressions || 0)) || (x.len - y.len) || (x.idx - y.idx));
+  const winners = [];
+  const dropped = [];
+  for (const cand of ranked) {
+    const twin = winners.find(w => KS.isDuplicate(cand.a, w.a));
+    if (twin) dropped.push({ item: cand.it, twin: twin.it });
+    else winners.push(cand);
   }
-  return null;
+  const keepIdx = new Set(winners.map(w => w.idx));
+  return { kept: items.filter((_, i) => keepIdx.has(i)), dropped };
 }
 
 function filterOutSimilarKeywords(keywords) {
   const excluded = loadExcludedKeywords();
-  const existingItems = getExistingArticleTexts();
+  const pool = KS.buildPool(getExistingArticleTexts());
   const kept = [];
   let newlyExcluded = 0;
 
@@ -795,7 +806,7 @@ function filterOutSimilarKeywords(keywords) {
     const key = item.keyword.toLowerCase().trim();
     if (excluded[key]) continue;
 
-    const similar = findSimilarExisting(item.keyword, existingItems);
+    const similar = findSimilarExisting(item.keyword, pool);
     if (similar) {
       excluded[key] = {
         reason: 'similar to existing article',
@@ -813,7 +824,14 @@ function filterOutSimilarKeywords(keywords) {
 
   if (newlyExcluded > 0) saveExcludedKeywords(excluded);
   console.log(`   🔎 ${newlyExcluded} new keywords marked excluded (similar to existing articles), ${Object.keys(excluded).length} total excluded so far.`);
-  return kept;
+
+  // Antar-keyword dalam batch yang sama: satu topik = satu artikel.
+  const { kept: unique, dropped } = pickOnePerSimilarGroup(kept);
+  for (const d of dropped) {
+    console.log(`   ⏭️  Skipping "${d.item.keyword}" — satu topik dengan "${d.twin.keyword}" (hanya 1 yang diproses)`);
+  }
+  if (dropped.length) console.log(`   🧹 ${dropped.length} keyword kembar dalam batch dibuang, ${unique.length} topik unik tersisa.`);
+  return unique;
 }
 
 async function pickImage(keyword, slug) {
