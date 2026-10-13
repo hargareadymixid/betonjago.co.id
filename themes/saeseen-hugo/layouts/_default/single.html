@@ -22,25 +22,6 @@
          <time datetime="{{ .Date.Format "2006-01-02" }}">Dibuat pada {{ .Date.Format "2 January 2006" }}</time>
         <span>Oleh {{ .Site.Params.author }}</span>
         </p>
-        <div class="featured-image-container">
-          {{ $featuredImage := "" }}
-          {{ if .Params.featured_image }}
-            {{ $featuredImage = .Params.featured_image }}
-          {{ else }}
-            {{ $images := findRE "<img.*?src=\"(.*?)\".*?>" .Content }}
-            {{ if gt (len $images) 0 }}
-              {{ $featuredImage = index $images 0 | replaceRE "<img.*?src=\"(.*?)\".*?>" "$1" }}
-            {{ end }}
-          {{ end }}
-          {{ if $featuredImage }}
-            <img src="{{ $featuredImage }}" alt="{{ .Title }}" class="featured-image" loading="lazy">
-          {{ else }}
-            <img src="/images/admin/featured-image.png" alt="Default Featured Image" class="featured-image" loading="lazy">
-          {{ end }}
-          <div class="featured-image-overlay">
-            <h2 class="overlay-title">{{ .Title }}</h2>
-          </div>
-        </div>
           {{ if and (.Params.toc) (gt .WordCount .Site.Params.tocMinWordCount ) }}
           {{ .TableOfContents }}
           {{ end }}
