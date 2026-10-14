@@ -325,16 +325,22 @@ rating = 4
     url = "/profile/"
 
   [[params.menu_items]]
-    title = "Concret Pump"
-    url = "/categories/pompa/"
-
-  [[params.menu_items]]
-    title = "Readymix"
-    url = "/categories/readymix/"
+    title = "Produk"
+    url = "#"
+    [[params.menu_items.children]]
+      title = "Readymix"
+      url = "/readymix/"
+    [[params.menu_items.children]]
+      title = "Concrete Pump"
+      url = "/pompa/"
 
   [[params.menu_items]]
     title = "Jasa Cor"
     url = "/categories/jasa/"
+
+  [[params.menu_items]]
+    title = "Blog"
+    url = "/blog/"
 
 [params.header]
    title = "Penyediaan beton readymix berkualitas tinggi untuk berbagai kebutuhan pengecoran Anda | "

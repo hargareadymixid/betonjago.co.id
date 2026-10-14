@@ -11,12 +11,55 @@
         </label>
     </div>
     <div class="tab-menu">
+        {{/* Item menu dengan "children" di config.toml tampil sebagai dropdown (desktop: hover/klik, mobile: ketuk). */}}
         {{ range .Site.Params.menu_items }}
+          {{ if .children }}
+            <div class="menu-dropdown">
+              <a href="{{ .url | default "#" }}" class="menu-dropdown-toggle" aria-haspopup="true" aria-expanded="false">{{ .title }} <i class="fas fa-chevron-down menu-caret"></i></a>
+              <div class="menu-dropdown-content">
+                {{ range .children }}<a href="{{ .url }}">{{ .title }}</a>{{ end }}
+              </div>
+            </div>
+          {{ else }}
             <a href="{{ .url }}">{{ .title }}</a>
+          {{ end }}
         {{ end }}
     </div>
     </div>
 </div>
+<style>
+.menu-dropdown{position:relative;display:flex;align-items:center}
+.menu-dropdown-toggle .menu-caret{font-size:.7em;margin-left:.25rem;transition:transform .2s ease}
+.menu-dropdown-content{display:none;position:absolute;top:100%;left:0;min-width:200px;padding:.4rem 0;background:#fff;border:1px solid #e0e0e0;border-radius:8px;box-shadow:0 8px 20px rgba(0,0,0,.12);z-index:1000}
+.menu-dropdown-content a{display:block;padding:.6rem 1.1rem;white-space:nowrap;text-align:left}
+.menu-dropdown:hover>.menu-dropdown-content,.menu-dropdown.open>.menu-dropdown-content{display:block}
+.menu-dropdown:hover .menu-caret,.menu-dropdown.open .menu-caret{transform:rotate(180deg)}
+@media (max-width:768px){
+  .menu-dropdown{flex-direction:column;align-items:stretch;width:100%}
+  .menu-dropdown-toggle{text-align:center}
+  .menu-dropdown-content{position:static;min-width:0;border:0;border-radius:0;box-shadow:none;background:#f6faf7;padding:0}
+  .menu-dropdown:hover>.menu-dropdown-content{display:none}
+  .menu-dropdown.open>.menu-dropdown-content{display:block}
+  .menu-dropdown-content a{text-align:center;width:auto;padding:.9rem 1rem}
+}
+</style>
+<script>
+(function () {
+  var dropdowns = document.querySelectorAll('.menu-dropdown');
+  dropdowns.forEach(function (dd) {
+    var toggle = dd.querySelector('.menu-dropdown-toggle');
+    toggle.addEventListener('click', function (e) {
+      if (toggle.getAttribute('href') === '#') e.preventDefault();
+      var open = !dd.classList.contains('open');
+      dropdowns.forEach(function (o) { o.classList.remove('open'); o.querySelector('.menu-dropdown-toggle').setAttribute('aria-expanded', 'false'); });
+      if (open) { dd.classList.add('open'); toggle.setAttribute('aria-expanded', 'true'); }
+    });
+  });
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('.menu-dropdown')) dropdowns.forEach(function (o) { o.classList.remove('open'); o.querySelector('.menu-dropdown-toggle').setAttribute('aria-expanded', 'false'); });
+  });
+})();
+</script>
 {{ if $.IsHome }}
 <header>
     <div class="container">
