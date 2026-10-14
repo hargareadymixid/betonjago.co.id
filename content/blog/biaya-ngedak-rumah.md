@@ -3,7 +3,7 @@ title: "Biaya Ngedak Rumah: Rincian Lengkap & Estimasi Terbaru 2026"
 date: "2026-10-12"
 lastmod: "2026-10-13"
 categories:
- - "readymix"
+ - "blog"
 type: "product"
 description: "Biaya ngedak rumah bervariasi tergantung luas, ketebalan, dan mutu beton. Dapatkan estimasi lengkap biaya pengecoran & tips hemat di artikel ini!"
 featured_image: "/images/blog/biaya-ngedak-rumah.jpg"

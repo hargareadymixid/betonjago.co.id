@@ -3,7 +3,7 @@ title: "Bangunan Dak Cor: Panduan Lengkap Material, Proses, dan Biaya di 2026"
 date: "2026-10-12"
 lastmod: "2026-10-13"
 categories:
- - "readymix"
+ - "blog"
 type: "product"
 description: "Bangunan dak cor kuat dan tahan lama? Pelajari panduan lengkap material, proses pengecoran, estimasi biaya, dan tips memilih jasa pengecoran beton readymix Jabodetabek."
 featured_image: "/images/blog/bangunan-dak-cor.jpg"

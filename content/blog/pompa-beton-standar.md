@@ -2,7 +2,7 @@
 title: "Pompa Beton Standar: Solusi Efisien untuk Proyek Konstruksi Jabodetabek"
 date: "2026-10-10"
 categories:
- - "pompa"
+ - "blog"
 type: "service"
 description: "Pompa beton standar adalah solusi pengecoran beton readymix yang efisien dan ekonomis di Jabodetabek. Pelajari kelebihan, harga sewa, dan aplikasinya!"
 featured_image: "/images/product/pompa-standar.png"

@@ -3,7 +3,7 @@ title: "Biaya Cor Dak 3x6: Estimasi Terbaru dan Tips Penghematan 2026"
 date: "2026-10-13"
 lastmod: "2026-10-13"
 categories:
- - "readymix"
+ - "blog"
 type: "product"
 description: "Biaya cor dak 3x6 terbaru 2026 untuk rumah Anda? Dapatkan estimasi harga, faktor yang memengaruhi, dan tips hemat dari Beton Jago."
 featured_image: "/images/blog/bangunan-dak-cor.jpg"

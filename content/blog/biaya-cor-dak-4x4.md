@@ -3,7 +3,7 @@ title: "Biaya Cor Dak 4x4: Estimasi 2026 dan Tips Penghematan"
 date: "2026-10-13"
 lastmod: "2026-10-13"
 categories:
- - "readymix"
+ - "blog"
 type: "product"
 description: "Biaya cor dak 4x4 bervariasi tergantung material dan jasa. Dapatkan estimasi harga terbaru di Jabodetabek dan tips hemat biaya pengecoran dak rumah Anda."
 featured_image: "/images/blog/bangunan-dak-cor.jpg"

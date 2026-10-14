@@ -3,7 +3,7 @@ title: "Biaya Buat Dak Rumah: Rincian Lengkap dan Estimasi 2026"
 date: "2026-10-13"
 lastmod: "2026-10-13"
 categories:
- - "readymix"
+ - "blog"
 type: "product"
 description: "Biaya buat dak rumah bervariasi tergantung material, luas, dan ketebalan. Dapatkan estimasi lengkap 2026 dan tips hemat biaya pengecoran dak rumah Anda."
 featured_image: "/images/blog/biaya-dak-rumah.jpg"

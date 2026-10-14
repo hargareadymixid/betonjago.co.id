@@ -1086,15 +1086,6 @@ function detectType(keyword) {
   return serviceRe.test(kl) ? 'service' : 'product';
 }
 
-function detectCategories(keyword) {
-  const kl = keyword.toLowerCase();
-  // Slug kategori = menu yang sudah ada di config.toml betonjago:
-  //   /categories/pompa/  /categories/readymix/  /categories/jasa/
-  if (/pompa|pump|boom|kodok/.test(kl)) return ['pompa'];
-  if (/jasa|pengecoran|borongan|tukang|layanan/.test(kl)) return ['jasa'];
-  return ['readymix'];
-}
-
 // Style-variation banks — text lives in prompts/generate-articles.json, see PROMPTS above.
 const GREETING_STYLES = PROMPTS.greetingStyles;
 const OPENING_STYLES  = PROMPTS.openingStyles;
@@ -1293,7 +1284,7 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
     // land literal asterisks in the YAML title (breaks <title>, meta tags, breadcrumbs).
     if (t.startsWith('JUDUL:'))        { title = t.replace('JUDUL:', '').replace(/\*\*/g, '').replace(/^#+\s*/, '').trim(); continue; }
     if (t.startsWith('DESCRIPTION:'))  { desc  = t.replace('DESCRIPTION:', '').trim(); continue; }
-    if (t.startsWith('CATEGORIES:'))   { /* diabaikan — kategori ditentukan oleh detectCategories() */ continue; }
+    if (t.startsWith('CATEGORIES:'))   { /* diabaikan — artikel hasil generate selalu berkategori "blog" */ continue; }
     if (t.startsWith('TAGS:'))         { tags  = t.replace('TAGS:', '').trim().split(',').map(t => t.trim()); continue; }
     if (t === 'ARTIKEL_MULAI')         { inBody = true; continue; }
     if (inBody) body += line + '\n';
@@ -1334,7 +1325,7 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
 title: "${safeTitle}"
 date: "${today}"
 categories:
-${detectCategories(keyword).map(c => ` - "${c}"`).join('\n')}
+ - "blog"
 type: "${type}"
 description: "${safeDesc}"
 featured_image: "${imagePath}"

@@ -3,7 +3,7 @@ title: "Biaya Dak Rumah: Estimasi, Faktor Pengaruh, dan Tips Efisien 2026"
 date: "2026-10-12"
 lastmod: "2026-10-13"
 categories:
- - "readymix"
+ - "blog"
 type: "product"
 description: "Biaya dak rumah bervariasi tergantung luas, ketebalan, dan material. Dapatkan estimasi biaya dak rumah terbaru 2026 serta tips efisien dari Beton Jago."
 featured_image: "/images/blog/biaya-dak-rumah.jpg"
