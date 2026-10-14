@@ -411,5 +411,19 @@
     "matchedTitle": "Angin2 Rumah Cor: Penyebab, Dampak, dan Cara Mengatasi Retak pada Struktur Beton",
     "taggedAt": "2026-10-13T13:01:03.793Z",
     "algoVersion": 3
+  },
+  "biaya cor dak ukuran 3x6": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-cor-dak-3x6.md",
+    "matchedTitle": "Biaya Cor Dak 3x6: Estimasi Terbaru dan Tips Penghematan 2026",
+    "taggedAt": "2026-10-14T10:42:19.875Z",
+    "algoVersion": 3
+  },
+  "rincian biaya cor dak": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-buat-dak-rumah.md",
+    "matchedTitle": "Biaya Buat Dak Rumah: Rincian Lengkap dan Estimasi 2026",
+    "taggedAt": "2026-10-14T10:42:19.882Z",
+    "algoVersion": 3
   }
 }
