@@ -1,7 +1,7 @@
 ---
 title: "Biaya Cor Dak 3x6: Estimasi Terbaru dan Tips Penghematan 2026"
 date: "2026-10-13"
-lastmod: "2026-10-13"
+lastmod: "2026-10-14"
 categories:
  - "blog"
 type: "article"
@@ -19,7 +19,7 @@ draft: false
 
 Estimasi biaya cor dak ukuran 3x6 meter sangat bervariasi, tergantung lokasi proyek, mutu beton yang dipilih, serta metode pengecoran yang digunakan. Secara umum, untuk wilayah Jabodetabek di tahun 2026, biaya yang perlu Anda siapkan berkisar antara Rp 18.000.000 hingga Rp 30.000.000. Perlu diingat, angka ini hanyalah perkiraan dan bisa saja berubah sewaktu-waktu. Untuk penawaran yang paling akurat dan sesuai dengan kebutuhan proyek Anda di (not detected), silakan hubungi Kami.
 
-Apa yang menyebabkan perbedaan harga yang cukup signifikan ini? Salah satu faktor utamanya adalah mutu beton. Semakin tinggi mutu beton (misalnya K-300 atau K-350), tentu saja biayanya akan lebih mahal dibandingkan dengan mutu yang lebih rendah seperti K-250. Selain itu, biaya juga akan dipengaruhi oleh harga tulangan baja, material campuran beton lainnya, serta tarif tenaga kerja. Memilih mutu beton yang tepat itu penting sekali, lho, untuk memastikan kekuatan dan keamanan dak rumah Anda.
+Apa yang menyebabkan perbedaan harga yang cukup signifikan ini? Salah satu faktor utamanya adalah mutu beton. Semakin tinggi mutu beton (misalnya K-300 atau K-350), tentu saja biayanya akan lebih mahal dibandingkan dengan mutu yang lebih rendah seperti K-250. Selain itu, biaya juga akan dipengaruhi oleh harga tulangan baja, material campuran beton lainnya, serta tarif tenaga kerja. Memilih mutu beton yang tepat itu penting sekali, lho, untuk memastikan kekuatan dan keamanan dak rumah Anda, dan Anda bisa melihat perkiraan [biaya cor dak lainnya](/blog/biaya-cor-dak-6x6/) untuk berbagai ukuran.
 
 ## Apa Saja yang Mempengaruhi Biaya Cor Dak 3x6?
 

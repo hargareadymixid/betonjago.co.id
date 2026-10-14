@@ -1,0 +1,16 @@
+{
+  "fixed": [
+    "/blog/biaya-buat-dak-rumah/",
+    "/blog/biaya-cor-dak-4x4/",
+    "/blog/biaya-cor-dak-6x10/",
+    "/blog/biaya-cor-dak-6x6/",
+    "/categories/jasa/borongan-cor-lantai-di-gadog-bogor/",
+    "/categories/jasa/borongan-cor-lantai-di-hambalang-bogor/"
+  ],
+  "failed": {
+    "/blog/biaya-cor-dak-3x6/": 1,
+    "/blog/biaya-cor-dak-4x6/": 1,
+    "/blog/biaya-ngedak-rumah/": 1,
+    "/blog/pompa-beton-standar/": 1
+  }
+}
