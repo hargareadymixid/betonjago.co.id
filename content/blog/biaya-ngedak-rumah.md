@@ -4,7 +4,7 @@ date: "2026-10-12"
 lastmod: "2026-10-13"
 categories:
  - "blog"
-type: "product"
+type: "article"
 description: "Biaya ngedak rumah bervariasi tergantung luas, ketebalan, dan mutu beton. Dapatkan estimasi lengkap biaya pengecoran & tips hemat di artikel ini!"
 featured_image: "/images/blog/biaya-ngedak-rumah.jpg"
 tags: ["biaya ngedak rumah", "biaya cor rumah", "harga beton readymix", "jasa pengecoran", "beton jabodetabek"]

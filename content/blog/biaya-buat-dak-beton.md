@@ -4,7 +4,7 @@ date: "2026-10-12"
 lastmod: "2026-10-13"
 categories:
  - "blog"
-type: "product"
+type: "article"
 description: "Biaya buat dak beton bervariasi tergantung luas, ketebalan, dan material. Dapatkan estimasi biaya dak beton terbaru 2026 dan tips hemat dari Beton Jago!"
 featured_image: "/images/blog/biaya-buat-dak-beton.jpg"
 tags: ["biaya dak beton", "dak beton", "harga dak beton", "jasa pengecoran dak beton", "beton readymix"]

@@ -4,7 +4,7 @@ date: "2026-10-13"
 lastmod: "2026-10-13"
 categories:
  - "blog"
-type: "product"
+type: "article"
 description: "Biaya cor dak 4x4 bervariasi tergantung material dan jasa. Dapatkan estimasi harga terbaru di Jabodetabek dan tips hemat biaya pengecoran dak rumah Anda."
 featured_image: "/images/blog/bangunan-dak-cor.jpg"
 tags: ["biaya cor dak", "dak 4x4", "biaya dak rumah", "harga beton readymix", "jasa pengecoran dak"]

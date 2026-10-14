@@ -4,7 +4,7 @@ date: "2026-10-12"
 lastmod: "2026-10-13"
 categories:
  - "blog"
-type: "service"
+type: "article"
 description: "Biaya borongan dak rumah per meter di Jabodetabek 2026: estimasi harga, faktor yang memengaruhi, dan tips mendapatkan penawaran terbaik dari kontraktor beton."
 featured_image: "/images/blog/biaya-dak-rumah.jpg"
 tags: ["biaya borongan dak rumah", "dak rumah", "harga borongan cor", "beton readymix", "jasa pengecoran"]

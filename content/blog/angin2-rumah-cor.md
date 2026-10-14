@@ -3,7 +3,7 @@ title: "Angin2 Rumah Cor: Penyebab, Dampak, dan Cara Mengatasi Retak pada Strukt
 date: "2026-10-12"
 categories:
  - "blog"
-type: "product"
+type: "article"
 description: "Angin2 rumah cor adalah masalah umum pada bangunan beton. Pelajari penyebab, dampak retakan, serta solusi penanganan dari Beton Jago, penyedia beton readymix Jabodetabek."
 featured_image: "/images/blog/angin2-rumah-cor.jpg"
 tags: ["angin2 rumah cor", "retak beton", "penyebab retak", "solusi retak beton", "jasa cor rumah"]

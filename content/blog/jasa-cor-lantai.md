@@ -3,7 +3,7 @@ title: "Jasa Cor Lantai Profesional: Panduan Lengkap untuk Proyek Anda"
 date: "2026-10-10"
 categories:
  - "blog"
-type: "service"
+type: "article"
 description: "Jasa cor lantai terbaik di Jabodetabek untuk fondasi, lantai rumah, gudang, dan proyek komersial. Dapatkan solusi pengecoran cepat, kuat, dan berkualitas."
 featured_image: "/images/blog/jasa-cor-lantai.jpg"
 tags: ["jasa cor lantai", "cor lantai readymix", "harga cor lantai", "pengecoran lantai", "concrete pump"]

@@ -4,7 +4,7 @@ date: "2026-10-13"
 lastmod: "2026-10-13"
 categories:
  - "blog"
-type: "product"
+type: "article"
 description: "Biaya buat dak rumah bervariasi tergantung material, luas, dan ketebalan. Dapatkan estimasi lengkap 2026 dan tips hemat biaya pengecoran dak rumah Anda."
 featured_image: "/images/blog/biaya-dak-rumah.jpg"
 tags: ["biaya dak rumah", "biaya buat dak rumah", "harga dak beton", "estimasi biaya dak", "jasa pengecoran dak"]

@@ -4,7 +4,7 @@ date: "2026-10-12"
 lastmod: "2026-10-13"
 categories:
  - "blog"
-type: "product"
+type: "article"
 description: "Bangunan dak cor kuat dan tahan lama? Pelajari panduan lengkap material, proses pengecoran, estimasi biaya, dan tips memilih jasa pengecoran beton readymix Jabodetabek."
 featured_image: "/images/blog/bangunan-dak-cor.jpg"
 tags: ["dak cor", "beton readymix", "jasa pengecoran", "biaya dak cor", "konstruksi bangunan"]
