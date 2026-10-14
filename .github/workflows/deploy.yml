@@ -36,10 +36,19 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
+      # Pastikan file kunci IndexNow (static/<key>.txt) ada SEBELUM build supaya ikut terbit.
+      - name: Ensure IndexNow key file
+        run: node tools/submit-indexnow.js ensure-key
+
       # prebuild: acak ulang spintax testimoni -> data/testimonials.yaml
       # build   : hugo --minify + sitemap.xml.gz + robots.txt
       - name: Build Site
         run: npm run build
+
+      # Simpan sitemap yang SEDANG live (sebelum diganti) untuk mencari URL baru/berubah.
+      - name: Snapshot live sitemap
+        continue-on-error: true
+        run: node tools/submit-indexnow.js snapshot
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
@@ -49,3 +58,9 @@ jobs:
           publish_branch: gh-pages
           cname: betonjago.co.id
           full_commit_message: ${{ github.event.head_commit.message || format('Deploy — {0}', github.run_id) }}
+
+      # Tunggu situs live dengan build baru, lalu kirim URL baru/berubah ke IndexNow
+      # (Bing/Yandex/Seznam/Naver). Kegagalan di sini tidak menggagalkan deploy.
+      - name: Submit changed URLs to IndexNow
+        continue-on-error: true
+        run: node tools/submit-indexnow.js submit

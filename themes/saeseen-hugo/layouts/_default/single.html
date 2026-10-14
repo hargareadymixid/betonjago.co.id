@@ -25,10 +25,21 @@
           {{ if and (.Params.toc) (gt .WordCount .Site.Params.tocMinWordCount ) }}
           {{ .TableOfContents }}
           {{ end }}
+        {{/* Halaman produk/jasa: paragraf harga di baris pertama ("**Harga Sewa: Rp 7.500.000/hari**")
+             diambil dan ditampilkan sebagai kartu harga. Tidak cocok = konten tidak diubah. */}}
+        {{ $content := .Content }}
+        {{ $priceCard := dict }}
+        {{ if and (in (slice "product" "service") .Params.type) (in (slice "pompa" "readymix" "jasa") .Section) }}
+          {{ $re := `^\s*<p>\s*<strong>\s*(Harga[^:<]{0,40}):\s*(Rp\.?\s*[\d.,]+)\s*(/\s*[^<\s]{1,12})?\s*</strong>\s*(?:\(([^)<]{0,80})\))?\s*</p>` }}
+          {{ with findRESubmatch $re $content 1 }}
+            {{ $m := index . 0 }}
+            {{ $priceCard = dict "label" (index $m 1) "amount" (index $m 2) "unit" (index $m 3) "note" (index $m 4) }}
+            {{ $content = replaceRE $re "" $content 1 }}
+          {{ end }}
+        {{ end }}
         <div class="post-content">
          {{ $related := .Site.RegularPages.Related . | first 5 }}
         {{ $shuffledRelated := shuffle $related }}
-         {{ $content := .Content }}
          {{ $paragraphs := split $content "<p>" }}
          {{ $newContent := "" }}
             {{ $count := 0 }}
@@ -43,6 +54,7 @@
               {{ $count = 0 }}
             {{ end }}
           {{ end }}
+          {{ if $priceCard }}{{ partial "price-card.html" (dict "page" . "card" $priceCard) }}{{ end }}
           {{ $newContent | safeHTML }}
         </div>
       <div class="post-footer">

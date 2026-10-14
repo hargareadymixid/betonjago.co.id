@@ -8,7 +8,15 @@
 <section class="archive">
    <div class="archive-container">
     <div class="archive-grid">
-     {{ $paginator := .Paginate .Pages 6 }}
+     {{/* Halaman produk/jasa (content/pompa, content/readymix, content/jasa) punya arsip sendiri di
+          /pompa/, /readymix/, /jasa/ (halaman section). Di arsip kategori/tag (/categories/pompa/ dst)
+          halaman-halaman itu disembunyikan supaya tidak tercampur dengan artikel. */}}
+     {{ $productSections := slice "pompa" "readymix" "jasa" }}
+     {{ $pages := .Pages }}
+     {{ if eq .Kind "term" }}
+       {{ $pages = where .Pages "Section" "not in" $productSections }}
+     {{ end }}
+     {{ $paginator := .Paginate $pages 6 }}
       {{ range $paginator.Pages }}
         {{ $featuredImage := "" }}
         {{ if .Params.featured_image }}

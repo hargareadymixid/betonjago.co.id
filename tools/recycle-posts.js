@@ -1,15 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
-const { execSync } = require('child_process');
-
-// Correct, currently-working URL-notification logic — replaces the old pingServices/
-// pingSearchEngines() below, which pinged endpoints that are dead, wrong-protocol, or not
-// real search-engine endpoints at all. See tools/lib/index-ping.js for the full explanation
-// of what was broken and why IndexNow (implemented there) is what actually works today.
-const { submitToIndexNow } = require('./lib/index-ping.js');
-
-const SITE_URL = 'https://betonjago.co.id/';
 
 const contentDir = path.join(__dirname, '..', 'content');
 const now = new Date();
@@ -95,26 +86,13 @@ for (const filePath of markdownFiles) {
   }
 }
 
-// Wrapped in an async IIFE (rather than top-level await, unavailable in CommonJS) purely so
-// the script properly WAITS for the IndexNow submission to finish — and reports its result —
-// before the process exits, instead of relying on incidental event-loop-keep-alive behavior
-// from the in-flight HTTPS request.
-(async () => {
-  if (updatedCount > 0) {
-    console.log(`${updatedCount} The article has been updated.`);
-    // Rebuild situs Hugo
-    execSync('hugo', { stdio: 'inherit' });
-
-    // IndexNow wants the SPECIFIC pages that changed, not the sitemap URL — build the exact
-    // list from what recyclePost() actually touched this run. (Google isn't part of
-    // IndexNow; see tools/lib/index-ping.js for why an accurate <lastmod>, already handled
-    // by setLastmod() above, is the correct signal for Google instead.)
-    const updatedUrls = updatedFilePaths.map(fp => `${SITE_URL.replace(/\/$/, '')}${toUrl(fp)}`);
-    await submitToIndexNow(SITE_URL, updatedUrls);
-  } else {
-    console.log('There are no articles that need to be updated.');
-  }
-})().catch(err => {
-  console.error('\n💥 Fatal error:', err.message);
-  process.exit(1);
-});
+// Pengiriman IndexNow TIDAK dilakukan di sini lagi: situs belum live pada saat job recycle
+// berjalan (deploy baru dipicu sesudah commit), sehingga mesin pencari tidak bisa memvalidasi
+// file kunci/halamannya. deploy.yml sekarang mengirim URL baru/berubah SETELAH situs live
+// (lihat tools/submit-indexnow.js). Build Hugo juga tidak perlu di sini — deploy yang membangun.
+if (updatedCount > 0) {
+  console.log(`${updatedCount} article(s) lastmod updated:`);
+  updatedFilePaths.forEach(fp => console.log(`   • ${toUrl(fp)}`));
+} else {
+  console.log('There are no articles that need to be updated.');
+}
