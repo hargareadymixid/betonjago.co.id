@@ -22,10 +22,10 @@
     <meta property="og:type" content="service">
   {{ else if eq .Params.type "product" }}
     <meta property="og:type" content="product">
-  {{ else }}
-    <meta property="og:type" content="localbusiness">
   {{ else if eq .Params.type "article" }}
     <meta property="og:type" content="article">
+  {{ else }}
+    <meta property="og:type" content="localbusiness">
   {{ end }}
 {{ end }}
 <meta property="og:url" content="{{ .Permalink }}">
