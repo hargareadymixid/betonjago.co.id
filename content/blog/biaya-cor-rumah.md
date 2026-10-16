@@ -6,7 +6,7 @@ categories:
  - "blog"
 type: "product"
 description: "Biaya cor rumah bervariasi tergantung banyak faktor. Pelajari panduan lengkap estimasi biaya cor rumah terbaru 2026, tips hemat, dan pilihan material terbaik bersama Beton Jago."
-featured_image: "/images/blog/angin2-rumah-cor.jpg"
+featured_image: "/images/blog/bangunan-dak-cor.jpg"
 tags: ["biaya cor rumah", "harga cor rumah", "estimasi biaya cor", "jasa cor rumah", "beton readymix"]
 keywords: "biaya cor rumah"
 author: "K. Utus"
@@ -29,7 +29,7 @@ Biaya besi beton (rebar) sekitar Rp 15.000.000 hingga Rp 25.000.000 per ton, ter
 
 Untuk tenaga kerja pengecoran, anggarkan sekitar Rp 200.000 hingga Rp 300.000 per meter kubik. Biaya bekisting bervariasi, biasanya antara Rp 50.000 hingga Rp 100.000 per meter persegi. Perlu diingat, harga-harga ini hanyalah estimasi dan bisa berubah sewaktu-waktu. Untuk penawaran paling akurat sesuai proyek Anda, silakan hubungi Kami!
 
-![Pekerja sedang melakukan pengecoran beton](/images/blog/angin2-rumah-cor.jpg)
+![Pekerja sedang melakukan pengecoran beton](/images/blog/bangunan-dak-cor.jpg)
 
 ## Faktor-Faktor yang Berpengaruh Pada Biaya Pengecoran
 
