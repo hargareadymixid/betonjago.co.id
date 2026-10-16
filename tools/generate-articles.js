@@ -160,6 +160,10 @@ const CONFIG = {
   AI_IMAGE_GEN_WIDTH : 1024,
   AI_IMAGE_GEN_HEIGHT: 683, // ~3:2, matches final crop aspect ratio below
 
+  // Gambar yang sudah ada di static/images dipakai hanya jika nama filenya memuat minimal sekian
+  // kata keyword (kata sambung tidak dihitung). Kurang dari itu → gambar dibuat AI.
+  IMAGE_MIN_MATCH_WORDS: 3,
+
   // REQUIRED size for AI-generated images + watermark
   AI_IMAGE_WIDTH   : 600,
   AI_IMAGE_HEIGHT  : 400,
@@ -853,11 +857,14 @@ async function pickImage(keyword, slug) {
   const allImages = getImages(imgDir);
   if (!allImages.length) return useGenericOrAIImage(keyword, slug);
 
-  // Reuses the same comprehensive stopword filter as duplicate-title detection above
-  // (significantWordsForSimilarity/SIMILARITY_STOPWORDS) so "2 words match" means 2 core/
-  // content words — conjunctions and particles like "itu", "yang", "apa", "dan", "dari" never
-  // count toward the match.
-  const words = significantWordsForSimilarity(keyword);
+  // Kata yang dihitung = kata keyword selain kata sambung/depan/penunjuk (CONJUNCTION_STOPWORDS:
+  // dan, atau, adalah, yaitu, pada, dengan, untuk, yang, itu, ini, dll). Kata unik saja, supaya
+  // kata berulang di keyword tidak dihitung dua kali.
+  const words = [...new Set(
+    keyword.toLowerCase().replace(/[^a-z0-9\s-]/g, ' ').split(/\s+/)
+      .filter(w => w.length >= 2 && !CONJUNCTION_STOPWORDS.has(w))
+  )];
+  const minWords = CONFIG.IMAGE_MIN_MATCH_WORDS;
 
   const scored = allImages.map(img => {
     const name = path.basename(img).toLowerCase().replace(/[-_]/g, ' ');
@@ -865,7 +872,7 @@ async function pickImage(keyword, slug) {
     return { img, matchCount };
   });
 
-  const good = scored.filter(s => s.matchCount >= 2);
+  const good = scored.filter(s => s.matchCount >= minWords);
 
   if (good.length > 0) {
 
@@ -876,7 +883,7 @@ async function pickImage(keyword, slug) {
     return chosen.replace(path.join(__dirname, '..', 'static'), '').replace(/\\/g, '/');
   }
 
-  console.log(`   🖼️  No image with ≥2 matching words for "${keyword}" → attempting AI image generation...`);
+  console.log(`   🖼️  No image with ≥${minWords} matching words for "${keyword}" → attempting AI image generation...`);
   return useGenericOrAIImage(keyword, slug);
 }
 
@@ -1078,12 +1085,11 @@ async function generateAIImage(keyword, slug) {
   return `/images/blog/${fileName}`;
 }
 
-function detectType(keyword) {
-  const kl = keyword.toLowerCase();
-  // NOTE: bare "cor" is NOT a service signal here — "beton cor"/"harga cor" is the concrete
-  // PRODUCT. Only explicit service wording counts.
-  const serviceRe = /\b(jasa|layanan|sewa|rental|pengecoran|borongan|tukang|pompa|pump)\b/;
-  return serviceRe.test(kl) ? 'service' : 'product';
+// Semua artikel hasil generate ada di content/blog/ dan bersifat informasi → type "article".
+// (Tema: type "product"/"service" memicu schema Product/Service + rating di head.html, itu hanya
+// untuk halaman produk/jasa asli di content/pompa|readymix|jasa. Selain itu → schema Article.)
+function detectType(/* keyword */) {
+  return 'article';
 }
 
 // Style-variation banks — text lives in prompts/generate-articles.json, see PROMPTS above.
@@ -1404,7 +1410,7 @@ function validateArticle(filePath) {
 
   if (!content.includes('title:'))          issues.push('❌ title tidak ada');
   if (!content.includes('date:'))           issues.push('❌ date tidak ada');
-  if (!content.includes('type:'))           issues.push('❌ type tidak ada (product/service)');
+  if (!content.includes('type:'))           issues.push('❌ type tidak ada (article)');
   if (!content.includes('description:'))    issues.push('❌ description tidak ada');
   if (!content.includes('featured_image:')) issues.push('❌ featured_image tidak ada');
   if (!content.includes('categories:'))     issues.push('❌ categories tidak ada');
