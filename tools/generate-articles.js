@@ -55,6 +55,11 @@ const { renderSafeTables, hasLeftoverTableMarkers } = require('./lib/safe-table.
 // / "... per meter persegi" / "... pakai bondek").
 const KS = require('./lib/keyword-similarity.js');
 
+// Judul natural & bervariasi (tanpa titik dua/klise/tahun) — lihat lib/title-style.js dan
+// prompts/title-styles.json. Gaya dipilih dari hash keyword, digeser per percobaan.
+const TS = require('./lib/title-style.js');
+const MAX_TITLE_RETRIES = 2; // percobaan perbaikan judul (panggilan AI singkat) bila judul melanggar aturan
+
 function renderTemplate(str, vars) {
   return str.replace(/\{\{(\w+)\}\}/g, (_, key) => (key in vars ? vars[key] : `{{${key}}}`));
 }
@@ -1101,13 +1106,16 @@ const ADDRESS_STYLES  = PROMPTS.addressStyles;
 function pickRandom(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
 // ─────────────────────────────────────────────────────────────────
 
-async function generateArticle(keyword, relatedCandidates = []) {
+async function generateArticle(keyword, relatedCandidates = [], attempt = 1) {
   const type = detectType(keyword);
   const openingStyle = pickRandom(OPENING_STYLES);
   const addressStyle  = pickRandom(ADDRESS_STYLES);
   const greeting      = pickRandom(GREETING_STYLES);
   const closingStyle = renderTemplate(pickRandom(CLOSING_STYLES), { addr: addressStyle.name });
   const currentYear   = new Date().getFullYear();
+  const titleStyle    = TS.pickTitleStyle(keyword, attempt);
+  const titleRules    = TS.buildTitleRules(keyword, titleStyle, currentYear);
+  console.log(`   🏷️  Gaya judul: ${titleStyle.name}${TS.isTransactional(keyword) ? ' (sales)' : ' (info)'}`);
 
   const prompt = renderTemplate(PROMPTS.article.userTemplate, {
     siteName: CONFIG.SITE_NAME,
@@ -1118,12 +1126,13 @@ async function generateArticle(keyword, relatedCandidates = []) {
     keyword,
     currentYear,
     relatedArticles: formatCandidatesForPrompt(relatedCandidates),
+    titleRules,
   });
 
   if (IS_DRY_RUN) {
     console.log(`   🧪 DRY-RUN: Simulating article generation for "${keyword}"...`);
     const kwTitle = keyword.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-    const raw = `JUDUL: ${kwTitle} - Panduan Lengkap dari ${CONFIG.SITE_NAME}
+    const raw = `JUDUL: ${kwTitle} untuk Proyek Pengecoran
 DESCRIPTION: ${keyword.charAt(0).toUpperCase() + keyword.slice(1)} terbaik untuk hunian dan proyek konstruksi Anda. Temukan tips, harga, dan solusi dari ${CONFIG.SITE_NAME}.
 TAGS: ${keyword.split(' ').slice(0, 3).join(', ')}, beton readymix jabodetabek, Beton Jago
 ARTIKEL_MULAI
@@ -1275,6 +1284,69 @@ function ensureBrandOpening(body, title, greeting) {
   return `**${title}** - ${greeting}, ${rest}`;
 }
 
+// Panggilan chat singkat ke Cloudflare Workers AI (rotasi token saat rate-limit/auth error).
+async function cfChat(messages, { temperature = 0.5, max_tokens = 120, timeoutMs = 30000 } = {}) {
+  const body = JSON.stringify({ model: CONFIG.AI_MODEL, messages, temperature, max_tokens });
+  const maxAttempts = Math.max(1, CONFIG.CF_API_TOKENS.length);
+  let lastErr;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      const result = await httpRequest(CONFIG.MODELS_API_HOST, buildModelsApiPath(), {
+        method : 'POST',
+        headers: { 'Authorization': `Bearer ${currentCfToken()}`, 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) },
+      }, body, timeoutMs);
+      const text = result?.choices?.[0]?.message?.content?.trim();
+      if (!text) throw new Error('Empty response from AI');
+      return text;
+    } catch (err) {
+      lastErr = err;
+      if ((err.isRateLimit || err.isAuthError) && attempt < maxAttempts) { rotateCfToken(); continue; }
+      throw err;
+    }
+  }
+  throw lastErr;
+}
+
+// Memastikan baris "JUDUL:" memenuhi aturan judul (lib/title-style.js). Urutan:
+//   1) bersihkan  2) bila melanggar → minta AI memperbaiki JUDUL SAJA (maks MAX_TITLE_RETRIES,
+//   tiap kali gaya berbeda; murah, bukan menulis ulang artikel)  3) bila masih melanggar →
+//   pakai keyword (huruf judul) sebagai judul — aman & natural. Mengembalikan raw dengan JUDUL baru.
+async function ensureGoodTitle(raw, keyword, firstAttempt = 1) {
+  const m = raw.match(/^JUDUL:[ \t]*(.*)$/m);
+  if (!m) return raw;
+  let title  = TS.cleanTitle(m[1]);
+  let issues = TS.titleIssues(title, keyword);
+
+  const description = (raw.match(/^DESCRIPTION:[ \t]*(.*)$/m) || [])[1] || '';
+  const headings = (raw.match(/^#{2,3}\s+.+$/gm) || []).slice(0, 5).map(h => h.replace(/^#+\s+/, '')).join('; ');
+  const canAsk = !IS_DRY_RUN && CONFIG.CF_API_TOKENS.length > 0 && CONFIG.CF_ACCOUNT_IDS.length > 0;
+
+  for (let i = 1; issues.length && i <= MAX_TITLE_RETRIES && canAsk; i++) {
+    console.log(`   ✏️  Judul "${title}" melanggar aturan (${issues.join('; ')}) — perbaiki judul (percobaan ${i}/${MAX_TITLE_RETRIES})...`);
+    const style = TS.pickTitleStyle(keyword, firstAttempt + i);
+    try {
+      const out = await cfChat([
+        { role: 'system', content: 'Kamu editor judul SEO berbahasa Indonesia untuk situs penyedia beton readymix, sewa concrete pump, dan jasa pengecoran.' },
+        { role: 'user', content: `${TS.buildTitleRules(keyword, style)}\n\nKonteks artikel — deskripsi: ${description}\nSubjudul: ${headings}\nJudul sebelumnya DITOLAK karena: ${issues.join('; ')}.\n\nTulis HANYA judul barunya, satu baris, tanpa tanda kutip, tanpa awalan, tanpa penjelasan.` },
+      ], { temperature: 0.6, max_tokens: 80 });
+      title  = TS.cleanTitle(out.split('\n')[0]);
+      issues = TS.titleIssues(title, keyword);
+    } catch (err) {
+      console.log(`   ⚠️  Perbaikan judul gagal (${err.message}).`);
+      break;
+    }
+  }
+
+  if (issues.length) {
+    const fallback = TS.toTitleCase(TS.noYear(keyword));
+    console.log(`   ✏️  Judul tetap bermasalah (${issues.join('; ')}) → memakai keyword sebagai judul: "${fallback}"`);
+    title = fallback;
+  } else if (title !== m[1].trim()) {
+    console.log(`   ✏️  Judul final: "${title}"`);
+  }
+  return raw.replace(/^JUDUL:.*$/m, () => `JUDUL: ${title}`);
+}
+
 function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates = []) {
   const lines  = raw.split('\n');
   let title    = keyword.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
@@ -1299,6 +1371,8 @@ function parseAndSave(raw, keyword, slug, imagePath, greeting, relatedCandidates
   if (!body.trim()) body = raw;
   body = stripTrailingMarkers(body);
   body = ensureBrandOpening(body, title, greeting);
+  // Judul tebal di kalimat pembuka harus sama dengan JUDUL final (judul bisa diperbaiki sesudah artikel ditulis).
+  body = body.replace(/^(\s*)\*\*[^*\n]+\*\*(?=\s*[-–—]\s)/, (_, sp) => `${sp}**${title}**`);
 
   body = body.replace(/IMAGE_PLACEHOLDER/g, imagePath);
 
@@ -1420,6 +1494,10 @@ function validateArticle(filePath) {
   const bodyOnly = content.replace(/---[\s\S]*?---/, '').trim();
   const wordCount = bodyOnly.split(/\s+/).length;
   if (wordCount < 300) issues.push(`⚠️  Konten terlalu pendek: ${wordCount} kata`);
+
+  const fmTitle = (content.match(/^title:\s*"((?:[^"\\]|\\.)*)"/m) || [])[1];
+  const fmKeyword = (content.match(/^keywords:\s*"((?:[^"\\]|\\.)*)"/m) || [])[1];
+  if (fmTitle && fmKeyword) TS.titleIssues(fmTitle.replace(/\\"/g, '"'), fmKeyword).forEach(i => issues.push(`⚠️  Judul: ${i}`));
 
   const openingIssues = checkOpeningVariety(bodyOnly);
   issues.push(...openingIssues);
@@ -1664,7 +1742,9 @@ async function main() {
       console.log(`   🔗 ${relatedCandidates.length} related article candidate(s) found for internal linking.`);
 
       const imgPath  = await pickImage(item.keyword, slug);
-      const { raw, greeting } = await generateArticle(item.keyword, relatedCandidates);
+      const gen = await generateArticle(item.keyword, relatedCandidates);
+      const raw = await ensureGoodTitle(gen.raw, item.keyword, 1);
+      const greeting = gen.greeting;
       const filePath = parseAndSave(raw, item.keyword, slug, imgPath, greeting, relatedCandidates);
       const issues   = validateArticle(filePath);
       results.push({ keyword: item.keyword, slug, filePath, imgPath, issues });
