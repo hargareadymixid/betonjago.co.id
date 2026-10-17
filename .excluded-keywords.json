@@ -551,5 +551,19 @@
     "matchedTitle": "Biaya Cor Dak 4x6: Estimasi 2026 dan Tips Menghitung Anggaran",
     "taggedAt": "2026-10-15T10:25:12.834Z",
     "algoVersion": 3
+  },
+  "biaya dak cor ukuran 6x8": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-dak-rumah-ukuran-6x8.md",
+    "matchedTitle": "Biaya Dak Rumah Ukuran 6x8: Estimasi Lengkap dan Tips Penghematan 2026",
+    "taggedAt": "2026-10-17T09:46:49.428Z",
+    "algoVersion": 3
+  },
+  "ukuran bondek untuk dak rumah": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-dak-rumah-ukuran-6x12.md",
+    "matchedTitle": "Biaya Dak Rumah Ukuran 6x12: Estimasi 2026 dan Tips Menghemat Anggaran",
+    "taggedAt": "2026-10-17T09:46:49.436Z",
+    "algoVersion": 3
   }
 }
