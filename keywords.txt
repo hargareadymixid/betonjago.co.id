@@ -51,16 +51,13 @@ biaya ngedak rumah ukuran 6x10
 biaya ngedak rumah ukuran 6x6
 biaya ngedak ukuran 3x3
 biaya ngedak ukuran 3x6
-biaya pembuatan dak beton
 biaya pembuatan dak beton per m2
 biaya pengecoran
 biaya pengecoran dak rumah
-biaya pengecoran rumah
 biaya pengecoran rumah per meter
 bondek untuk dak rumah
 borongan cor beton
 borongan cor dak
-buat dak beton murah
 buat dak rumah
 campuran cor dak rumah
 cara cor dak
