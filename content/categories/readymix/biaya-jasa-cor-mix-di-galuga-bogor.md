@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-60
 categories: 
 - "readymix"
 date: "2025-09-05"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Harga Jasa Cor Mix di Galuga Bogor cocok bagi proyek yang butuh pengecoran yang cepat dan presisi. Kami menyediakan pilihan durasi layanan per hari, per minggu dan bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau konsultasi gratis terkait Harga Jasa Cor Mix di Galuga Bogor."
 focus_keyphrase: "Cor Mix di Galuga Bogor"

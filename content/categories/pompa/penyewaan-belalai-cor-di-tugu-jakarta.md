@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-03-04"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Layanan sewa Belalai Cor di Tugu Jakarta ideal bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Kami menyediakan pilihan durasi sewa harian, mingguan dan per bulanserta beberapa tipe unit pompa cor seperti pompa standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan bantuan teknis. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Tugu Jakarta"

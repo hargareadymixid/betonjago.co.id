@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-07
 categories: 
 - "readymix"
 date: "2025-01-05"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1300000]"
 description: "Harga Jasa Cor Molen di Cibalung Bogor cocok bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Cibalung Bogor"

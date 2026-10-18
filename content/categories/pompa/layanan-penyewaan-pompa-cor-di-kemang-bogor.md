@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-04-08"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Layanan sewa Pompa Cor di Kemang Bogor ideal bagi proyek yang butuh distribusi beton yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, peralatan selalu diperiksa, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Kemang Bogor."
 focus_keyphrase: "Pompa Cor di Kemang Bogor"

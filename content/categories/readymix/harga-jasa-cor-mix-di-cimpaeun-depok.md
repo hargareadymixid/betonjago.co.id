@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-36
 categories: 
 - "readymix"
 date: "2024-11-24"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1300000]"
 description: "Cor Mix di Cimpaeun Depok: Biaya Jasa Cor Mix terpercaya untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menyediakan opsi durasi layanan harian, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Mix di Cimpaeun Depok"

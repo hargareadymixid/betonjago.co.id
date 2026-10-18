@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-01-02"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Pompa Cor di Sukadamai Bogor: layanan penyewaan pompa beton terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Sukadamai Bogor."
 focus_keyphrase: "Pompa Cor di Sukadamai Bogor"

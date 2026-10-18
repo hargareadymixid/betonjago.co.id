@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-03-23"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[3800000]"
 description: "Layanan jasa sewa Pompa Cor di Gintung Cilejet Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Kami menawarkan opsi durasi sewa harian, per minggu dan bulananserta beberapa tipe unit pompa cor seperti standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Pompa Cor di Gintung Cilejet Bogor."
 focus_keyphrase: "Pompa Cor di Gintung Cilejet Bogor"

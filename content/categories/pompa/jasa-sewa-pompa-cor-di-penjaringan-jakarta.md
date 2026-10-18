@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-04-05"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Pompa Cor di Penjaringan Jakarta: penyewaan pompa cor terpercaya untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi sewa per hari, per minggu dan bulananserta berbagai tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi tersertifikasi, pengiriman tepat waktu, peralatan selalu diperiksa, serta dukungan teknis. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Penjaringan Jakarta"

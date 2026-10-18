@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-03-27"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan sewa Concrete Pump di Tanjungsari Bogor ideal bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menyediakan opsi durasi sewa per hari, mingguan dan per bulanserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Tanjungsari Bogor."
 focus_keyphrase: "Concrete Pump di Tanjungsari Bogor"

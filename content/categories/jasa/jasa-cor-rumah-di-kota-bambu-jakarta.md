@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-29
 categories: 
 - "jasa"
 date: "2024-04-29"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1300000]"
 description: "Layanan Borongan Cor Rumah di Kota Bambu Jakarta ideal bagi proyek yang memerlukan pengecoran yang efisien dan akurasi tinggi. Kami menyediakan pilihan durasi layanan per hari, per minggu dan bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Kota Bambu Jakarta"

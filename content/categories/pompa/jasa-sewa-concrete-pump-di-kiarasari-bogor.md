@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-06-13"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Concrete Pump di Kiarasari Bogor: jasa sewa pompa beton terpercaya untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan opsi durasi sewa harian, mingguan dan bulananserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Kiarasari Bogor."
 focus_keyphrase: "Concrete Pump di Kiarasari Bogor"

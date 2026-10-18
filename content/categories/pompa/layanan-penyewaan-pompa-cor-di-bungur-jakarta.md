@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-08-22"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Pompa Cor di Bungur Jakarta: jasa sewa concrete pump profesional untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menawarkan pilihan durasi sewa per hari, per minggu dan bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: teknisi tersertifikasi, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Bungur Jakarta."
 focus_keyphrase: "Pompa Cor di Bungur Jakarta"

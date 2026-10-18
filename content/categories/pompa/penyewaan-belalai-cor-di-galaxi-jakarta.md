@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-09-14"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan sewa Belalai Cor di Galaxi Jakarta cocok bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menawarkan opsi durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi tersertifikasi, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Belalai Cor di Galaxi Jakarta."
 focus_keyphrase: "Belalai Cor di Galaxi Jakarta"

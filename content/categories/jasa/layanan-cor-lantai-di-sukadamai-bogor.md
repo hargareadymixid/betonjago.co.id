@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-16
 categories: 
 - "jasa"
 date: "2024-01-29"
-lastmod: "2026-10-16"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Layanan Tukang Cor Lantai di Sukadamai Bogor cocok bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Sukadamai Bogor"

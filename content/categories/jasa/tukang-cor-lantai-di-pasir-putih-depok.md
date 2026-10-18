@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-25
 categories: 
 - "jasa"
 date: "2024-01-16"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Cor Lantai di Pasir Putih Depok: Kontraktor Cor Lantai berpengalaman untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi layanan harian, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Pasir Putih Depok"

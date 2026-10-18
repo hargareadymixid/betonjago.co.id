@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-03-01"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Belalai Cor di Cileungsi Bogor: layanan penyewaan pompa cor profesional untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan opsi durasi sewa harian, per minggu dan bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Cileungsi Bogor."
 focus_keyphrase: "Belalai Cor di Cileungsi Bogor"

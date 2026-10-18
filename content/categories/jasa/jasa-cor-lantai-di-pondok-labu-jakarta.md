@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-14
 categories: 
 - "jasa"
 date: "2024-04-06"
-lastmod: "2026-10-13"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Layanan Layanan Cor Lantai di Pondok Labu Jakarta cocok bagi proyek yang memerlukan pengecoran yang efisien dan presisi. Kami menyediakan opsi durasi layanan harian, per minggu dan bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Pondok Labu Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-43
 categories: 
 - "jasa"
 date: "2024-05-20"
-lastmod: "2026-10-17"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Layanan Layanan Cor Rumah di Puspasari Bogor ideal bagi proyek yang butuh pengecoran yang cepat dan akurasi tinggi. Kami menyediakan opsi durasi layanan harian, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Puspasari Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-07
 categories: 
 - "jasa"
 date: "2024-09-04"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Layanan Tukang Cor Rumah di Sukamaju Bogor cocok bagi proyek yang butuh pengecoran yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Sukamaju Bogor"

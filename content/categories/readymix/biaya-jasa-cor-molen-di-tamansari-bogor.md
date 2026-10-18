@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-53
 categories: 
 - "readymix"
 date: "2025-09-01"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Harga Jasa Cor Molen di Tamansari Bogor cocok bagi proyek yang butuh pengecoran yang efisien dan presisi. Kami menyediakan opsi durasi layanan per hari, mingguan dan per bulan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Tamansari Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-04-12"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Belalai Cor di Jambuluwuk Bogor: jasa sewa concrete pump profesional untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Belalai Cor di Jambuluwuk Bogor."
 focus_keyphrase: "Belalai Cor di Jambuluwuk Bogor"

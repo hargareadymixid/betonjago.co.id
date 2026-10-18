@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-04-21"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[3800000]"
 description: "Layanan jasa sewa Pompa Cor di Cijujung Bogor ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Cijujung Bogor."
 focus_keyphrase: "Pompa Cor di Cijujung Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-61
 categories: 
 - "readymix"
 date: "2024-10-22"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Cor Molen di Matraman Jakarta: Harga Jasa Cor Molen profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan pilihan durasi layanan harian, per minggu dan bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Harga Jasa Cor Molen di Matraman Jakarta."
 focus_keyphrase: "Cor Molen di Matraman Jakarta"

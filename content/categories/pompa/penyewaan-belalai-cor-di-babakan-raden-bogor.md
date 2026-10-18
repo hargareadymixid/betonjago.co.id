@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-05-11"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan jasa sewa Belalai Cor di Babakan Raden Bogor cocok bagi proyek yang butuh distribusi beton yang efisien dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan bantuan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Belalai Cor di Babakan Raden Bogor."
 focus_keyphrase: "Belalai Cor di Babakan Raden Bogor"

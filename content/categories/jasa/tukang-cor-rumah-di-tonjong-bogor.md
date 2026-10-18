@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-13
 categories: 
 - "jasa"
 date: "2024-05-24"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Layanan Layanan Cor Rumah di Tonjong Bogor cocok bagi proyek yang butuh pengecoran yang efisien dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Tonjong Bogor"

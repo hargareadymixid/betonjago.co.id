@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-08-22"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[3800000]"
 description: "Layanan jasa sewa Belalai Cor di Citayam Bogor ideal bagi proyek yang butuh distribusi beton yang cepat dan presisi. Kami menyediakan opsi durasi sewa per hari, mingguan dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Belalai Cor di Citayam Bogor."
 focus_keyphrase: "Belalai Cor di Citayam Bogor"

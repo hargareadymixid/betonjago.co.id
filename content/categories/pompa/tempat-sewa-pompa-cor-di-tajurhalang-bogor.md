@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-02-21"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Layanan jasa sewa Pompa Cor di Tajurhalang Bogor cocok bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Tajurhalang Bogor."
 focus_keyphrase: "Pompa Cor di Tajurhalang Bogor"

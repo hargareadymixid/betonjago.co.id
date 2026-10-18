@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-10-10"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Layanan sewa Concrete Pump di Pulo Gebang Jakarta ideal bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Kami menyediakan pilihan durasi sewa harian, per minggu dan bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Pulo Gebang Jakarta."
 focus_keyphrase: "Concrete Pump di Pulo Gebang Jakarta"

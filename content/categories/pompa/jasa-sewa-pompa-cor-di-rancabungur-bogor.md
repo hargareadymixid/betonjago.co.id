@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-02-02"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan sewa Pompa Cor di Rancabungur Bogor cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Kami menyediakan opsi durasi sewa harian, mingguan dan per bulanserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Pompa Cor di Rancabungur Bogor."
 focus_keyphrase: "Pompa Cor di Rancabungur Bogor"

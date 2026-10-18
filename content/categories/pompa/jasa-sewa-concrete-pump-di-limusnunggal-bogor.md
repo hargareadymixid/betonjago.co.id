@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-01-03"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Layanan sewa Concrete Pump di Limusnunggal Bogor cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menyediakan opsi durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, logistik handal dan bantuan teknis. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Limusnunggal Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-02-11"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[3800000]"
 description: "Layanan sewa Pompa Cor di Kramat Jati Jakarta ideal bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menyediakan pilihan durasi sewa per hari, mingguan dan per bulanserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi profesional, pengiriman tepat waktu, peralatan selalu diperiksa, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Kramat Jati Jakarta."
 focus_keyphrase: "Pompa Cor di Kramat Jati Jakarta"

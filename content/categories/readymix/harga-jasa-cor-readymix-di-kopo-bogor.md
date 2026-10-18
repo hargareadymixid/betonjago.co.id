@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-57
 categories: 
 - "readymix"
 date: "2025-09-13"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Cor ReadyMix di Kopo Bogor: Biaya Jasa Cor ReadyMix profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi ketersediaan layanan, atau bantuan teknis terkait Harga Jasa Cor ReadyMix di Kopo Bogor."
 focus_keyphrase: "Cor ReadyMix di Kopo Bogor"

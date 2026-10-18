@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-02-01"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Kebon Kacang Jakarta cocok bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Concrete Pump di Kebon Kacang Jakarta."
 focus_keyphrase: "Concrete Pump di Kebon Kacang Jakarta"

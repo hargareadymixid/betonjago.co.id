@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-13
 categories: 
 - "readymix"
 date: "2024-03-11"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Harga Jasa Cor Molen di Karyamekar Bogor cocok bagi proyek yang butuh pengecoran yang efisien dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Karyamekar Bogor"

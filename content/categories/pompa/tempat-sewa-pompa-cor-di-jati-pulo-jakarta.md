@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-01-14"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Pompa Cor di Jati Pulo Jakarta: layanan penyewaan pompa cor terpercaya untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menawarkan pilihan durasi sewa per hari, mingguan dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, peralatan selalu diperiksa, serta dukungan teknis. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Jati Pulo Jakarta"

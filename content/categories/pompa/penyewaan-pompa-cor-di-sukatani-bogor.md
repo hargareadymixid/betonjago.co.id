@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-10-25"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[3800000]"
 description: "Layanan jasa sewa Pompa Cor di Sukatani Bogor cocok bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menawarkan pilihan durasi sewa harian, mingguan dan per bulanserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Sukatani Bogor."
 focus_keyphrase: "Pompa Cor di Sukatani Bogor"

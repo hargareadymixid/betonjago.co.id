@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-07-16"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4000000]"
 description: "Layanan sewa Pompa Cor di Sunter Agung Jakarta cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menawarkan pilihan durasi sewa per hari, mingguan dan bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Sunter Agung Jakarta"

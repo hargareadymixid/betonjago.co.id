@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-06-07"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[3800000]"
 description: "Pompa Cor di Karet Tengsin Jakarta: jasa sewa concrete pump profesional untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan opsi durasi sewa per hari, mingguan dan bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Pompa Cor di Karet Tengsin Jakarta."
 focus_keyphrase: "Pompa Cor di Karet Tengsin Jakarta"

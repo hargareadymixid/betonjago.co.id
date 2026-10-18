@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-07-17"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[3800000]"
 description: "Layanan sewa Pompa Cor di Karet Semanggi Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Karet Semanggi Jakarta."
 focus_keyphrase: "Pompa Cor di Karet Semanggi Jakarta"

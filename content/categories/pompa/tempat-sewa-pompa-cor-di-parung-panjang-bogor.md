@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-08-04"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan sewa Pompa Cor di Parung Panjang Bogor ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menyediakan opsi durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Parung Panjang Bogor"

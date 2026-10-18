@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-56
 categories: 
 - "jasa"
 date: "2024-05-22"
-lastmod: "2026-10-14"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Cor Lantai di Cinagara Bogor: Borongan Cor Lantai berpengalaman untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menyediakan opsi durasi layanan harian, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Cinagara Bogor"

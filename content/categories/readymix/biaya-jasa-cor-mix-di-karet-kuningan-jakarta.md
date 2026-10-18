@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-20
 categories: 
 - "readymix"
 date: "2025-09-22"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Biaya Jasa Cor Mix di Karet Kuningan Jakarta ideal bagi proyek yang butuh pengecoran yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi ketersediaan layanan, atau bantuan teknis terkait Harga Jasa Cor Mix di Karet Kuningan Jakarta."
 focus_keyphrase: "Cor Mix di Karet Kuningan Jakarta"

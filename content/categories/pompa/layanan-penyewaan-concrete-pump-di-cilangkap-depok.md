@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-05-26"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan sewa Concrete Pump di Cilangkap Depok ideal bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Kami menyediakan opsi durasi sewa harian, mingguan dan per bulanserta beberapa tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Cilangkap Depok"

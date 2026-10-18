@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-09-13"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Bojongsari Baru Depok ideal bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, logistik terorganisir, peralatan selalu diperiksa, serta dukungan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Bojongsari Baru Depok."
 focus_keyphrase: "Concrete Pump di Bojongsari Baru Depok"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-09-05"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Layanan sewa Belalai Cor di Ancol Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator berpengalaman, pengiriman tepat waktu, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Belalai Cor di Ancol Jakarta."
 focus_keyphrase: "Belalai Cor di Ancol Jakarta"

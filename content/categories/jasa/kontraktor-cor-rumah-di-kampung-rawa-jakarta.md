@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-54
 categories: 
 - "jasa"
 date: "2025-05-20"
-lastmod: "2026-10-14"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Cor Rumah di Kampung Rawa Jakarta: Layanan Cor Rumah profesional untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan pilihan durasi layanan harian, per minggu dan bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability layanan, atau bantuan teknis terkait Jasa Cor Rumah di Kampung Rawa Jakarta."
 focus_keyphrase: "Cor Rumah di Kampung Rawa Jakarta"

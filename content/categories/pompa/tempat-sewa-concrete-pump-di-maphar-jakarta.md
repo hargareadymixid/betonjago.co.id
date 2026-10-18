@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-10-08"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[4600000]"
 description: "Concrete Pump di Maphar Jakarta: jasa sewa concrete pump profesional untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan pilihan durasi sewa per hari, mingguan dan bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, pengiriman tepat waktu, peralatan selalu diperiksa, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Maphar Jakarta."
 focus_keyphrase: "Concrete Pump di Maphar Jakarta"

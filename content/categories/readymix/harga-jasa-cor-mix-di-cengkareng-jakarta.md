@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-24
 categories: 
 - "readymix"
 date: "2024-08-10"
-lastmod: "2026-10-11"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Biaya Jasa Cor Mix di Cengkareng Jakarta ideal bagi proyek yang butuh pengecoran yang cepat dan presisi. Kami menawarkan opsi durasi layanan harian, per minggu dan per bulan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Mix di Cengkareng Jakarta"

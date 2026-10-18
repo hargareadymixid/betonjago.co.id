@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-15
 categories: 
 - "jasa"
 date: "2025-08-01"
-lastmod: "2026-10-13"
+lastmod: "2026-10-18"
 price: "[1100000]"
 description: "Layanan Borongan Cor Lantai di Buanajaya Bogor cocok bagi proyek yang butuh pengecoran yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi ketersediaan layanan, atau konsultasi gratis terkait Jasa Cor Lantai di Buanajaya Bogor."
 focus_keyphrase: "Cor Lantai di Buanajaya Bogor"

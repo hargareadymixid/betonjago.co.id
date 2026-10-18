@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-54
 categories: 
 - "jasa"
 date: "2024-04-10"
-lastmod: "2026-10-15"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Cor Lantai di Kadu Manggu Bogor: Jasa Cor Lantai terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan pilihan durasi layanan harian, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Kadu Manggu Bogor"

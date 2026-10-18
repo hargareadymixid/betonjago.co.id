@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-59
 categories: 
 - "jasa"
 date: "2025-06-03"
-lastmod: "2026-10-16"
+lastmod: "2026-10-18"
 price: "[1200000]"
 description: "Layanan Borongan Cor Lantai di Setu Jakarta cocok bagi proyek yang memerlukan pengecoran yang efisien dan akurasi tinggi. Kami menyediakan pilihan durasi layanan harian, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi ketersediaan layanan, atau konsultasi gratis terkait Jasa Cor Lantai di Setu Jakarta."
 focus_keyphrase: "Cor Lantai di Setu Jakarta"
