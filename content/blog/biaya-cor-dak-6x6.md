@@ -1,7 +1,7 @@
 ---
 title: "Biaya Cor Dak 6x6: Estimasi 2026 dan Tips Mengoptimalkan Anggaran"
 date: "2026-10-14"
-lastmod: "2026-10-14"
+lastmod: "2026-10-21"
 categories:
  - "blog"
 type: "product"
@@ -19,7 +19,7 @@ draft: false
 
 Komponen biaya terbesar dalam pengerjaan dak adalah material. Apa saja yang dibutuhkan? Beton readymix, besi beton, bekisting (kayu atau baja), dan mungkin aditif beton jika diperlukan. Ingat, harga material bisa fluktuatif, tergantung lokasi, kualitas, dan kondisi pasar.
 
-Untuk dak 6x6 meter dengan ketebalan standar 12 cm, volume beton yang dibutuhkan sekitar 8.64 m³ (dihitung dari 6m x 6m x 0.12m = 4.32 m³ dikalikan dua untuk lapisan atas dan bawah). Harga beton readymix mutu K-300 di area Jabodetabek pada 2026 diperkirakan berkisar Rp1.700.000 – Rp2.200.000 per m³. Jadi, biaya beton saja bisa mencapai Rp14.688.000 – Rp19.008.000. Nah, sudah mulai kebayang kan?
+Untuk dak 6x6 meter dengan ketebalan standar 12 cm, volume beton yang dibutuhkan sekitar 8.64 m³ (dihitung dari 6m x 6m x 0.12m = 4.32 m³ dikalikan dua untuk lapisan atas dan bawah). Harga beton readymix mutu K-300 di area Jabodetabek pada 2026 diperkirakan berkisar Rp1.700.000 – Rp2.200.000 per m³. Jadi, biaya beton saja bisa mencapai Rp14.688.000 – Rp19.008.000. Nah, sudah mulai kebayang kan? [Untuk estimasi biaya dak dengan ukuran lain, seperti 6x7 meter, Anda bisa melihatnya di sini.](/blog/biaya-cor-dak-6x7/)
 
 Besi beton, dengan diameter antara 10 mm dan 16 mm, juga krusial. Kebutuhan besi beton untuk dak 6x6 meter umumnya sekitar 1 ton – 1.5 ton, tergantung desain struktur dan kerapatan tulangan. Harga besi beton per kilogram saat ini berkisar Rp12.000 – Rp15.000. Artinya, biaya besi bisa antara Rp12.000.000 – Rp22.500.000.
 

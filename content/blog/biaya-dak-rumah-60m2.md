@@ -1,7 +1,7 @@
 ---
 title: "Biaya Dak Rumah 60m2: Estimasi Lengkap dan Tips Penghematan 2026"
 date: "2026-10-16"
-lastmod: "2026-10-16"
+lastmod: "2026-10-21"
 categories:
  - "blog"
 type: "article"
@@ -52,7 +52,7 @@ Selain beton konvensional, ada juga opsi dak ringan, misalnya menggunakan panel 
 </table>
 
 
-Perlu diingat, angka di atas hanyalah estimasi dan bisa berubah sewaktu-waktu. Untuk penawaran yang paling akurat dan sesuai kebutuhan proyek Mitra di (not detected), jangan ragu menghubungi Kami. Penting juga untuk diketahui, dak ringan umumnya punya daya tahan yang lebih rendah dibandingkan dak konvensional. Pastikan memilih jenis dak yang sesuai dengan kebutuhan struktural bangunan.
+Perlu diingat, angka di atas hanyalah estimasi dan bisa berubah sewaktu-waktu, terutama jika Anda mempertimbangkan [biaya dak rumah dengan ukuran berbeda](/blog/biaya-dak-rumah-ukuran-6x8/). Untuk penawaran yang paling akurat dan sesuai kebutuhan proyek Mitra di (not detected), jangan ragu menghubungi Kami. Penting juga untuk diketahui, dak ringan umumnya punya daya tahan yang lebih rendah dibandingkan dak konvensional. Pastikan memilih jenis dak yang sesuai dengan kebutuhan struktural bangunan.
 
 ## Trik Hemat Biaya Dak Rumah 60m2
 

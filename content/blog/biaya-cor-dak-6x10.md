@@ -1,7 +1,7 @@
 ---
 title: "Biaya Cor Dak 6x10: Estimasi 2026 dan Tips Menghitung Anggaran"
 date: "2026-10-14"
-lastmod: "2026-10-14"
+lastmod: "2026-10-21"
 categories:
  - "blog"
 type: "product"
@@ -13,7 +13,7 @@ author: "K. Utus"
 toc: true
 draft: false
 ---
-**Biaya Cor Dak 6x10: Estimasi 2026 dan Tips Menghitung Anggaran** - Hai Mitra Beton Jago! Apakah Anda sedang merencanakan pembangunan atau renovasi dak rumah dengan ukuran 6x10 meter di (not detected)? Nah, memahami perkiraan biaya adalah langkah awal yang cerdas. Perencanaan anggaran yang matang jadi kunci utama supaya proyek Anda berjalan lancar dan sesuai harapan.
+**Biaya Cor Dak 6x10: Estimasi 2026 dan Tips Menghitung Anggaran** - Hai Mitra Beton Jago! Apakah Anda sedang merencanakan pembangunan atau renovasi dak rumah dengan ukuran 6x10 meter di (not detected)? Nah, memahami perkiraan biaya adalah langkah awal yang cerdas, terutama jika Anda juga mempertimbangkan [estimasi biaya untuk ukuran dak yang lebih kecil](/blog/biaya-cor-dak-4x6/). Perencanaan anggaran yang matang jadi kunci utama supaya proyek Anda berjalan lancar dan sesuai harapan.
 
 Dak beton adalah elemen vital dalam struktur bangunan yang memberikan perlindungan dan kekuatan. Ukuran 6x10 meter cukup umum untuk dak rumah tinggal, namun biaya yang dibutuhkan bisa berbeda-beda tergantung beberapa hal. Artikel ini akan membahas perkiraan biaya cor dak 6x10 meter di tahun 2026, ditambah tips jitu menghitung anggaran agar pas di kantong Anda!
 
