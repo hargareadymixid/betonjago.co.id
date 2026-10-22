@@ -670,5 +670,33 @@
     "matchedTitle": "Cara Cor Dak Murah Jabodetabek untuk Rumah Tinggal dan Proyek Kecil",
     "taggedAt": "2026-10-20T10:29:39.170Z",
     "algoVersion": 3
+  },
+  "biaya dak rumah ukuran 4x6": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-cor-dak-4x6.md",
+    "matchedTitle": "Biaya Cor Dak 4x6: Estimasi 2026 dan Tips Menghitung Anggaran",
+    "taggedAt": "2026-10-22T10:43:33.736Z",
+    "algoVersion": 3
+  },
+  "biaya dak beton rumah": {
+    "reason": "similar to existing article",
+    "matchedFile": "cara-dak-rumah-murah.md",
+    "matchedTitle": "Cara dak rumah murah untuk proyek kecil dengan Beton Jago Jabodetabek",
+    "taggedAt": "2026-10-22T10:43:41.602Z",
+    "algoVersion": 3
+  },
+  "dak beton rumah": {
+    "reason": "similar to existing article",
+    "matchedFile": "cara-dak-rumah-murah.md",
+    "matchedTitle": "Cara dak rumah murah untuk proyek kecil dengan Beton Jago Jabodetabek",
+    "taggedAt": "2026-10-22T10:43:41.606Z",
+    "algoVersion": 3
+  },
+  "dak rumah dengan hebel": {
+    "reason": "similar to existing article",
+    "matchedFile": "cara-membuat-dak-hebel.md",
+    "matchedTitle": "Cara Membuat Dak Hebel untuk Cor Dak Rumah Kuat dan Awet",
+    "taggedAt": "2026-10-22T10:43:41.607Z",
+    "algoVersion": 3
   }
 }
