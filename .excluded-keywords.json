@@ -726,5 +726,12 @@
     "matchedTitle": "Cara Ngecor Dak yang Sering Salah dan Biaya Beton Jago Jabodetabek",
     "taggedAt": "2026-10-23T10:35:59.349Z",
     "algoVersion": 3
+  },
+  "dak cor jadi": {
+    "reason": "similar to existing article",
+    "matchedFile": "cara-ngedak-rumah-yang-sudah-jadi.md",
+    "matchedTitle": "Memahami Proses Pengecoran dan Cara Ngedak Rumah yang Sudah Jadi",
+    "taggedAt": "2026-10-24T09:53:38.338Z",
+    "algoVersion": 3
   }
 }
