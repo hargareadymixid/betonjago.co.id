@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-10-23"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Concrete Pump di Citeureup Bogor: penyewaan pompa beton profesional untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau bantuan teknis terkait sewa Concrete Pump di Citeureup Bogor."
 focus_keyphrase: "Concrete Pump di Citeureup Bogor"

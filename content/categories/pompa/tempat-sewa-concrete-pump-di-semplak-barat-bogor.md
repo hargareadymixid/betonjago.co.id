@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-07-25"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Semplak Barat Bogor ideal bagi proyek yang butuh distribusi beton yang cepat dan presisi. Kami menyediakan pilihan durasi sewa harian, per minggu dan bulananserta berbagai tipe unit pompa seperti standar, portable, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, logistik terorganisir, peralatan selalu diperiksa, serta dukungan teknis. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Semplak Barat Bogor"

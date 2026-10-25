@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-07-10"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Concrete Pump di Tegal Parang Jakarta: jasa sewa pompa cor berpengalaman untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, pengiriman tepat waktu, peralatan selalu diperiksa, serta dukungan teknis. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Tegal Parang Jakarta"

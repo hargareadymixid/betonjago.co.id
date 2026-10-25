@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-05-31"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Cigombong Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Cigombong Bogor."
 focus_keyphrase: "Concrete Pump di Cigombong Bogor"

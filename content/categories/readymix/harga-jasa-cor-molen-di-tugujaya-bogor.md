@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-42
 categories: 
 - "readymix"
 date: "2024-11-25"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Cor Molen di Tugujaya Bogor: Biaya Jasa Cor Molen berpengalaman untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Tugujaya Bogor"

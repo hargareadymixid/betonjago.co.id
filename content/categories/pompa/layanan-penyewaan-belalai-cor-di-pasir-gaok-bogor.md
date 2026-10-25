@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-03-23"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan jasa sewa Belalai Cor di Pasir Gaok Bogor ideal bagi proyek yang butuh distribusi beton yang cepat dan presisi. Kami menyediakan opsi durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: teknisi profesional, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Pasir Gaok Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-26
 categories: 
 - "readymix"
 date: "2025-09-08"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1100000]"
 description: "Cor ReadyMix di Tegal Waru Bogor: Harga Jasa Cor ReadyMix berpengalaman untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan opsi durasi layanan per hari, per minggu dan bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor ReadyMix di Tegal Waru Bogor"

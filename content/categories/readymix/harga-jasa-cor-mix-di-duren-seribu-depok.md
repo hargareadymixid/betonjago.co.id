@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-42
 categories: 
 - "readymix"
 date: "2024-07-02"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1100000]"
 description: "Cor Mix di Duren Seribu Depok: Harga Jasa Cor Mix terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan opsi durasi layanan per hari, mingguan dan per bulan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Mix di Duren Seribu Depok"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-42
 categories: 
 - "jasa"
 date: "2024-04-06"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Layanan Borongan Cor Lantai di Kukusan Depok cocok bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Kami menyediakan pilihan durasi layanan per hari, mingguan dan per bulan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Kukusan Depok"

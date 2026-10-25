@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-08-28"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Pompa Cor di Ciasihan Bogor: jasa sewa pompa beton terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan pilihan durasi sewa harian, mingguan dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Ciasihan Bogor"

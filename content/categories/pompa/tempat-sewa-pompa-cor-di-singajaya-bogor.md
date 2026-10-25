@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-07-17"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan sewa Pompa Cor di Singajaya Bogor cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menawarkan pilihan durasi sewa harian, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, logistik handal dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Singajaya Bogor."
 focus_keyphrase: "Pompa Cor di Singajaya Bogor"

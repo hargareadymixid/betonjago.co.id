@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-22
 categories: 
 - "jasa"
 date: "2025-03-16"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1100000]"
 description: "Layanan Borongan Cor Lantai di Galuga Bogor ideal bagi proyek yang butuh pengecoran yang efisien dan akurasi tinggi. Kami menawarkan opsi durasi layanan per hari, per minggu dan bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Galuga Bogor"

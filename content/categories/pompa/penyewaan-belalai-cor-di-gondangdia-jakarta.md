@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-07-05"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Belalai Cor di Gondangdia Jakarta: jasa sewa pompa beton berpengalaman untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan bantuan teknis. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Gondangdia Jakarta"

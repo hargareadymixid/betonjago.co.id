@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-11
 categories: 
 - "readymix"
 date: "2024-08-21"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Cor ReadyMix di Pasirmukti Bogor: Harga Jasa Cor ReadyMix berpengalaman untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan opsi durasi layanan harian, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor ReadyMix di Pasirmukti Bogor"

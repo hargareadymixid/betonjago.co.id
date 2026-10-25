@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-12
 categories: 
 - "jasa"
 date: "2025-06-24"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Cor Lantai di Krukut Jakarta: Layanan Cor Lantai berpengalaman untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Krukut Jakarta"

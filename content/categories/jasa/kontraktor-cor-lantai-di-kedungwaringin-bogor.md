@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-06
 categories: 
 - "jasa"
 date: "2025-02-22"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Layanan Jasa Cor Lantai di Kedungwaringin Bogor cocok bagi proyek yang butuh pengecoran yang cepat dan akurasi tinggi. Kami menawarkan pilihan durasi layanan harian, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Kedungwaringin Bogor"

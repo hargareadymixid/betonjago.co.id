@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-62
 categories: 
 - "readymix"
 date: "2024-12-11"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Cor Mix di Gobang Bogor: Harga Jasa Cor Mix profesional untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menawarkan pilihan durasi layanan harian, per minggu dan per bulan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Mix di Gobang Bogor"

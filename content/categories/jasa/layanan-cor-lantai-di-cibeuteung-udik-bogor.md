@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-49
 categories: 
 - "jasa"
 date: "2024-12-20"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1100000]"
 description: "Layanan Kontraktor Cor Lantai di Cibeuteung Udik Bogor cocok bagi proyek yang memerlukan pengecoran yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Cibeuteung Udik Bogor"

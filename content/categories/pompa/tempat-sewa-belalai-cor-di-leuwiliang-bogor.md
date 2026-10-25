@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-09-24"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Belalai Cor di Leuwiliang Bogor: jasa sewa pompa cor profesional untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menawarkan opsi durasi sewa per hari, mingguan dan bulananserta berbagai tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Leuwiliang Bogor."
 focus_keyphrase: "Belalai Cor di Leuwiliang Bogor"

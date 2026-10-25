@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-04-09"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan jasa sewa Belalai Cor di Kopo Bogor cocok bagi proyek yang butuh distribusi beton yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Kopo Bogor."
 focus_keyphrase: "Belalai Cor di Kopo Bogor"

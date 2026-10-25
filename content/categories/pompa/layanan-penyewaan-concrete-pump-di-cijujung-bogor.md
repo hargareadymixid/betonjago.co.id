@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-12-02"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Concrete Pump di Cijujung Bogor: penyewaan concrete pump berpengalaman untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Cijujung Bogor."
 focus_keyphrase: "Concrete Pump di Cijujung Bogor"

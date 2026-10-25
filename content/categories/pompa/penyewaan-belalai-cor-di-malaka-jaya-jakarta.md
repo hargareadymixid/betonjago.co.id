@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-04-30"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan sewa Belalai Cor di Malaka Jaya Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Kami menyediakan opsi durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Malaka Jaya Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-05-23"
-lastmod: "2026-10-21"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Batujajar Bogor ideal bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan bantuan teknis. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Batujajar Bogor"

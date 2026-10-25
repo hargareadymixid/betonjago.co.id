@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-03-18"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan jasa sewa Belalai Cor di Tanjungsari Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Kami menawarkan opsi durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Tanjungsari Bogor."
 focus_keyphrase: "Belalai Cor di Tanjungsari Bogor"

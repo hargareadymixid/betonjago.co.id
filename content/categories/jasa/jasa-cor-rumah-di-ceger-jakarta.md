@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-51
 categories: 
 - "jasa"
 date: "2025-04-23"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Layanan Borongan Cor Rumah di Ceger Jakarta ideal bagi proyek yang butuh pengecoran yang efisien dan presisi. Kami menyediakan pilihan durasi layanan per hari, per minggu dan per bulan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Jasa Cor Rumah di Ceger Jakarta."
 focus_keyphrase: "Cor Rumah di Ceger Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-15
 categories: 
 - "readymix"
 date: "2024-03-14"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Cor Mix di Singajaya Bogor: Harga Jasa Cor Mix berpengalaman untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Harga Jasa Cor Mix di Singajaya Bogor."
 focus_keyphrase: "Cor Mix di Singajaya Bogor"

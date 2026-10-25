@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-01-30"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan jasa sewa Pompa Cor di Sukmajaya Depok cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menyediakan opsi durasi sewa per hari, mingguan dan bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Sukmajaya Depok"

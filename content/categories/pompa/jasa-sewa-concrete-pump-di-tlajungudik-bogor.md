@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-05-16"
-lastmod: "2026-10-23"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan sewa Concrete Pump di Tlajungudik Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, logistik terorganisir, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Concrete Pump di Tlajungudik Bogor."
 focus_keyphrase: "Concrete Pump di Tlajungudik Bogor"

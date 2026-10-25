@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-09-12"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Concrete Pump di Desacibitung Kulon Bogor: penyewaan pompa cor profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Desacibitung Kulon Bogor"

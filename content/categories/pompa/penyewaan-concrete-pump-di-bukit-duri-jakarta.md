@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-10-21"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Concrete Pump di Bukit Duri Jakarta: layanan penyewaan pompa beton profesional untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan opsi durasi sewa harian, mingguan dan per bulanserta berbagai tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Bukit Duri Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-11-25"
-lastmod: "2026-10-21"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Concrete Pump di Cikeas Udik Bogor: penyewaan pompa beton terpercaya untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan pilihan durasi sewa harian, mingguan dan per bulanserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, layanan pengiriman dan bantuan teknis. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Cikeas Udik Bogor"

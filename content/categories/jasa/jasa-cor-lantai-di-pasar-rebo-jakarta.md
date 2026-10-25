@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-40
 categories: 
 - "jasa"
 date: "2024-01-11"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1100000]"
 description: "Cor Lantai di Pasar Rebo Jakarta: Layanan Cor Lantai terpercaya untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Pasar Rebo Jakarta"

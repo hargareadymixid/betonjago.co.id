@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-07-13"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan jasa sewa Pompa Cor di Koja Jakarta ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Koja Jakarta"

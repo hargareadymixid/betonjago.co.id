@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-07-14"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Pompa Cor di Tomang Jakarta: layanan penyewaan pompa beton terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Tomang Jakarta"

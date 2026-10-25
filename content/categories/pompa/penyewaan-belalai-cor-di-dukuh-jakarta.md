@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-03-29"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Belalai Cor di Dukuh Jakarta: layanan penyewaan pompa beton terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan bantuan teknis. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Dukuh Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-11-01"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Pompa Cor di Duripulo Jakarta: layanan penyewaan concrete pump profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Duripulo Jakarta"

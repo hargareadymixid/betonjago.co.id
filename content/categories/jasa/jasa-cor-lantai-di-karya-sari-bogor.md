@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-61
 categories: 
 - "jasa"
 date: "2025-05-01"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Layanan Tukang Cor Lantai di Karya Sari Bogor cocok bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi ketersediaan layanan, atau konsultasi gratis terkait Jasa Cor Lantai di Karya Sari Bogor."
 focus_keyphrase: "Cor Lantai di Karya Sari Bogor"

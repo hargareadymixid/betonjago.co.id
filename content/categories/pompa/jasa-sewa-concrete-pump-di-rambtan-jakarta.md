@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-06-04"
-lastmod: "2026-10-22"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan sewa Concrete Pump di Rambtan Jakarta ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Rambtan Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-06-02"
-lastmod: "2026-10-19"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan sewa Belalai Cor di Cisarua Bogor cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Kami menawarkan pilihan durasi sewa harian, per minggu dan per bulanserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, pengiriman tepat waktu, peralatan selalu diperiksa, serta dukungan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Cisarua Bogor."
 focus_keyphrase: "Belalai Cor di Cisarua Bogor"

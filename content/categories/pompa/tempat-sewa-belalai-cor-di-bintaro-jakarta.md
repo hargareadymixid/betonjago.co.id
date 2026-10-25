@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-11-19"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan jasa sewa Belalai Cor di Bintaro Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, logistik terorganisir, peralatan selalu diperiksa, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Belalai Cor di Bintaro Jakarta."
 focus_keyphrase: "Belalai Cor di Bintaro Jakarta"

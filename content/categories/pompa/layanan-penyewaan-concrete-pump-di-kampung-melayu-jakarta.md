@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-12-14"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan sewa Concrete Pump di Kampung Melayu Jakarta ideal bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi tersertifikasi, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Kampung Melayu Jakarta."
 focus_keyphrase: "Concrete Pump di Kampung Melayu Jakarta"

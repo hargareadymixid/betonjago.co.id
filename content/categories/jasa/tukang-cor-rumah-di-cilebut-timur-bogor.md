@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-53
 categories: 
 - "jasa"
 date: "2024-06-07"
-lastmod: "2026-10-19"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Layanan Tukang Cor Rumah di Cilebut Timur Bogor cocok bagi proyek yang memerlukan pengecoran yang efisien dan presisi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Cilebut Timur Bogor"

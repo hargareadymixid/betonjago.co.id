@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-06-13"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan sewa Belalai Cor di Senayan Jakarta cocok bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Senayan Jakarta"

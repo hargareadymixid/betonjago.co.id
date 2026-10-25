@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-30
 categories: 
 - "readymix"
 date: "2025-02-07"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Harga Jasa Cor Molen di Cipinang Cempedak Jakarta ideal bagi proyek yang memerlukan pengecoran yang cepat dan akurasi tinggi. Kami menawarkan pilihan durasi layanan per hari, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Cipinang Cempedak Jakarta"

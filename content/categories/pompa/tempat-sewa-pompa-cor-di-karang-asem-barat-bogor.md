@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-01-10"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Pompa Cor di Karang Asem Barat Bogor: penyewaan pompa cor profesional untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan bantuan teknis. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Karang Asem Barat Bogor"

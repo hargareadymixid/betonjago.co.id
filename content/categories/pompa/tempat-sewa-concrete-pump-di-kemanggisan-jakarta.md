@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-06-10"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan jasa sewa Concrete Pump di Kemanggisan Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, logistik handal dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Concrete Pump di Kemanggisan Jakarta."
 focus_keyphrase: "Concrete Pump di Kemanggisan Jakarta"

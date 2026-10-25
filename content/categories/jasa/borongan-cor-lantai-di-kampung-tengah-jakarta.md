@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-14
 categories: 
 - "jasa"
 date: "2024-10-22"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Layanan Borongan Cor Lantai di Kampung Tengah Jakarta ideal bagi proyek yang butuh pengecoran yang efisien dan presisi. Kami menawarkan opsi durasi layanan per hari, mingguan dan per bulan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Kampung Tengah Jakarta"

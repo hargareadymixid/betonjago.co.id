@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-44
 categories: 
 - "jasa"
 date: "2025-09-17"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1100000]"
 description: "Cor Rumah di Karyamekar Bogor: Kontraktor Cor Rumah profesional untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau konsultasi gratis terkait Jasa Cor Rumah di Karyamekar Bogor."
 focus_keyphrase: "Cor Rumah di Karyamekar Bogor"

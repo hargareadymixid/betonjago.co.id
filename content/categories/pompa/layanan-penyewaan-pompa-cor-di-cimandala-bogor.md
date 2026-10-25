@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-10-26"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Pompa Cor di Cimandala Bogor: jasa sewa pompa beton terpercaya untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan pilihan durasi sewa harian, mingguan dan bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Cimandala Bogor."
 focus_keyphrase: "Pompa Cor di Cimandala Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-11-24"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan jasa sewa Belalai Cor di Rawajati Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Rawajati Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-17
 categories: 
 - "jasa"
 date: "2024-11-11"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Cor Lantai di Sukapura Jakarta: Borongan Cor Lantai berpengalaman untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan opsi durasi layanan harian, mingguan dan per bulan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Sukapura Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-01-30"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan sewa Concrete Pump di Cimpaeun Depok ideal bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menyediakan pilihan durasi sewa per hari, per minggu dan per bulanserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Concrete Pump di Cimpaeun Depok."
 focus_keyphrase: "Concrete Pump di Cimpaeun Depok"

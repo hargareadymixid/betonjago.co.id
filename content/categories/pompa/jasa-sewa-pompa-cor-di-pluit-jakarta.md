@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-06-02"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan jasa sewa Pompa Cor di Pluit Jakarta ideal bagi proyek yang butuh distribusi beton yang efisien dan presisi. Kami menawarkan pilihan durasi sewa per hari, mingguan dan per bulanserta berbagai tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Pluit Jakarta."
 focus_keyphrase: "Pompa Cor di Pluit Jakarta"

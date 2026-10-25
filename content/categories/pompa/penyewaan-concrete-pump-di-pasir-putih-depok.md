@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-09-25"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Concrete Pump di Pasir Putih Depok: layanan penyewaan pompa cor terpercaya untuk berbagai kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Pasir Putih Depok"

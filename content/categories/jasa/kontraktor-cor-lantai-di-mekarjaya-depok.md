@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-49
 categories: 
 - "jasa"
 date: "2024-12-06"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Cor Lantai di Mekarjaya Depok: Borongan Cor Lantai berpengalaman untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Mekarjaya Depok"

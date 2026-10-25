@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-02-27"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan sewa Pompa Cor di Dukuh Jakarta cocok bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Kami menawarkan opsi durasi sewa harian, per minggu dan bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long-boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Dukuh Jakarta."
 focus_keyphrase: "Pompa Cor di Dukuh Jakarta"

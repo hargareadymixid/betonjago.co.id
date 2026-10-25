@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-08-09"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Concrete Pump di Jatijajar Depok: layanan penyewaan pompa beton terpercaya untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan pilihan durasi sewa per hari, per minggu dan per bulanserta beberapa tipe unit pompa cor seperti pompa standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Concrete Pump di Jatijajar Depok."
 focus_keyphrase: "Concrete Pump di Jatijajar Depok"

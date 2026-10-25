@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-02-23"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Concrete Pump di Pasirmukti Bogor: jasa sewa pompa cor terpercaya untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Pasirmukti Bogor"

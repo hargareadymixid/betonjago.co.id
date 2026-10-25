@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-01-07"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Pompa Cor di Pasar Manggis Jakarta: jasa sewa pompa beton terpercaya untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menyediakan opsi durasi sewa per hari, mingguan dan bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Pasar Manggis Jakarta"

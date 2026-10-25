@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-23
 categories: 
 - "readymix"
 date: "2025-03-30"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Biaya Jasa Cor Molen di Sukatani Depok cocok bagi proyek yang memerlukan pengecoran yang cepat dan presisi. Kami menyediakan opsi durasi layanan harian, mingguan dan bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Sukatani Depok"

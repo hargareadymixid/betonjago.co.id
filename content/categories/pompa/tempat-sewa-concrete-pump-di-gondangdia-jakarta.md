@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-03-18"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Concrete Pump di Gondangdia Jakarta: layanan penyewaan pompa cor profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan pilihan durasi sewa per hari, mingguan dan bulananserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan bantuan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Concrete Pump di Gondangdia Jakarta."
 focus_keyphrase: "Concrete Pump di Gondangdia Jakarta"

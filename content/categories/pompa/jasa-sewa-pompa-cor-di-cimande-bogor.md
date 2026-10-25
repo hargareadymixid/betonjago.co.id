@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-08-31"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan sewa Pompa Cor di Cimande Bogor cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Cimande Bogor."
 focus_keyphrase: "Pompa Cor di Cimande Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-02-27"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan jasa sewa Belalai Cor di Parakanjaya Bogor cocok bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Parakanjaya Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-09-04"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan sewa Pompa Cor di Ciasmara Bogor ideal bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: unit terawat, staf bersertifikat, layanan pengiriman dan bantuan teknis. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Ciasmara Bogor"

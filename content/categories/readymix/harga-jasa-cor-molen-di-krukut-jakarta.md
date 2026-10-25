@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-27
 categories: 
 - "readymix"
 date: "2025-10-02"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Biaya Jasa Cor Molen di Krukut Jakarta ideal bagi proyek yang memerlukan pengecoran yang efisien dan presisi. Kami menawarkan pilihan durasi layanan per hari, mingguan dan per bulan serta berbagai metode pengecoran seperti penuangan manual, pompa cor, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Krukut Jakarta"

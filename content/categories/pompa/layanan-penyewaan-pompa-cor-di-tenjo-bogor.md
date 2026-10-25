@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-06-12"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan sewa Pompa Cor di Tenjo Bogor ideal bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: teknisi profesional, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Tenjo Bogor."
 focus_keyphrase: "Pompa Cor di Tenjo Bogor"

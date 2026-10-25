@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-04-09"
-lastmod: "2026-10-22"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan jasa sewa Concrete Pump di Setu Bogor ideal bagi proyek yang memerlukan distribusi beton yang efisien dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Setu Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-07-31"
-lastmod: "2026-10-23"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Pompa Cor di Cipayung Jakarta: jasa sewa pompa cor berpengalaman untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, logistik handal dan bantuan teknis. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Cipayung Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-03-22"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan sewa Belalai Cor di Kembangkuning Bogor cocok bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa seperti pompa standar, portable, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator berpengalaman, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Belalai Cor di Kembangkuning Bogor."
 focus_keyphrase: "Belalai Cor di Kembangkuning Bogor"

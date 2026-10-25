@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-40
 categories: 
 - "readymix"
 date: "2024-02-13"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1100000]"
 description: "Harga Jasa Cor Mix di Bojongindah Bogor cocok bagi proyek yang butuh pengecoran yang efisien dan presisi. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Mix di Bojongindah Bogor"

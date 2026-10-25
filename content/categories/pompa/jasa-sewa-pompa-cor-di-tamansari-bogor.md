@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-07-07"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan sewa Pompa Cor di Tamansari Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Kami menawarkan pilihan durasi sewa harian, mingguan dan bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Tamansari Bogor"

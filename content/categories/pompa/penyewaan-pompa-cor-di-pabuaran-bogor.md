@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-09-10"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan jasa sewa Pompa Cor di Pabuaran Bogor ideal bagi proyek yang butuh distribusi beton yang cepat dan akurasi tinggi. Kami menyediakan pilihan durasi sewa per hari, mingguan dan per bulanserta beberapa tipe unit pompa seperti standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi availability unit, atau konsultasi gratis terkait sewa Pompa Cor di Pabuaran Bogor."
 focus_keyphrase: "Pompa Cor di Pabuaran Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-03-24"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Pompa Cor di Beji Depok: penyewaan pompa beton profesional untuk berbagai kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan bantuan teknis. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Beji Depok"

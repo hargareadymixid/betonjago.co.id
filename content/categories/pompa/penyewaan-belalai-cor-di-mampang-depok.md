@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-11-24"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Belalai Cor di Mampang Depok: jasa sewa concrete pump terpercaya untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: teknisi profesional, pengiriman tepat waktu, peralatan selalu diperiksa, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Mampang Depok"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-01-26"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Pompa Cor di Argapura Bogor: jasa sewa pompa beton berpengalaman untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Kami menyediakan pilihan durasi sewa per hari, per minggu dan bulananserta berbagai tipe unit pompa cor seperti standar, portable, long-boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Argapura Bogor."
 focus_keyphrase: "Pompa Cor di Argapura Bogor"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-12-27"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan sewa Belalai Cor di Penjaringan Jakarta cocok bagi proyek yang memerlukan distribusi beton yang cepat dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi detail, konfirmasi ketersediaan unit, atau konsultasi gratis terkait sewa Belalai Cor di Penjaringan Jakarta."
 focus_keyphrase: "Belalai Cor di Penjaringan Jakarta"

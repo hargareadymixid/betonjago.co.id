@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-08-01"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Layanan jasa sewa Pompa Cor di Ragajaya Bogor cocok bagi proyek yang memerlukan distribusi beton yang efisien dan presisi. Kami menawarkan pilihan durasi sewa per hari, mingguan dan bulananserta beberapa tipe unit pompa seperti pompa standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: unit terawat, operator profesional, logistik handal dan dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan unit, atau bantuan teknis terkait sewa Pompa Cor di Ragajaya Bogor."
 focus_keyphrase: "Pompa Cor di Ragajaya Bogor"

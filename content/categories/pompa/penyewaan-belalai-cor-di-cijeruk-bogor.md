@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2024-04-30"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan sewa Belalai Cor di Cijeruk Bogor cocok bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable, long boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Silakan hubungi kami untuk informasi lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau konsultasi gratis terkait sewa Belalai Cor di Cijeruk Bogor."
 focus_keyphrase: "Belalai Cor di Cijeruk Bogor"

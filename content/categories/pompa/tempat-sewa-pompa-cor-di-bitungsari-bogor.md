@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-02-18"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan sewa Pompa Cor di Bitungsari Bogor ideal bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menawarkan pilihan durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa dipilih sesuai skala proyek. Fitur layanan kami meliputi: operator terlatih, pengiriman tepat waktu, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang fleksibel untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Bitungsari Bogor"

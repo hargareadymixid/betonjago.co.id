@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-01-03"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Concrete Pump di Parungpanjang Bogor: jasa sewa concrete pump terpercaya untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menawarkan pilihan durasi sewa per hari, per minggu dan per bulanserta berbagai tipe unit pompa cor seperti standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: peralatan prima, staf bersertifikat, layanan pengiriman dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Parungpanjang Bogor"

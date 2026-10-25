@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-48
 categories: 
 - "jasa"
 date: "2025-03-27"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Cor Rumah di Rawamangun Jakarta: Borongan Cor Rumah terpercaya untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi layanan per hari, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator terlatih, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Jasa Cor Rumah di Rawamangun Jakarta."
 focus_keyphrase: "Cor Rumah di Rawamangun Jakarta"

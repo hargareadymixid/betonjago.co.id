@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-02-06"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Layanan sewa Belalai Cor di Cempaka Baru Jakarta ideal bagi proyek yang butuh distribusi beton yang efisien dan akurasi tinggi. Kami menyediakan opsi durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa cor seperti standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Cempaka Baru Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-22
 categories: 
 - "readymix"
 date: "2025-10-15"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Harga Jasa Cor Mix di Sukajaya Bogor cocok bagi proyek yang memerlukan pengecoran yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk informasi lebih lanjut, estimasi terperinci, konfirmasi ketersediaan layanan, atau bantuan teknis terkait Harga Jasa Cor Mix di Sukajaya Bogor."
 focus_keyphrase: "Cor Mix di Sukajaya Bogor"

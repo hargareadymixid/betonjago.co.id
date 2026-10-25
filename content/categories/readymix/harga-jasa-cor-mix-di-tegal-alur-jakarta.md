@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-45
 categories: 
 - "readymix"
 date: "2024-12-03"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Biaya Jasa Cor Mix di Tegal Alur Jakarta ideal bagi proyek yang butuh pengecoran yang efisien dan presisi. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta berbagai metode pengecoran seperti penuangan manual, pompa beton, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: tim terlatih, peralatan terawat, logistik handal, dan dukungan teknis langsung di lokasi. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau bantuan teknis terkait Harga Jasa Cor Mix di Tegal Alur Jakarta."
 focus_keyphrase: "Cor Mix di Tegal Alur Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-58
 categories: 
 - "jasa"
 date: "2025-02-21"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Layanan Jasa Cor Rumah di Curug Bogor ideal bagi proyek yang butuh pengecoran yang cepat dan presisi. Kami menyediakan pilihan durasi layanan per hari, per minggu dan per bulan serta beberapa metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Rumah di Curug Bogor"

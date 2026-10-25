@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-18
 categories: 
 - "jasa"
 date: "2024-05-03"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Layanan Jasa Cor Lantai di Penjaringan Jakarta cocok bagi proyek yang butuh pengecoran yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Cor Lantai di Penjaringan Jakarta"

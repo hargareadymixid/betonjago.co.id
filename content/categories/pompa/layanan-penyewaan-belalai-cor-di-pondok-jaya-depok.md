@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-09-30"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Belalai Cor di Pondok Jaya Depok: penyewaan concrete pump terpercaya untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Kami menawarkan opsi durasi sewa per hari, per minggu dan bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa dipilih sesuai skala proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan bantuan teknis. Kami juga menyediakan penawaran harga yang jelas dan opsi harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Pondok Jaya Depok"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-09-29"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4000000]"
 description: "Pompa Cor di Tanah Tinggi Jakarta: jasa sewa pompa beton profesional untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti pompa standar, portable dengan boom pendek, long boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: operator terlatih, logistik terorganisir, perawatan dan inspeksi rutin, serta dukungan teknis. Kami juga menyediakan penawaran harga yang jelas dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Pompa Cor di Tanah Tinggi Jakarta"

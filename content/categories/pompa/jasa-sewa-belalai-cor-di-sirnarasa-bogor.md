@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2024-10-09"
-lastmod: "2026-10-20"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Belalai Cor di Sirnarasa Bogor: penyewaan concrete pump terpercaya untuk berbagai kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti standar, portable, long-boom dan master long boom yang bisa dipilih sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan opsi harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Belalai Cor di Sirnarasa Bogor"

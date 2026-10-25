@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-0
 categories: 
 - "pompa"
 date: "2025-09-11"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Pompa Cor di Sumur Batu Bogor: penyewaan concrete pump profesional untuk anekaragam kebutuhan konstruksi, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan komersial bertingkat. Kami menyediakan opsi durasi sewa per hari, mingguan dan per bulanserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long-boom dan master long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, logistik terorganisir, perawatan dan inspeksi rutin, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi availability unit, atau bantuan teknis terkait sewa Pompa Cor di Sumur Batu Bogor."
 focus_keyphrase: "Pompa Cor di Sumur Batu Bogor"

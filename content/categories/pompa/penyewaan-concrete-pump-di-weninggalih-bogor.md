@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-2
 categories: 
 - "pompa"
 date: "2025-02-09"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[4600000]"
 description: "Layanan sewa Concrete Pump di Weninggalih Bogor ideal bagi proyek yang memerlukan distribusi beton yang cepat dan akurasi tinggi. Tersedia paket fleksibel dengan pilihan waktu harian, mingguan, sampai bulananserta beberapa tipe unit pompa seperti pompa standar, portable dengan boom pendek, long boom dan master long-boom yang bisa disesuaikan sesuai kebutuhan proyek. Keunggulan layanan kami: peralatan prima, operator profesional, logistik handal dan dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Weninggalih Bogor"

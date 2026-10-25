@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2025-05-25"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Concrete Pump di Bintaro Jakarta: layanan penyewaan pompa beton berpengalaman untuk berbagai kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket fleksibel dengan opsi durasi harian, mingguan, sampai bulananserta berbagai tipe unit pompa cor seperti pompa standar, portable, long boom dan master long-boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: teknisi tersertifikasi, logistik terorganisir, peralatan selalu diperiksa, serta dukungan teknis. Kami juga menyediakan penawaran harga yang transparan dan opsi harga yang mudah disesuaikan untuk membantu perencanaan anggaran proyek Anda"
 focus_keyphrase: "Concrete Pump di Bintaro Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-16
 categories: 
 - "readymix"
 date: "2024-05-12"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Cor Mix di Ciracas Jakarta: Biaya Jasa Cor Mix terpercaya untuk anekaragam kebutuhan proyek, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Kami menawarkan opsi durasi layanan per hari, mingguan dan bulanan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa disesuaikan sesuai skala proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, estimasi terperinci, konfirmasi availability layanan, atau konsultasi gratis terkait Biaya Jasa Cor Mix di Ciracas Jakarta."
 focus_keyphrase: "Cor Mix di Ciracas Jakarta"

@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-62
 categories: 
 - "readymix"
 date: "2024-11-20"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1300000]"
 description: "Cor Mix di Nanggewer Mekar Bogor: Biaya Jasa Cor Mix berpengalaman untuk anekaragam kebutuhan proyek, seperti pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa beton, long-boom untuk area sulit yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang jelas dan paket harga yang fleksibel untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Mix di Nanggewer Mekar Bogor"

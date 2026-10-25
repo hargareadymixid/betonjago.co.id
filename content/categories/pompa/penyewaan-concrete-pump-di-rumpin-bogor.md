@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/concrete-pump/concrete-pump-1
 categories: 
 - "pompa"
 date: "2024-05-31"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[3800000]"
 description: "Concrete Pump di Rumpin Bogor: jasa sewa concrete pump berpengalaman untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek residensial dan gedung bertingkat. Tersedia paket mudah disesuaikan dengan opsi durasi harian, mingguan, sampai bulananserta beberapa tipe unit pompa cor seperti standar, portable, long-boom dan master long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami meliputi: operator berpengalaman, pengiriman tepat waktu, peralatan selalu diperiksa, serta konsultasi perencanaan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran terperinci, konfirmasi availability unit, atau bantuan teknis terkait sewa Concrete Pump di Rumpin Bogor."
 focus_keyphrase: "Concrete Pump di Rumpin Bogor"

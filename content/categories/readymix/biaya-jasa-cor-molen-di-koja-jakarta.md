@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-59
 categories: 
 - "readymix"
 date: "2024-10-28"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Harga Jasa Cor Molen di Koja Jakarta ideal bagi proyek yang memerlukan pengecoran yang efisien dan presisi. Kami menyediakan opsi durasi layanan harian, mingguan dan per bulan serta beberapa metode pengecoran seperti penuangan manual, pompa cor, long boom yang bisa dipilih sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator berpengalaman, teknisi profesional, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Kami juga menyediakan estimasi biaya yang transparan dan paket harga yang mudah disesuaikan untuk membantu penyusunan anggaran proyek Anda"
 focus_keyphrase: "Cor Molen di Koja Jakarta"

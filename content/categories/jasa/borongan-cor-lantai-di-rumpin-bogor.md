@@ -5,7 +5,7 @@ featured_image: "https://hargareadymixid.github.io/readymix/readymix-concrete-55
 categories: 
 - "jasa"
 date: "2025-07-30"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 price: "[1200000]"
 description: "Cor Lantai di Rumpin Bogor: Borongan Cor Lantai berpengalaman untuk anekaragam kebutuhan konstruksi, mulai dari pengecoran plat, sloof, kolom, balok hingga lantai serta proyek rumah dan komersial bertingkat. Tersedia paket mudah disesuaikan dengan pilihan waktu harian, mingguan, sampai bulanan serta beberapa metode pengecoran seperti penuangan tradisional, pompa cor, long boom yang bisa disesuaikan sesuai kebutuhan proyek. Fitur layanan kami termasuk: operator terlatih, teknisi tersertifikasi, pengiriman dan logistik terjadwal, perawatan serta inspeksi rutin, serta dukungan teknis di lapangan. Silakan hubungi kami untuk keterangan lebih lanjut, penawaran detail, konfirmasi ketersediaan layanan, atau bantuan teknis terkait Jasa Cor Lantai di Rumpin Bogor."
 focus_keyphrase: "Cor Lantai di Rumpin Bogor"
