@@ -733,5 +733,12 @@
     "matchedTitle": "Memahami Proses Pengecoran dan Cara Ngedak Rumah yang Sudah Jadi",
     "taggedAt": "2026-10-24T09:53:38.338Z",
     "algoVersion": 3
+  },
+  "harga dak keraton per m2": {
+    "reason": "similar to existing article",
+    "matchedFile": "cor-dak-keraton.md",
+    "matchedTitle": "Memahami Keunggulan Cor Dak Keraton untuk Konstruksi Kuat",
+    "taggedAt": "2026-10-25T10:14:20.008Z",
+    "algoVersion": 3
   }
 }
