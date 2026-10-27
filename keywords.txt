@@ -85,7 +85,6 @@ cor rumah dengan bondek
 dak beton bondek
 dak beton rumah
 dak cor
-dak cor bondek
 dak cor jadi
 dak cor rumah
 dak cor rumah minimalis
@@ -95,9 +94,7 @@ dak rumah cor
 dak rumah dengan bondek
 dak rumah dengan hebel
 dak rumah hemat biaya
-dak rumah murah
 dak rumah pakai bondek
-garasi cor dak
 garasi cor minimalis
 garasi dak cor
 harga baja ringan untuk cor dak
