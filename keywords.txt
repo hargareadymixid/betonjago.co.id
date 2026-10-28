@@ -98,7 +98,6 @@ dak rumah pakai bondek
 garasi cor minimalis
 garasi dak cor
 harga baja ringan untuk cor dak
-harga beton precast ruspin
 harga bondek bangunan
 harga borongan ngedak
 harga cor bangunan per meter
@@ -106,9 +105,7 @@ harga cor beton untuk rumah
 harga cor coran per meter
 harga cor dak per meter persegi
 harga cor dak rumah
-harga cor rumah
 harga cor rumah per meter
-harga dak beton jadi
 harga dak beton per meter
 harga dak cor bondek
 harga dak keraton per m2
