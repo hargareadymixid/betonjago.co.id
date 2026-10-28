@@ -1,7 +1,7 @@
 ---
 title: "Biaya Buat Dak Beton: Estimasi Lengkap & Tips Hemat 2026"
 date: "2026-10-12"
-lastmod: "2026-10-21"
+lastmod: "2026-10-28"
 categories:
  - "blog"
 type: "article"
@@ -35,7 +35,7 @@ Berikut rincian perkiraan biayanya:
 *   **Biaya Tenaga Kerja:** Rp 150.000 – Rp 300.000 per meter persegi
 *   **Biaya Lain-lain:** (Bekisting, Pemadatan, Finishing) Rp 50.000 – Rp 100.000 per meter persegi
 
-Dengan begitu, estimasi total biaya buat dak beton per meter persegi di (not detected) berkisar antara Rp 1.450.000 – Rp 2.600.000. Ingat, ini adalah estimasi ya, Mitra. Untuk penawaran yang lebih akurat dan sesuai kebutuhan proyek, silakan hubungi Kami atau pelajari lebih lanjut tentang [biaya pembuatan dak beton](/blog/biaya-pembuatan-dak-beton/).
+Dengan begitu, estimasi total biaya buat dak beton per meter persegi di (not detected) berkisar antara Rp 1.450.000 – Rp 2.600.000, dan untuk mendapatkan solusi terbaik dalam [membuat dak rumah yang kuat dan tahan lama di Jabodetabek](/blog/buat-dak-rumah/) Mitra bisa langsung berkonsultasi dengan kami. Ingat, ini adalah estimasi ya, Mitra. Untuk penawaran yang lebih akurat dan sesuai kebutuhan proyek, silakan hubungi Kami atau pelajari lebih lanjut tentang [biaya dak beton per meter persegi](/blog/biaya-dak-beton/).
 
 ![Contoh Pengecoran Dak Beton dengan Concrete Pump](/images/blog/biaya-buat-dak-beton.jpg)
 

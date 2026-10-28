@@ -1,7 +1,7 @@
 ---
 title: "Biaya Dak Rumah Ukuran 6x8: Estimasi Lengkap dan Tips Penghematan 2026"
 date: "2026-10-16"
-lastmod: "2026-10-16"
+lastmod: "2026-10-28"
 categories:
  - "blog"
 type: "article"
@@ -31,7 +31,7 @@ Ada dua opsi utama yang bisa Anda pertimbangkan untuk membangun dak rumah: dak k
 
 ![Ilustrasi perbandingan dak konvensional dan dak ringan](/images/blog/biaya-dak-rumah.jpg)
 
-Berikut ini perbandingan detail antara kedua jenis dak ini:
+Berikut ini perbandingan detail antara kedua jenis dak ini: Anda juga bisa melihat [estimasi biaya dak rumah ukuran 6x12](/blog/biaya-dak-rumah-ukuran-6x12/) untuk perbandingan lebih lanjut.
 
 <table class="table">
   <caption>Perbandingan Biaya dan Karakteristik Dak Konvensional vs. Dak Ringan</caption>

@@ -1,7 +1,7 @@
 ---
 title: "Cara ngecor rumah benar hindari kesalahan umum"
 date: "2026-10-22"
-lastmod: "2026-10-22"
+lastmod: "2026-10-28"
 categories:
  - "blog"
 type: "article"
@@ -43,7 +43,7 @@ Gunakan alat vibrator beton, masukkan secara vertikal dan horizontal ke dalam ad
 
 ## Curing: Rahasia Beton Kuat dan Awet
 
-Setelah cor, jangan langsung ditinggal! Proses *curing* atau perawatan beton itu penting banget. Ini seperti memberi makan tanaman. Kalau nggak disiram, bisa layu, kan? Curing memastikan beton mengeras sempurna dan mencapai kekuatan maksimalnya.
+Setelah cor, jangan langsung ditinggal! [Pelajari juga cara membuat dak rumah yang kuat dan tahan lama](/blog/cara-membuat-dak-rumah/) Proses *curing* atau perawatan beton itu penting banget. Ini seperti memberi makan tanaman. Kalau nggak disiram, bisa layu, kan? Curing memastikan beton mengeras sempurna dan mencapai kekuatan maksimalnya.
 
 Siram beton dengan air secara berkala selama minimal 7 hari setelah pengecoran. Atau, tutup permukaannya dengan karung goni basah atau terpal untuk mencegah penguapan air yang terlalu cepat.
 

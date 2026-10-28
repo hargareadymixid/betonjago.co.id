@@ -1,7 +1,7 @@
 ---
 title: "Memahami Keunggulan Dak Cor Bondek untuk Konstruksi Efisien"
 date: "2026-10-27"
-lastmod: "2026-10-27"
+lastmod: "2026-10-28"
 categories:
  - "blog"
 type: "article"
@@ -50,7 +50,7 @@ Mitra Beton Jago, dalam membangun kekuatan sebuah struktur, pemilihan jasa penge
 
 Kami hanya menggunakan material berkualitas tinggi dan didukung oleh tenaga kerja yang terlatih. Selain itu, Kami juga memberikan layanan konsultasi gratis untuk membantu Anda merencanakan dan melaksanakan proyek dak cor bondek dengan optimal. Dengan mempercayakan proyek Anda kepada Beton Jago, Anda bisa tenang karena kami berkomitmen pada standar kualitas tertinggi dan penyelesaian tepat waktu. 
 
-Butuh informasi lebih lanjut? Jangan sungkan untuk [hubungi Kami](URL) melalui tombol **WhatsApp** atau **Telepon** yang ada di halaman ini. [Memahami Proses Pengecoran Dak yang Efisien cara cor dak](URL) juga bisa menjadi referensi tambahan untuk Anda.
+Butuh informasi lebih lanjut? Jangan sungkan untuk [hubungi Kami](URL) melalui tombol **WhatsApp** atau **Telepon** yang ada di halaman ini. [Memahami Proses Pengecoran Dak yang Efisien cara cor dak](/blog/cara-cor-dak/) juga bisa menjadi referensi tambahan untuk Anda.
 JUDUL: Memahami Keunggulan Dak Cor Bondek untuk Konstruksi Efisien
 DESCRIPTION: Dak cor bondek menawarkan solusi konstruksi cepat dan hemat biaya. Temukan keunggulan, proses pemasangan, dan estimasi biaya dak cor bondek bersama Beton Jago.
 TAGS: dak cor bondek, beton readymix, jasa pengecoran, bondek, harga dak cor
