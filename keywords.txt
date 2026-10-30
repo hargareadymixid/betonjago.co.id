@@ -11,7 +11,6 @@ biaya cor dak rumah per meter
 biaya cor dak ukuran 3x6
 biaya cor dak ukuran 5x10
 biaya cor halaman rumah
-biaya cor rumah per m2
 biaya cor rumah per meter
 biaya cor rumah per meter persegi
 biaya dak beton per meter
@@ -111,9 +110,7 @@ harga dak cor bondek
 harga dak keraton per m2
 harga dak rumah per meter
 harga dak rumah per meter persegi
-harga kawat cor bangunan
 harga ngecor dak rumah
-harga ngecor rumah
 harga ngecor rumah per meter
 harga ngedak per m2
 harga ngedak per meter
