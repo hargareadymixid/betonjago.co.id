@@ -116,12 +116,9 @@ harga ngedak per m2
 harga ngedak per meter
 harga ngedak rumah
 harga per meter dak beton
-harga timba bangunan
 hitungan cor dak
 hitungan dak rumah
 hitungan ngecor rumah
-jenis dak rumah
-ketebalan cor dak
 ketebalan cor dak bondek
 ketebalan cor dak rumah
 kusen cor beton
