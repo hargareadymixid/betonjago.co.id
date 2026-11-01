@@ -121,13 +121,10 @@ hitungan dak rumah
 hitungan ngecor rumah
 ketebalan cor dak bondek
 ketebalan cor dak rumah
-kusen cor beton
 kusen cor minimalis
-membuat dak rumah
 membuat dak rumah dengan bondek
 menghitung biaya cor dak rumah
 menghitung biaya ngedak rumah
-meningkat rumah tanpa cor
 ngecor bangunan
 ngecor dak rumah
 ngecor halaman rumah

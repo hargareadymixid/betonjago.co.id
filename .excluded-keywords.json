@@ -992,5 +992,12 @@
     "matchedTitle": "Berapa Biaya Cor Rumah Per M2 di Jabodetabek?",
     "taggedAt": "2026-10-31T11:18:11.994Z",
     "algoVersion": 3
+  },
+  "ketebalan cor dak rumah": {
+    "reason": "similar to existing article",
+    "matchedFile": "ketebalan-cor-dak.md",
+    "matchedTitle": "Ketebalan Cor Dak Ideal Hindari Kesalahan Umum Perhitungan",
+    "taggedAt": "2026-11-01T12:07:11.005Z",
+    "algoVersion": 3
   }
 }
