@@ -129,9 +129,6 @@ ngecor bangunan
 ngecor dak rumah
 ngecor halaman rumah
 ngecor rumah
-ngecor rumah murah
-ngecor rumah praktis
-ngecor rumah saat hujan
 ngedak murah
 ngedak pakai hebel
 ngedak rumah
