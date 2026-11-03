@@ -136,9 +136,7 @@ ngedak rumah biaya murah
 ngedak rumah dengan hebel
 ngedak rumah murah
 pengecoran rumah
-pengganti cor dak
 penyebab cor dak retak
-perbandingan cor dak
 perbandingan dak bondek dan konvensional
 perhitungan biaya cor dak rumah
 perhitungan biaya dak rumah
@@ -146,7 +144,6 @@ perhitungan biaya ngecor rumah
 perhitungan ngecor rumah
 perkiraan biaya cor dak per m2
 perkiraan biaya dak per meter
-perkiraan biaya dak rumah
 perkiraan biaya ngedak rumah
 rincian biaya cor dak
 rincian biaya dak rumah
