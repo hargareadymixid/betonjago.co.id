@@ -152,7 +152,6 @@ rumah cor dak
 rumah dak bondek
 rumah dak cor
 rumah di cor
-rumah full cor
 rumah kusen cor
 tangga cor
 tangga cor melingkar
@@ -160,7 +159,5 @@ tangga cor minimalis
 tangga cor rumah minimalis
 tangga hitam
 tangga rumah cor
-ukuran batu split untuk cor rumah
 ukuran bondek untuk dak rumah
-ukuran cor dak
 ukuran cor dak beton
