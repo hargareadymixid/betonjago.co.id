@@ -1,7 +1,7 @@
 ---
 title: "Berapa Biaya Cor Rumah Per M2 di Jabodetabek?"
 date: "2026-10-30"
-lastmod: "2026-10-31"
+lastmod: "2026-11-04"
 categories:
  - "blog"
 type: "article"
@@ -41,9 +41,9 @@ Harga ini hanya perkiraan, ya. Untuk mendapatkan penawaran harga terbaru dan pal
 
 ## Memilih Penyedia Jasa Pengecoran yang Terpercaya
 
-Harga memang penting, tapi jangan sampai mengorbankan kualitas! Memilih penyedia jasa pengecoran yang tepat adalah kunci untuk memastikan kekuatan dan ketahanan bangunan Anda. Pastikan penyedia jasa memiliki reputasi baik, pengalaman yang cukup, dan tenaga kerja yang profesional. Perhatikan juga apakah mereka menawarkan layanan lengkap, mulai dari pengadaan material beton readymix, pemasangan besi, hingga proses pengecoran itu sendiri.
+Harga memang penting, tapi jangan sampai mengorbankan kualitas! Memilih penyedia jasa pengecoran yang tepat adalah kunci untuk memastikan kekuatan dan ketahanan bangunan Anda, terutama dengan memahami [proses cor bangunan rumah](/blog/cor-bangunan-rumah/). Pastikan penyedia jasa memiliki reputasi baik, pengalaman yang cukup, dan tenaga kerja yang profesional. Perhatikan juga apakah mereka menawarkan layanan lengkap, mulai dari pengadaan material beton readymix, pemasangan besi, hingga proses pengecoran itu sendiri.
 
-Di Beton Jago, kami hadir sebagai solusi lengkap untuk kebutuhan pengecoran Anda di wilayah Jabodetabek! Kami menyediakan beton readymix berkualitas tinggi, layanan sewa *concrete pump*, dan jasa pengecoran profesional. Kami berkomitmen untuk memberikan layanan terbaik dengan harga yang kompetitif. Kalau Anda tertarik untuk tahu lebih banyak tentang [campuran cor dak rumah untuk kekuatan bangunan maksimal](https://betonjago.com/blog/campuran-cor-dak-rumah/), silakan kunjungi artikel Kami yang lain.
+Di Beton Jago, kami hadir sebagai solusi lengkap untuk kebutuhan pengecoran Anda di wilayah Jabodetabek! [Pelajari lebih lanjut tentang cara membuat rumah cor](/blog/cara-membuat-rumah-cor/) Kami menyediakan beton readymix berkualitas tinggi, layanan sewa *concrete pump*, dan jasa pengecoran profesional. Kami berkomitmen untuk memberikan layanan terbaik dengan harga yang kompetitif. Kalau Anda tertarik untuk tahu lebih banyak tentang [campuran cor dak rumah untuk kekuatan bangunan maksimal](https://betonjago.com/blog/campuran-cor-dak-rumah/), silakan kunjungi artikel Kami yang lain.
 
 ## Tips Hemat Biaya Cor Rumah
 

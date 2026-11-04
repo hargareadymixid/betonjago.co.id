@@ -1,7 +1,7 @@
 ---
 title: "Berapa Biaya Pengecoran Rumah Per Meter Persegi?"
 date: "2026-10-18"
-lastmod: "2026-10-28"
+lastmod: "2026-11-04"
 categories:
  - "blog"
 type: "article"
@@ -62,4 +62,4 @@ Berikut ini tabel perbandingan sederhana antara kedua sistem tersebut:
   </tbody>
 </table>
 
-Ingin tahu lebih banyak dan mendapatkan solusi terbaik untuk proyekmu di (not detected)? Jangan ragu untuk berkonsultasi dengan tim kami! Klik tombol **WhatsApp** atau **Telepon** di bawah dan dapatkan penawaran spesial. [Berapa harga cor rumah per meter kubik saat ini?](/blog/harga-cor-rumah/) — artikel kami ini bisa jadi referensi tambahan juga, lho!
+Ingin tahu lebih banyak dan mendapatkan solusi terbaik untuk proyekmu di (not detected)? [Pelajari juga cara melakukan pengecoran dak rumah](/blog/cara-ngedak-rumah-yang-sudah-jadi/) untuk renovasi atau penambahan lantai. Jangan ragu untuk berkonsultasi dengan tim kami! Klik tombol **WhatsApp** atau **Telepon** di bawah dan dapatkan penawaran spesial. [Berapa harga cor rumah per meter kubik saat ini?](/blog/harga-cor-rumah/) — artikel kami ini bisa jadi referensi tambahan juga, lho!

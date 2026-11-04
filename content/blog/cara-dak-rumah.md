@@ -1,7 +1,7 @@
 ---
 title: "Cara dak rumah benar hindari kesalahan"
 date: "2026-10-20"
-lastmod: "2026-10-21"
+lastmod: "2026-11-04"
 categories:
  - "blog"
 type: "article"
@@ -33,7 +33,7 @@ Tulangan juga punya peran vital. Diameter dan jarak antar tulangan harus sesuai 
 
 ## Hindari Kesalahan Umum Saat Pengecoran Dak
 
-Kesalahan saat pengecoran adalah penyebab utama kerusakan pada dak rumah. Salah satu yang paling sering terjadi adalah kurangnya pemadatan beton. Beton yang kurang padat akan memiliki banyak rongga udara, yang jelas mengurangi kekuatannya. Solusinya? Wajib gunakan vibrator beton untuk memastikan beton terpadat sempurna sebelum mengeras.
+Kesalahan saat pengecoran adalah penyebab utama kerusakan pada dak rumah, dan untuk menghindari [kesalahan umum saat ngecor](/blog/cara-ngecor-rumah/) pastikan Anda mengikuti panduan yang tepat. Salah satu yang paling sering terjadi adalah kurangnya pemadatan beton. Beton yang kurang padat akan memiliki banyak rongga udara, yang jelas mengurangi kekuatannya. Solusinya? Wajib gunakan vibrator beton untuk memastikan beton terpadat sempurna sebelum mengeras.
 
 Kesalahan lain yang sering terlewat adalah perawatan beton setelah pengecoran (curing). *Curing* sangat penting agar beton mengeras maksimal dan mencapai kekuatan optimalnya. Siram air secara rutin selama minimal 7 hari setelah pengecoran, ya.
 
