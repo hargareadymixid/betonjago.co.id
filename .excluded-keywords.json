@@ -1020,5 +1020,19 @@
     "matchedTitle": "Kusen cor beton untuk rumah minimalis yang kuat dan estetik",
     "taggedAt": "2026-11-02T13:56:11.026Z",
     "algoVersion": 3
+  },
+  "biaya cor dak ukuran 5x10": {
+    "reason": "similar to existing article",
+    "matchedFile": "ukuran-cor-dak.md",
+    "matchedTitle": "Ukuran Cor Dak untuk Bangunan Kuat dan Akurat",
+    "taggedAt": "2026-11-05T13:34:05.576Z",
+    "algoVersion": 3
+  },
+  "biaya dak cor ukuran 7x10": {
+    "reason": "similar to existing article",
+    "matchedFile": "ukuran-cor-dak.md",
+    "matchedTitle": "Ukuran Cor Dak untuk Bangunan Kuat dan Akurat",
+    "taggedAt": "2026-11-05T13:34:05.576Z",
+    "algoVersion": 3
   }
 }
