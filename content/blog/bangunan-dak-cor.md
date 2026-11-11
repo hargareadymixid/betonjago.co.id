@@ -1,7 +1,7 @@
 ---
 title: "Bangunan Dak Cor: Panduan Lengkap Material, Proses, dan Biaya di 2026"
 date: "2026-10-12"
-lastmod: "2026-10-13"
+lastmod: "2026-11-11"
 categories:
  - "blog"
 type: "article"
@@ -15,7 +15,7 @@ draft: false
 ---
 **Bangunan Dak Cor: Panduan Lengkap Material, Proses, dan Biaya di 2026** - Hai Mitra Beton Jago! Pernahkah Anda membayangkan kekuatan sebuah bangunan yang berdiri kokoh di atas kepala? Kuncinya seringkali ada pada dak cor yang dibangun dengan benar, lho!
 
-Dak cor, atau lantai beton, adalah pilar penting dalam struktur bangunan. Ia berfungsi sebagai penutup atas yang memberikan keamanan dan fondasi untuk lantai di atasnya. Pengecoran dak yang andal membutuhkan perencanaan teliti, pemilihan bahan baku yang tepat, serta eksekusi yang cermat. Di artikel ini, kita akan menyelami seluk-beluk pembangunan dak cor, mulai dari material yang dibutuhkan, langkah-langkah pengecoran yang benar, perkiraan biaya, hingga panduan memilih penyedia jasa yang tepat. Yuk, simak bersama!
+Dak cor, atau lantai beton, adalah pilar penting dalam struktur bangunan. Ia berfungsi sebagai penutup atas yang memberikan keamanan dan fondasi untuk lantai di atasnya. Pengecoran dak yang andal membutuhkan perencanaan teliti, pemilihan bahan baku yang tepat, serta eksekusi yang cermat. Di artikel ini, kita akan menyelami seluk-beluk pembangunan dak cor, mulai dari material yang dibutuhkan, langkah-langkah pengecoran yang benar, perkiraan biaya, hingga panduan memilih penyedia jasa yang tepat, termasuk [tips penting untuk desain minimalis](/blog/cor-dak-minimalis/). Yuk, simak bersama!
 
 ## Material Utama dalam Pembangunan Bangunan Dak Cor
 
@@ -35,7 +35,7 @@ Setelah bekisting dan tulangan siap, barulah beton bisa dicampur dan dicor. Penc
 
 Perkiraan biaya pembangunan dak cor di 2026 dipengaruhi oleh beberapa faktor. Ukuran area, ketebalan dak, mutu beton yang dipilih, harga material di pasaran, dan upah tukang berpengaruh besar. Secara umum, biaya berkisar antara Rp 350.000 hingga Rp 700.000 per meter persegi. Ingat, ini hanyalah acuan — untuk mendapatkan penawaran harga yang paling akurat, sesuai dengan detail proyek Anda, segera hubungi Kami.
 
-Sebagai gambaran, mari kita hitung estimasi biaya untuk dak cor seluas 50 meter persegi dengan ketebalan 12 cm, menggunakan mutu beton K-300:
+Sebagai gambaran, mari kita hitung estimasi biaya untuk dak cor seluas 50 meter persegi dengan ketebalan 12 cm, menggunakan mutu beton K-300: [cek juga perkiraan harga untuk cor dak murah](/blog/cor-dak-murah/).
 
 *   Biaya material (semen, pasir, kerikil, tulangan): Rp 12.500.000 – Rp 21.000.000
 *   Biaya upah tenaga kerja: Rp 5.000.000 – Rp 10.000.000

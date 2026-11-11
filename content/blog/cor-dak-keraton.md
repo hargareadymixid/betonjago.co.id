@@ -1,7 +1,7 @@
 ---
 title: "Memahami Keunggulan Cor Dak Keraton untuk Konstruksi Kuat"
 date: "2026-10-24"
-lastmod: "2026-11-04"
+lastmod: "2026-11-11"
 categories:
  - "blog"
 type: "article"
@@ -23,7 +23,7 @@ Selain beton, tulang punggung dak adalah tulangan baja (rebar). Tulangan ini men
 
 ## Aplikasi Cor Dak Keraton: Dari Rumah Hingga Bangunan Komersial
 
-Cor dak keraton serbaguna, sangat cocok untuk berbagai proyek konstruksi. Mulai dari rumah tinggal, ruko, sampai bangunan komersial. Banyak yang menggunakannya untuk membuat dak rumah, menciptakan ruang terbuka ekstra di atas bangunan dengan desain [cor dak minimalis terbaru](/blog/cor-dak-minimalis-terbaru/). Selain itu, cor dak keraton ideal untuk balkon, teras, dan area parkir atap.
+Cor dak keraton serbaguna, sangat cocok untuk berbagai proyek konstruksi. Mulai dari rumah tinggal, ruko, sampai bangunan komersial, dan pertimbangkan juga penggunaan [dak cor bondek](/blog/dak-cor-bondek/) untuk efisiensi konstruksi. Banyak yang menggunakannya untuk membuat dak rumah, menciptakan ruang terbuka ekstra di atas bangunan dengan desain [cor dak minimalis terbaru](/blog/cor-dak-minimalis-terbaru/). Selain itu, cor dak keraton ideal untuk balkon, teras, dan area parkir atap.
 
 ![Proses pengecoran dak keraton menggunakan concrete pump](/images/blog/cor-dak-keraton.jpg)
 

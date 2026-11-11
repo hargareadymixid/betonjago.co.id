@@ -1,7 +1,7 @@
 ---
 title: "Rumah Full Cor Beton Jago, Kelebihan Biaya dan Cara Mengatasi Retak"
 date: "2026-11-04"
-lastmod: "2026-11-04"
+lastmod: "2026-11-11"
 categories:
  - "blog"
 type: "article"
@@ -45,7 +45,7 @@ Membangun rumah *full cor* memang butuh perencanaan yang cermat dan proses penge
 
 ## Retak Pada Rumah Full Cor? Jangan Panik! Ini Cara Mengatasinya
 
-Meskipun kuat dan tahan lama, rumah *full cor* tetap bisa mengalami retak. Beberapa penyebabnya antara lain penyusutan beton, beban berlebih, atau kesalahan saat pengecoran. Jangan khawatir! Kalau Anda menemukan retak pada rumah *full cor*, segera perbaiki untuk mencegah kerusakan yang lebih parah.
+Meskipun kuat dan tahan lama, rumah *full cor* tetap bisa mengalami retak. Beberapa penyebabnya antara lain penyusutan beton, beban berlebih, atau kesalahan saat pengecoran, seperti yang sering terjadi pada [cor tangga rumah](/blog/cor-tangga-rumah/). Jangan khawatir! Kalau Anda menemukan retak pada rumah *full cor*, segera perbaiki untuk mencegah kerusakan yang lebih parah.
 
 Ingin tahu lebih detail tentang penyebab retak pada struktur beton dan cara mengatasinya? Mitra bisa membaca artikel kami tentang [Alasan Cor Coran Rumah Retak dan Cara Mengatasinya](/blog/cor-coran-rumah/). Di sana banyak tips bermanfaat!
 
