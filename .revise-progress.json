@@ -463,7 +463,18 @@
     "/categories/pompa/tempat-sewa-pompa-cor-di-sumur-batu-bogor/",
     "/categories/pompa/tempat-sewa-pompa-cor-di-tajur-bogor/",
     "/categories/pompa/tempat-sewa-pompa-cor-di-tanah-tinggi-jakarta/",
-    "/categories/pompa/tempat-sewa-pompa-cor-di-tomang-jakarta/"
+    "/categories/pompa/tempat-sewa-pompa-cor-di-tomang-jakarta/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-gambir-jakarta/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-gobang-bogor/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-gunung-picung-bogor/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-gunung-sindur-bogor/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-jasinga-bogor/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-jatimulya-depok/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-kalibaru-jakarta/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-karet-kuningan-jakarta/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-karihkil-bogor/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-klapanunggal-bogor/",
+    "/categories/readymix/biaya-jasa-cor-mix-di-kotabatu-bogor/"
   ],
   "failed": {
     "/categories/jasa/borongan-cor-rumah-di-cilodong-depok/": 1,
@@ -561,9 +572,14 @@
     "/categories/pompa/tempat-sewa-concrete-pump-di-kebon-kelapa-jakarta/": 1,
     "/categories/pompa/tempat-sewa-concrete-pump-di-sukaharja-bogor/": 2,
     "/categories/pompa/tempat-sewa-pompa-cor-di-cigombong-bogor/": 1,
-    "/categories/pompa/tempat-sewa-pompa-cor-di-karang-asem-barat-bogor/": 1,
-    "/categories/pompa/tempat-sewa-pompa-cor-di-mekar-sari-bogor/": 1,
-    "/categories/pompa/tempat-sewa-pompa-cor-di-parung-panjang-bogor/": 1,
-    "/categories/pompa/tempat-sewa-pompa-cor-di-tajurhalang-bogor/": 1
+    "/categories/pompa/tempat-sewa-pompa-cor-di-karang-asem-barat-bogor/": 2,
+    "/categories/pompa/tempat-sewa-pompa-cor-di-mekar-sari-bogor/": 2,
+    "/categories/pompa/tempat-sewa-pompa-cor-di-parung-panjang-bogor/": 2,
+    "/categories/pompa/tempat-sewa-pompa-cor-di-tajurhalang-bogor/": 2,
+    "/categories/readymix/biaya-jasa-cor-mix-di-cikuda-bogor/": 1,
+    "/categories/readymix/biaya-jasa-cor-mix-di-cipinang-besar-jakarta/": 1,
+    "/categories/readymix/biaya-jasa-cor-mix-di-ciracas-jakarta/": 1,
+    "/categories/readymix/biaya-jasa-cor-mix-di-galuga-bogor/": 1,
+    "/categories/readymix/biaya-jasa-cor-mix-di-kalongsawah-bogor/": 1
   }
 }
