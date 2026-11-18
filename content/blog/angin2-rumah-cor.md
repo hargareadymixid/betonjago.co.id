@@ -1,7 +1,7 @@
 ---
 title: "Angin2 Rumah Cor: Penyebab, Dampak, dan Cara Mengatasi Retak pada Struktur Beton"
 date: "2026-10-12"
-lastmod: "2026-11-11"
+lastmod: "2026-11-18"
 categories:
  - "blog"
 type: "article"
@@ -25,7 +25,7 @@ Penting diingat, proses hidrasi – reaksi kimia antara semen dan air – mengha
 
 Meskipun terlihat kecil, retakan angin2 yang dibiarkan begitu saja dapat menimbulkan dampak negatif. Selain mengurangi nilai estetika bangunan, retakan ini membuka celah bagi air dan zat korosif untuk masuk ke dalam beton. Zat-zat ini bisa mencapai tulangan besi (rebar) dan menyebabkan korosi. Korosi akan melemahkan tulangan, yang pada akhirnya mengurangi kemampuan struktur bangunan dalam menahan beban. 
 
-Dalam kasus ekstrem, retakan yang semakin lebar dapat menyebabkan beton mengelupas (spalling) dan bahkan berpotensi mengakibatkan kegagalan struktural. Oleh karena itu, penting untuk bisa membedakan antara retakan angin2 yang bersifat kosmetik dengan retakan struktural yang mengindikasikan masalah serius, dan untuk memastikan halaman rumah Anda tidak mengalami masalah serupa, pelajari cara [memahami harga dak beton jadi](/blog/harga-dak-beton-jadi/) untuk struktur yang kuat dan tahan lama. Retakan struktural biasanya lebih lebar, lebih dalam, dan seringkali memiliki pola yang jelas. Jika Mitra menemukan retakan seperti ini, segera konsultasikan dengan tenaga ahli konstruksi.
+Dalam kasus ekstrem, retakan yang semakin lebar dapat menyebabkan beton mengelupas (spalling) dan bahkan berpotensi mengakibatkan kegagalan struktural. Oleh karena itu, penting untuk bisa membedakan antara retakan angin2 yang bersifat kosmetik dengan retakan struktural yang mengindikasikan masalah serius, dan untuk memastikan halaman rumah Anda tidak mengalami masalah serupa, pelajari cara [meningkatkan rumah tanpa cor](/blog/meningkat-rumah-tanpa-cor/) untuk solusi yang lebih efisien. Retakan struktural biasanya lebih lebar, lebih dalam, dan seringkali memiliki pola yang jelas. Jika Mitra menemukan retakan seperti ini, segera konsultasikan dengan tenaga ahli konstruksi.
 
 ![Ilustrasi retak rambut pada dinding beton rumah](/images/blog/angin2-rumah-cor.jpg)
 

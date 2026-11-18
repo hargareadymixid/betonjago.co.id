@@ -1,7 +1,7 @@
 ---
 title: "Cara Ngecor Dak yang Sering Salah dan Biaya Beton Jago Jabodetabek"
 date: "2026-10-22"
-lastmod: "2026-10-22"
+lastmod: "2026-11-18"
 categories:
  - "blog"
 type: "article"
@@ -50,6 +50,6 @@ Berikut adalah tabel estimasi biaya pengecoran dak untuk beberapa ukuran umum:
 
 Ingin pengecoran lebih efisien dan praktis? Gunakan *concrete pump*! Alat ini bisa memompa beton langsung ke lokasi pengecoran, bahkan yang sulit dijangkau. Beton Jago menyediakan layanan sewa *concrete pump* dengan berbagai kapasitas untuk menyesuaikan kebutuhan proyek Anda. Selain itu, Kami juga menawarkan layanan jasa pengecoran beton yang dikerjakan oleh tenaga ahli berpengalaman di (not detected).
 
-Intinya, cara ngecor dak yang baik membutuhkan perencanaan matang, material berkualitas, dan tenaga kerja yang kompeten. Dengan memperhatikan hal-hal ini, Mitra Beton Jago bisa mendapatkan dak bangunan yang kuat, awet, dan aman. Jangan lupa juga untuk selalu merujuk pada standar SNI yang berlaku. [Biaya Buat Dak Beton: Estimasi Lengkap & Tips Hemat 2026](/blog/biaya-buat-dak-beton/) — artikel ini bisa jadi panduan tambahan dalam memperkirakan budget proyek Anda.
+Intinya, cara ngecor dak yang baik membutuhkan perencanaan matang, material berkualitas, dan tenaga kerja yang kompeten, termasuk mempertimbangkan penggunaan [dak beton ringan](/blog/dak-beton-ringan/) untuk konstruksi yang lebih efisien. Dengan memperhatikan hal-hal ini, Mitra Beton Jago bisa mendapatkan dak bangunan yang kuat, awet, dan aman. Jangan lupa juga untuk selalu merujuk pada standar SNI yang berlaku. [Biaya Buat Dak Beton: Estimasi Lengkap & Tips Hemat 2026](/blog/biaya-buat-dak-beton/) — artikel ini bisa jadi panduan tambahan dalam memperkirakan budget proyek Anda.
 
 Butuh bantuan lebih lanjut untuk proyek Mitra Beton Jago? Klik tombol **WhatsApp** atau **Telepon** di bawah untuk konsultasi gratis dengan tim Kami!

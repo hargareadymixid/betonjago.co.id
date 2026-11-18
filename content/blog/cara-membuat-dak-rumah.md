@@ -1,7 +1,7 @@
 ---
 title: "Cara Membuat Dak Rumah Kuat Tahan Lama Hindari Kesalahan Umum"
 date: "2026-10-21"
-lastmod: "2026-11-04"
+lastmod: "2026-11-18"
 categories:
  - "blog"
 type: "article"
@@ -18,7 +18,7 @@ draft: false
 ### Memahami Fungsi dan Jenis Dak Rumah
 Dak rumah itu penting banget, lho! Fungsinya bukan cuma melindungi bangunan dari panas, hujan, dan angin, tapi juga bisa jadi dasar untuk menambah lantai di masa depan. Jadi, memilih jenis dak yang tepat itu krusial. Ada dua jenis dak yang paling sering digunakan: dak beton bertulang dan dak ringan.
 
-Dak beton bertulang adalah pilihan paling populer karena kekuatannya yang sudah terbukti. Bahannya terdiri dari beton berkualitas tinggi yang diperkuat dengan besi tulangan. Sementara itu, dak ringan menggunakan bahan seperti keramik atau genteng yang dipadukan dengan rangka baja ringan. Pertimbangan biaya, beban bangunan, dan ketahanan adalah kunci memilih jenis dak yang paling sesuai.
+Dak beton bertulang adalah pilihan paling populer karena kekuatannya yang sudah terbukti. Bahannya terdiri dari beton berkualitas tinggi yang diperkuat dengan besi tulangan. Sementara itu, dak ringan menggunakan bahan seperti keramik atau genteng yang dipadukan dengan rangka baja ringan. Pertimbangan biaya, beban bangunan, dan ketahanan adalah kunci memilih jenis dak yang paling sesuai, termasuk memastikan [ketebalan cor dak yang ideal](/blog/ketebalan-cor-dak/) untuk kekuatan optimal.
 
 ### Menentukan Material dan Anggaran untuk Pembangunan Dak
 Setelah tahu jenis daknya, sekarang kita bicarakan material dan anggaran. Untuk dak beton bertulang, beton dengan mutu minimal K-250 (sesuai standar SNI) sangat kami rekomendasikan. Konsultasikan dengan ahlinya ya, agar mutu betonnya benar-benar pas dengan beban yang akan ditanggung. Jangan lupa, pemilihan besi tulangan juga penting. Diameter dan jarak antar tulangan akan menentukan kekuatan dak secara keseluruhan.
