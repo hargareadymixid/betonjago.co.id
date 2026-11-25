@@ -1,6 +1,7 @@
 ---
 title: "Cara cor rumah benar Beton Jago"
 date: "2026-10-20"
+lastmod: "2026-11-25"
 categories:
  - "blog"
 type: "article"
@@ -17,7 +18,7 @@ draft: false
 
 ## Persiapan Bekisting yang Kurang Matang: Akar Masalah Utama
 
-Mitra Beton Jago, persiapan bekisting seringkali menjadi langkah yang terlewatkan. Bekisting yang tidak kuat, tidak rapat, atau tidak stabil dapat menyebabkan beton meluber, bentuk tidak sesuai desain, bahkan retak saat proses pengerasan. Pastikan bekisting terbuat dari material yang cukup kuat (kayu kelas I atau baja), terpasang dengan kokoh, dan telah dilapisi minyak bekisting agar mudah dilepas setelah beton mengeras.
+Mitra Beton Jago, persiapan bekisting seringkali menjadi langkah yang terlewatkan. Bekisting yang tidak kuat, tidak rapat, atau tidak stabil dapat menyebabkan beton meluber, bentuk tidak sesuai desain, bahkan retak saat proses pengerasan. Pastikan bekisting terbuat dari material yang cukup kuat (kayu kelas I atau baja), terpasang dengan kokoh, dan telah dilapisi minyak bekisting agar mudah dilepas setelah beton mengeras, terutama jika Anda mempertimbangkan [kusen cor beton untuk rumah minimalis](/blog/kusen-cor-beton/) yang kuat dan estetik.
 
 Perhatikan juga kerapatan sambungan bekisting. Gunakan paku atau sekrup yang cukup untuk mencegah beton merembes keluar. Ketidaksempurnaan pada bekisting tidak hanya memengaruhi estetika, tetapi juga kekuatan struktur.  Selain itu, periksa kelurusan dan ketinggian bekisting sebelum pengecoran. 
 

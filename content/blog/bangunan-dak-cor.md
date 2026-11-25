@@ -1,7 +1,7 @@
 ---
 title: "Bangunan Dak Cor: Panduan Lengkap Material, Proses, dan Biaya di 2026"
 date: "2026-10-12"
-lastmod: "2026-11-11"
+lastmod: "2026-11-25"
 categories:
  - "blog"
 type: "article"
@@ -35,7 +35,7 @@ Setelah bekisting dan tulangan siap, barulah beton bisa dicampur dan dicor. Penc
 
 Perkiraan biaya pembangunan dak cor di 2026 dipengaruhi oleh beberapa faktor. Ukuran area, ketebalan dak, mutu beton yang dipilih, harga material di pasaran, dan upah tukang berpengaruh besar. Secara umum, biaya berkisar antara Rp 350.000 hingga Rp 700.000 per meter persegi. Ingat, ini hanyalah acuan — untuk mendapatkan penawaran harga yang paling akurat, sesuai dengan detail proyek Anda, segera hubungi Kami.
 
-Sebagai gambaran, mari kita hitung estimasi biaya untuk dak cor seluas 50 meter persegi dengan ketebalan 12 cm, menggunakan mutu beton K-300: [cek juga perkiraan harga untuk cor dak murah](/blog/cor-dak-murah/).
+Sebagai gambaran, mari kita hitung estimasi biaya untuk dak cor seluas 50 meter persegi dengan ketebalan 12 cm, menggunakan mutu beton K-300: [kenali juga opsi pengganti cor dak yang lebih ringan dan ekonomis](/blog/pengganti-cor-dak/).
 
 *   Biaya material (semen, pasir, kerikil, tulangan): Rp 12.500.000 – Rp 21.000.000
 *   Biaya upah tenaga kerja: Rp 5.000.000 – Rp 10.000.000

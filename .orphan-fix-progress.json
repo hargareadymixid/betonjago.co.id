@@ -41,13 +41,18 @@
     "/blog/jenis-dak-rumah/",
     "/blog/ketebalan-cor-dak/",
     "/blog/membuat-dak-rumah/",
-    "/blog/meningkat-rumah-tanpa-cor/"
+    "/blog/meningkat-rumah-tanpa-cor/",
+    "/blog/kusen-cor-beton/",
+    "/blog/ngecor-rumah-murah/",
+    "/blog/ngecor-rumah-saat-hujan/",
+    "/blog/pengganti-cor-dak/",
+    "/blog/rumah-full-cor/"
   ],
   "failed": {
     "/blog/biaya-cor-dak-3x6/": 1,
     "/blog/biaya-cor-dak-4x6/": 1,
     "/blog/biaya-ngedak-rumah/": 1,
-    "/blog/pompa-beton-standar/": 1,
+    "/blog/pompa-beton-standar/": 2,
     "/blog/biaya-dak-rumah-ukuran-6x12/": 1,
     "/blog/biaya-ngecor-rumah/": 1,
     "/blog/biaya-pengecoran-rumah/": 2,
@@ -56,8 +61,11 @@
     "/blog/cara-membuat-rumah-cor/": 1,
     "/blog/dak-beton-ringan/": 1,
     "/blog/garasi-cor-dak/": 2,
-    "/blog/harga-timba-bangunan/": 1,
+    "/blog/harga-timba-bangunan/": 2,
     "/blog/kusen-cor-beton/": 1,
-    "/blog/ngecor-rumah-murah/": 1
+    "/blog/ngecor-rumah-murah/": 1,
+    "/blog/ngecor-rumah-praktis/": 1,
+    "/blog/perbandingan-cor-dak/": 1,
+    "/blog/perkiraan-biaya-dak-rumah/": 1
   }
 }

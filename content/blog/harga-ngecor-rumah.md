@@ -1,7 +1,7 @@
 ---
 title: "Harga ngecor rumah Jabodetabek per meter kubik"
 date: "2026-10-30"
-lastmod: "2026-10-30"
+lastmod: "2026-11-25"
 categories:
  - "blog"
 type: "article"
@@ -56,4 +56,4 @@ Mau menekan biaya pengecoran rumah tanpa mengurangi kualitas? Ini dia beberapa t
 *   **Bandingkan Harga:** Selalu minta penawaran dari beberapa penyedia beton readymix dan jasa pengecoran untuk dapatkan harga terbaik.
 *   **Pertimbangkan Concrete Pump:** Buat proyek besar atau lokasi sulit dijangkau, concrete pump bisa jadi solusi hemat biaya tenaga kerja dan waktu.
 
-Butuh saran lebih lanjut atau ingin konsultasi gratis? Jangan sungkan untuk menghubungi Kami melalui tombol **Telepon** atau **WhatsApp** yang ada di bawah halaman ini. Kami siap membantu Mitra Beton Jago di (not detected)! [Berapa harga cor rumah per meter kubik saat ini?](/blog/harga-cor-rumah/) — cek juga artikel kami tentang estimasi harga cor rumah untuk informasi tambahan.
+Butuh saran lebih lanjut atau ingin konsultasi gratis? Jangan sungkan untuk menghubungi Kami melalui tombol **Telepon** atau **WhatsApp** yang ada di bawah halaman ini. [Cek juga tips ngecor rumah murah](/blog/ngecor-rumah-murah/) agar proyek Mitra lebih hemat biaya. Kami siap membantu Mitra Beton Jago di (not detected)! [Berapa harga cor rumah per meter kubik saat ini?](/blog/harga-cor-rumah/) — cek juga artikel kami tentang estimasi harga cor rumah untuk informasi tambahan.
